@@ -1,0 +1,1813 @@
+,personName,Country of birth,Self-made
+0,Elon Musk,South Africa,Yes
+1,Jeff Bezos,United States,Yes
+2,Larry Ellison,United States,Yes
+3,Warren Buffett,United States,Yes
+4,Bill Gates,United States,Yes
+5,Michael Bloomberg,United States,Yes
+6,Carlos Slim Helu,Mexico,
+7,Steve Ballmer,United States,Yes
+8,Larry Page,United States,Yes
+9,Amancio Ortega,Spain,Yes
+10,Sergey Brin,Russia,Yes
+11,Zhong Shanshan,China,Yes
+12,Mark Zuckerberg,United States,Yes
+13,Michael Dell,United States,Yes
+14,Gautam Adani,India,Yes
+15,Phil Knight,United States,Yes
+16,Zhang Yiming,China,Yes
+17,François Pinault,France,
+18,Li Ka-shing,Hong Kong,Yes
+19,Ma Huateng,China,Yes
+20,Ken Griffin,United States,Yes
+21,Robin Zeng,China,Yes
+22,Tadashi Yanai,Japan,
+23,Len Blavatnik,Ukraine,
+24,Gianluigi Aponte,Italy,Yes
+25,Rafaela Aponte-Diamant,Italy,Yes
+26,Colin Zheng Huang,China,Yes
+27,Reinhold Wuerth,Germany,Yes
+28,Lee Shau Kee,Hong Kong,
+29,Jeff Yass,United States,Yes
+30,Jim Simons,United States,Yes
+31,Stephen Schwarzman,United States,Yes
+32,William Ding,China,Yes
+33,Shiv Nadar,India,Yes
+34,Low Tuck Kwong,Indonesia,Yes
+35,Thomas Peterffy,Hungary,Yes
+36,Andrey Melnichenko,Russia,Yes
+37,Vladimir Potanin,Russia,
+38,Jack Ma,China,Yes
+39,He Xiangjian,China,Yes
+40,James Ratcliffe,United Kingdom,Yes
+41,Masayoshi Son,Japan,Yes
+42,Vladimir Lisin,Russia,
+43,Leonid Mikhelson,Russia,
+44,Wang Wei,China,Yes
+45,Jensen Huang,Taiwan,Yes
+46,Takemitsu Takizaki,Japan,Yes
+47,Alexey Mordashov,Russia,
+48,Vagit Alekperov,Azerbaijan,
+49,Thomas Frist Jr. & famiglia,United States,
+50,Andrew Forrest,Australia,Yes
+51,Ray Dalio,United States,Yes
+52,Eric Li,China,Yes
+53,Wang Wenyin,China,Yes
+54,Qin Yinglin,China,Yes
+55,Wang Chuanfu,China,Yes
+56,Harold Hamm & famiglia,United States,Yes
+57,David Tepper,United States,Yes
+58,Gennady Timchenko,Armenia,
+59,Daniel Gilbert,United States,Yes
+60,Steve Cohen,United States,Yes
+61,Carl Icahn,United States,Yes
+62,Donald Bren,United States,
+63,John Menard Jr.,United States,Yes
+64,Li Xiting,China,Yes
+65,Eric Schmidt,United States,
+66,Michael Platt,United Kingdom,Yes
+67,Pang Kang,China,Yes
+68,Jorge Paulo Lemann & famiglia,Brazil,
+69,Dilip Shanghvi,India,Yes
+70,Robert Pera,United States,Yes
+71,Radhakishan Damani,India,Yes
+72,Huang Shilin,China,Yes
+73,David Green & famiglia,United States,
+74,Charoen Sirivadhanabhakdi,Thailand,Yes
+75,Xu Hang,China,Yes
+76,Wei Jianjun & famiglia,China,Yes
+77,Alisher Usmanov,Uzbekistan,
+78,Goh Cheng Liang,Singapore,Yes
+79,Aliko Dangote,Nigeria,Yes
+80,Chen Bang,China,Yes
+81,Lui Che Woo,China,
+82,John Fredriksen,Norway,Yes
+83,Diane Hendricks,United States,Yes
+84,Jan Koum,Ukraine,Yes
+85,Jerry Jones,United States,Yes
+86,Joseph Lau,Hong Kong,
+87,Lu Xiangyang,China,Yes
+88,Harry Triguboff,China,Yes
+89,Uday Kotak,India,Yes
+90,Stanley Kroenke,United States,
+91,Mikhail Fridman,Ukraine,
+92,Sarath Ratanavadi,Thailand,Yes
+93,Dang Yanbao,China,Yes
+94,Jiang Rensheng & famiglia,China,Yes
+95,Shahid Khan,Pakistan,Yes
+96,Robert Kuok,Malaysia,
+97,Stephen Ross,United States,Yes
+98,Pavel Durov,Russia,Yes
+99,Andreas Struengmann & famiglia,Germany,
+100,Thomas Struengmann & famiglia,Germany,
+101,Liu Hanyuan,China,Yes
+102,Michael Rubin,United States,Yes
+103,Israel Englander,United States,Yes
+104,Viatcheslav Kantor,Russia,Yes
+105,Mikhail Prokhorov,Russia,Yes
+106,Giorgio Armani,Italy,Yes
+107,Gong Hongjia & famiglia,China,Yes
+108,Zhang Zhidong,China,Yes
+109,Judy Love & famiglia,United States,Yes
+110,Robert Kraft,United States,Yes
+111,Marcel Herrmann Telles,Brazil,Yes
+112,Suleiman Kerimov & famiglia,Russia,
+113,Sky Xu,China,Yes
+114,Changpeng Zhao,China,Yes
+115,Andrew Beal,United States,Yes
+116,Mike Cannon-Brookes,Australia,Yes
+117,David Duffield,United States,Yes
+118,Jeffery Hildebrand,United States,Yes
+119,Viktor Rashnikov,Russia,
+120,Eduardo Saverin,Brazil,Yes
+121,Scott Farquhar,Australia,Yes
+122,Wu Yajun,China,Yes
+123,Autry Stephens,United States,Yes
+124,Liu Yongxing,China,Yes
+125,Vinod Adani,India,
+126,Melker Schorling & famiglia,Sweden,
+127,Andrei Guriev & famiglia,Russia,
+128,Michael Kim,South Korea,Yes
+129,Lei Jun,China,Yes
+130,Sun Piaoyang,China,Yes
+131,Jin Baofang,China,Yes
+132,Luo Liguo & famiglia,China,Yes
+133,Jim Pattison,Canada,Yes
+134,Wang Xing,China,Yes
+135,Brian Chesky,United States,Yes
+136,James Dyson,United Kingdom,Yes
+137,Roman Abramovich & famiglia,Russia,
+138,Daniel Kretinsky,Czech Republic,Yes
+139,John Malone,United States,Yes
+140,Charles Schwab,United States,Yes
+141,Eric Smidt,United States,Yes
+142,David Cheriton,Canada,Yes
+143,Ivan Glasenberg,South Africa,Yes
+144,Anthony von Mandl,Canada,Yes
+145,Wang Liping & famiglia,China,Yes
+146,Tatyana Bakalchuk,Russia,Yes
+147,John Doerr,United States,Yes
+148,Richard Liu,China,Yes
+149,Dustin Moskovitz,United States,Yes
+150,Pierre Omidyar,France,Yes
+151,Pei Zhenhua,China,Yes
+152,Chen Jianhua,China,Yes
+153,Leon Black,United States,Yes
+154,Graeme Hart,New Zealand,Yes
+155,Hasso Plattner & famiglia,Germany,Yes
+156,Carlos Alberto Sicupira,Brazil,Yes
+157,Manuel Villar,Philippines,Yes
+158,Andreas von Bechtolsheim,Germany,Yes
+159,"Chase Coleman, III.",United States,
+160,Li Zhenguo & famiglia,China,Yes
+161,John Morris,United States,Yes
+162,Francis Choi,Hong Kong,Yes
+163,German Khan,Ukraine,
+164,George Roberts,United States,Yes
+165,Wang Jianlin,China,
+166,Tilman Fertitta,United States,Yes
+167,Karel Komarek,Czech Republic,Yes
+168,Nathan Blecharczyk,United States,Yes
+169,Leonid Fedun,Russia,
+170,Bernard Marcus,United States,Yes
+171,Patrick Ryan,United States,Yes
+172,Robert F. Smith,United States,Yes
+173,Pavel Tykac,Czech Republic,Yes
+174,Orlando Bravo,United States,Yes
+175,Ding Shizhong,China,Yes
+176,Ramzi Musallam,United States,Yes
+177,David Shaw,United States,Yes
+178,Andrei Skoch & famiglia,Russia,
+179,Georg Stumpf,Austria,Yes
+180,Rocco Commisso,Italy,Yes
+181,Li Shuirong & famiglia,China,Yes
+182,Lin Shu-hong,China,Yes
+183,Qi Shi & famiglia,China,Yes
+184,Yao Liangsong,China,Yes
+185,Zhang Congyuan,Taiwan,Yes
+186,David Geffen,United States,Yes
+187,Robin Li,China,Yes
+188,Liu Yonghao & famiglia,China,Yes
+189,Henry Samueli,United States,Yes
+190,Reinhold Schmieding,Germany,Yes
+191,Ivar Tollefsen,Norway,Yes
+192,Cao Renxian,China,Yes
+193,Hasmukh Chudgar & famiglia,India,Yes
+194,Andrew Currie,United Kingdom,Yes
+195,Joe Gebbia,United States,Yes
+196,John Reece,United Kingdom,Yes
+197,Joseph Tsai,Taiwan,Yes
+198,Zhong Huijuan,China,Yes
+199,Arthur Blank,United States,Yes
+200,Ding Shijia,China,Yes
+201,Paul Tudor Jones II,United States,Yes
+202,Henry Kravis,United States,Yes
+203,Zhang Yong,China,Yes
+204,James Goodnight,United States,Yes
+205,Ma Jianrong,China,Yes
+206,Steven Rales,United States,Yes
+207,Harry Stine,United States,Yes
+208,Iskander Makhmudov,Russia,Yes
+209,Wang Laichun,China,Yes
+210,Arthur Dantchik,United States,Yes
+211,Terry Gou,Taiwan,Yes
+212,Jeff Greene,United States,Yes
+213,Don Hankey,United States,Yes
+214,Richard Kinder,United States,Yes
+215,Guillaume Pousaz,Switzerland,Yes
+216,Zong Qinghou,China,Yes
+217,Judy Faulkner,United States,Yes
+218,Johann Graf,Austria,Yes
+219,Liang Wengen,China,Yes
+220,Zhang Hejun,China,Yes
+221,Marc Benioff,United States,Yes
+222,Dmitri Bukhman,Russia,Yes
+223,Igor Bukhman,Russia,Yes
+224,Jack Dangermond,United States,Yes
+225,Ralph Lauren,United States,Yes
+226,J. Christopher Reyes,United States,
+227,Jude Reyes,United States,
+228,Don Vultaggio & famiglia,United States,Yes
+229,Philippe Laffont,Switzerland,Yes
+230,Liu Jincheng & famiglia,China,Yes
+231,Igor Olenicoff,Russia,Yes
+232,Silvio Berlusconi & famiglia,Italy,Yes
+233,Denise Coates,United Kingdom,Yes
+234,Yuri Milner,Russia,Yes
+235,Gordon Moore,United States,Yes
+236,John Overdeck,United States,Yes
+237,David Siegel,United States,Yes
+238,Viktor Vekselberg,Ukraine,
+239,Wang Laisheng,China,Yes
+240,Ken Fisher,United States,Yes
+241,Christopher Hohn,United Kingdom,Yes
+242,Li Ping,China,Yes
+243,Lin Jianhua,China,Yes
+244,Xavier Niel,France,Yes
+245,Terrence Pegula,United States,Yes
+246,John A. Sobrato & famiglia,United States,
+247,George Soros,Hungary,Yes
+248,David Sun,Taiwan,Yes
+249,John Tu,Taiwan,Yes
+250,Xu Shihui,China,Yes
+251,Bruce Kovner,United States,Yes
+252,Henry Nicholas III,United States,Yes
+253,David Bonderman,United States,Yes
+254,Nathan Kirsh,Eswatini,Yes
+255,David Reuben,United Kingdom,Yes
+256,Simon Reuben,United Kingdom,Yes
+257,Radovan Vitek,Czech Republic,Yes
+258,Carl Bennet,Sweden,Yes
+259,Stephen Bisciotti,United States,Yes
+260,Stanley Druckenmiller,United States,Yes
+261,Jian Jun,China,Yes
+262,Alexei Kuzmichev,Russia,Yes
+263,Dmitry Rybolovlev & famiglia,Russia,
+264,Luis Carlos Sarmiento,Colombia,Yes
+265,Dennis Washington,United States,Yes
+266,Gao Jifan & famiglia,China,Yes
+267,John Grayken,United States,Yes
+268,Wang Yusuo & famiglia,China,Yes
+269,Stef Wertheimer & famiglia,Israel,Yes
+270,Gustaf Douglas,Sweden,
+271,Frits Goldschmeding,Netherlands,
+272,Lin Muqin & famiglia,China,Yes
+273,Ruan Liping,China,Yes
+274,Ruan Xueping,China,Yes
+275,Michal Solowow,Poland,Yes
+276,Mike Adenuga,Nigeria,Yes
+277,Tom Gores,United States,Yes
+278,Sunil Mittal,India,Yes
+279,Zhou Qunfei,China,Yes
+280,Alexander Abramov,Russia,Yes
+281,Rene Benko,Austria,Yes
+282,Neil Bluhm,United States,Yes
+283,Alain Bouchard,Canada,Yes
+284,Jay Chaudhry,India,Yes
+285,Gopikishan Damani,India,Yes
+286,Joe Lewis,United Kingdom,Yes
+287,Frank Lowy,Slovakia,Yes
+288,Michael Milken,United States,Yes
+289,David Steward,United States,Yes
+290,Les Wexner & famiglia,United States,
+291,Cai Kui,China,Yes
+292,Andreas Halvorsen,Norway,Yes
+293,Antony Ressler,United States,Yes
+294,Josh Harris,United States,Yes
+295,Patrick Soon-Shiong,South Africa,Yes
+296,Rinat Akhmetov,Ukraine,
+297,John Brown,United States,Yes
+298,Clive Calder,South Africa,Yes
+299,Lai Meisong,China,Yes
+300,Ken Langone,United States,Yes
+301,Li Ge,China,Yes
+302,Teddy Sagi,Israel,Yes
+303,Seo Jung-jin,South Korea,Yes
+304,Wu Jianshu,China,Yes
+305,Pierre Chen,Taiwan,Yes
+306,John Collison,Ireland,Yes
+307,Patrick Collison,Ireland,Yes
+308,Archie Aldis Emmerson,United States,Yes
+309,Jiang Weiping,China,Yes
+310,Wolfgang Marguerre,Germany,
+311,Mitchell Rales,United States,Yes
+312,Jean Salata,Canada,Yes
+313,Paul Singer,United States,Yes
+314,Sergio Stevanato,Italy,
+315,Richard White,Australia,Yes
+316,Zhao Yan,China,Yes
+317,Patrizio Bertelli,Italy,Yes
+318,Leo Koguan,Indonesia,Yes
+319,Miao Hangen,China,Yes
+320,Michael Pieper,Switzerland,
+321,Todd Boehly,United States,Yes
+322,Rick Caruso,United States,Yes
+323,Ibrahim Erdemoglu,Turkey,Yes
+324,Douglas Leone,Italy,Yes
+325,Lynda Resnick,United States,
+326,Stewart Resnick,United States,
+327,Mark Walter,United States,Yes
+328,Ronald Wanek,United States,Yes
+329,Erich Wesjohann,Germany,
+330,M.A. Yusuff Ali,India,Yes
+331,Alexandre Behring,Brazil,Yes
+332,Cheng Xue,China,Yes
+333,Robert Faith,United States,Yes
+334,Gao Dekang,China,Yes
+335,Ananda Krishnan,Malaysia,Yes
+336,Barry Lam,Taiwan,Yes
+337,Mark Scheinberg,Israel,Yes
+338,Charles Simonyi,Hungary,Yes
+339,Ty Warner,United States,Yes
+340,Sam Zell,United States,Yes
+341,Fang Wei,China,Yes
+342,Kwon Hyuk-bin,South Korea,Yes
+343,Sami Mnaymneh,Lebanon,Yes
+344,Kjell Inge Rokke,Norway,Yes
+345,Tony Tamer,United States,Yes
+346,Tse Ping,China,
+347,Romesh T. Wadhwani,India,Yes
+348,Hansjoerg Wyss,Switzerland,Yes
+349,Ron Baron,United States,Yes
+350,Alexander Gerko,Russia,Yes
+351,Robert Hale Jr.,United States,Yes
+352,Viktor Kharitonin,Russia,
+353,Kim Beom-su,South Korea,Yes
+354,George Lucas,United States,Yes
+355,Ugur Sahin,Turkey,Yes
+356,Chip Wilson,Canada,Yes
+357,Jim Davis,United States,Yes
+358,Murali Divi,India,Yes
+359,Marcos Galperin,Argentina,Yes
+360,Tom Golisano,United States,Yes
+361,Jonathan Gray,United States,Yes
+362,Bidzina Ivanishvili,Georgia,
+363,Lim Hariyanto Wijaya Sarwono,Indonesia,Yes
+364,Rudolf Maag,Switzerland,Yes
+365,Dan Snyder,United States,Yes
+366,Chairul Tanjung,Indonesia,Yes
+367,Kelcy Warren,United States,Yes
+368,Zhang Tao,China,Yes
+369,Michael Ashley,United Kingdom,Yes
+370,Tomasz Biernacki,Poland,Yes
+371,Bernard Broermann,Germany,
+372,Vinod Khosla,India,Yes
+373,Thai Lee,South Korea,Yes
+374,Horst Julius Pudwill,Germany,Yes
+375,Yu Yong,China,Yes
+376,Jason Chang,Taiwan,Yes
+377,Ali Erdemoglu,Turkey,Yes
+378,Andre Esteves,Brazil,Yes
+379,Li Gaiteng,China,Yes
+380,Thomas Secunda,United States,Yes
+381,Zuowen Song,China,Yes
+382,Tim Sweeney,United States,Yes
+383,Bert Beveridge,United States,Yes
+384,Mark Cuban,United States,Yes
+385,Charles Dolan,United States,
+386,Jack Dorsey,United States,Yes
+387,Fan Hongwei,China,Yes
+388,Vladimir Kim,Kazakhstan,Yes
+389,Li Chunan,China,Yes
+390,Forrest Li,Singapore,Yes
+391,Issad Rebrab,Algeria,Yes
+392,Fred Smith,United States,Yes
+393,Barry Sternlicht,United States,Yes
+394,Russ Weiner,United States,Yes
+395,Xue Min,China,Yes
+396,Dietmar Hopp,Germany,
+397,Jiang Bin,China,Yes
+398,Joseph Liemandt,United States,Yes
+399,N.R. Narayana Murthy,India,Yes
+400,Marc Rowan,United States,Yes
+401,Hussain Sajwani,United Arab Emirates,Yes
+402,David Velez,Colombia,Yes
+403,Xu Jinfu,China,Yes
+404,You Xiaoping,China,Yes
+405,Stéphane Bancel,France,Yes
+406,Neal Blue,United States,Yes
+407,Jim Davis,United States,
+408,Peter Grogg,Switzerland,Yes
+409,Mangal Prabhat Lodha,India,Yes
+410,Joe Mansueto,United States,Yes
+411,Qian Dongqi,China,Yes
+412,Mikhail Shelkov,Russia,
+413,Patrick Drahi,France,Yes
+414,Behdad Eghbali,Iran,Yes
+415,Juan Carlos Escotet,Venezuela,Yes
+416,Jose E. Feliciano,United States,Yes
+417,Hu Kaijun,China,Yes
+418,Johnelle Hunt,United States,Yes
+419,Marian Ilitch,United States,Yes
+420,Daryl Katz,Canada,Yes
+421,Andrei Kozitsyn,Russia,
+422,Timur Kulibaev,Kazakhstan,
+423,Ian Livingstone,United Kingdom,Yes
+424,Richard Livingstone,United Kingdom,Yes
+425,Jay Paul,United States,Yes
+426,Pham Nhat Vuong,Vietnam,Yes
+427,Frank Wang,China,Yes
+428,Wang Junshi,China,Yes
+429,Wang Wenjing,China,Yes
+430,Herbert Wertheim,United States,Yes
+431,Pyotr Aven,Russia,
+432,Chan Laiwa,China,Yes
+433,Chen Hua,China,Yes
+434,Dewi Kam,Indonesia,Yes
+435,Min Kao,Taiwan,Yes
+436,Marc Ladreit de Lacharriere,France,
+437,Eric Lefkofsky,United States,Yes
+438,Lin Bin,China,Yes
+439,Lin Li,China,Yes
+440,Michael Moritz,United Kingdom,Yes
+441,Jeff Skoll,Canada,Yes
+442,Djoko Susanto,Indonesia,Yes
+443,Tahir,Pakistan,Yes
+444,Peter Thiel,Germany,Yes
+445,Andrej Babis,Czech Republic,Yes
+446,Nick Caporella,United States,Yes
+447,John Catsimatidis,Greece,Yes
+448,Scott Cook,United States,Yes
+449,Hong Jie,China,Yes
+450,Igor Kesaev,Russia,
+451,Arturo Moreno,United States,Yes
+452,Peter Spuhler,Switzerland,Yes
+453,Donald Sterling,United States,Yes
+454,Kerry Stokes,Australia,Yes
+455,Ken Xie,China,Yes
+456,Liangzhi Xie,China,Yes
+457,Ben Chestnut,United States,Yes
+458,Guangchang Guo,China,Yes
+459,John Henry,United States,Yes
+460,Travis Kalanick,United States,Yes
+461,Koon Poh Keong,Malaysia,Yes
+462,Dan Kurzius,United States,Yes
+463,Paul Lee,United States,Yes
+464,Tobi Lutke,Germany,Yes
+465,Gail Miller,United States,
+466,Isaac Perlmutter,Israel,Yes
+467,Shaul Shani,Israel,Yes
+468,Steven Spielberg,United States,Yes
+469,Jerzy Starak,Poland,Yes
+470,Torbjorn Tornqvist,Sweden,Yes
+471,Rufino Vigil Gonzalez,Mexico,Yes
+472,Zhang Daocai,China,Yes
+473,Vanich Chaiyawan,Thailand,
+474,Chen Dongsheng,China,Yes
+475,Guenther Fielmann,Germany,
+476,Jorge Moll Filho,Brazil,Yes
+477,Gabe Newell,United States,Yes
+478,Ruan Hongliang,China,Yes
+479,Mark Stevens,United States,Yes
+480,Wu Yiling,China,Yes
+481,Yu Renrong,China,Yes
+482,Zhu Baoguo,China,Yes
+483,Francesco Caltagirone,Italy,
+484,Barry Diller,United States,Yes
+485,Wesley Edens,United States,Yes
+486,Stephen Feinberg,United States,Yes
+487,Rakesh Gangwal,India,Yes
+488,Joseph Grendys,United States,Yes
+489,Li Xiang,China,Yes
+490,Trevor Rees-Jones,United States,Yes
+491,Yasumitsu Shigeta,Japan,Yes
+492,Su Qingcan,China,Yes
+493,Steven Udvar-Hazy,Hungary,Yes
+494,Elizabeth Uihlein,United States,
+495,Richard Uihlein,United States,
+496,Hayes Barnard,United States,Yes
+497,William Berkley,United States,Yes
+498,Yakir Gabay,Israel,Yes
+499,Huang Li,China,Yes
+500,Brad Jacobs,United States,Yes
+501,Ji Qi,China,Yes
+502,Jason Jiang,China,Yes
+503,Jim Kavanaugh,United States,Yes
+504,Mikhail Lomtadze,Kazakhstan,Yes
+505,Tom Morris,United Kingdom,Yes
+506,Shigenobu Nagamori,Japan,Yes
+507,Daniel Och,United States,Yes
+508,Horst Paulmann,Germany,
+509,John Sall,United States,Yes
+510,Howard Schultz,United States,Yes
+511,Richard Schulze,United States,Yes
+512,Yitzhak Tshuva,Israel,Yes
+513,Wang Yanqing,China,Yes
+514,Leonid Boguslavsky,Russia,Yes
+515,Jim Coulter,United States,Yes
+516,Bob Gaglardi,Canada,Yes
+517,Alan Howard,United Kingdom,Yes
+518,Huang Yi,China,Yes
+519,Vyacheslav Kim,Kazakhstan,Yes
+520,Josh Kushner,United States,Yes
+521,Edwin Leong,Hong Kong,Yes
+522,"Stephen Mandel, Jr.",United States,Yes
+523,Mohamed Mansour,Egypt,Yes
+524,Masahiro Miki,Japan,Yes
+525,Masahiro Noda,Japan,Yes
+526,Cliff Obrecht,Australia,Yes
+527,Melanie Perkins,Australia,Yes
+528,Jerry Speyer,United States,
+529,Lawrence Stroll,Canada,
+530,Wang Junlin,China,Yes
+531,Xia Zuoquan,China,Yes
+532,Zeng Fangqin,China,Yes
+533,Zhang Jian,China,Yes
+534,Fashu Chen,China,Yes
+535,Giuseppe Crippa,Italy,Yes
+536,Daniel D'Aniello,United States,Yes
+537,Walter P.J. Droege,Germany,Yes
+538,Fan Daidi,China,Yes
+539,Peter Gassner,United States,Yes
+540,Mikhail Gutseriev,Russia,
+541,Patrick Lee,United States,Yes
+542,Leng Youbin,China,Yes
+543,Daniel Loeb,United States,Yes
+544,Prasert Prasarttong-Osoth,Thailand,Yes
+545,Ira Rennert,United States,
+546,Dirk Rossmann,Germany,Yes
+547,Arkady Rotenberg,Russia,
+548,Remo Ruffini,Italy,Yes
+549,Vivek Chaand Sehgal,India,Yes
+550,Scott Shleifer,United States,Yes
+551,Thomas Siebel,United States,Yes
+552,Xiao Yongming,China,Yes
+553,Michael Xie,China,Yes
+554,Yang Shaopeng,China,Yes
+555,William Ackman,United States,Yes
+556,Somphote Ahunai,Thailand,Yes
+557,Igor Altushkin,Russia,Yes
+558,Ramon Ang,Philippines,Yes
+559,Acharya Balkrishna,India,Yes
+560,Richard Branson,United Kingdom,Yes
+561,Laurence Graff,United Kingdom,Yes
+562,"Amos Hostetter, Jr.",United States,Yes
+563,Steven Klinsky,United States,Yes
+564,Hiroshi Mikitani,Japan,Yes
+565,Bob Parsons,United States,Yes
+566,J. Joe Ricketts,United States,Yes
+567,Herb Simon,United States,Yes
+568,Wu Guanjiang,China,Yes
+569,Yi Zheng,China,Yes
+570,Eric Yuan,China,Yes
+571,Charles Zegar,United States,Yes
+572,Mohed Altrad,France,Yes
+573,John Arnold,United States,Yes
+574,Bill Austin,United States,Yes
+575,Chen Shibin,China,Yes
+576,Walter Faria,Brazil,Yes
+577,Fu Liquan,China,Yes
+578,Peter Gilgan,Canada,Yes
+579,Pablo Legorreta,Mexico,Yes
+580,Arnon Milchan,Israel,Yes
+581,Akio Nitori,Japan,Yes
+582,Julio Ponce Lerou,Chile,Yes
+583,Rodger Riney,United States,Yes
+584,Phil Ruffin,United States,Yes
+585,Neil Shen,China,Yes
+586,Gil Shwed,Israel,Yes
+587,Stephen Smith,Canada,Yes
+588,Nik Storonsky,Russia,Yes
+589,Jeffrey Talpins,United States,Yes
+590,Carl Thoma,United States,Yes
+591,Xue Hua,China,Yes
+592,Takao Yasuda,Japan,Yes
+593,Giuliana Benetton,Italy,
+594,Luciano Benetton,Italy,
+595,Ron Burkle,United States,Yes
+596,Chen Kaixuan,China,Yes
+597,Brunello Cucinelli,Italy,Yes
+598,Antonio Del Valle Ruiz,Mexico,Yes
+599,Gustavo Denegri & famiglia,Italy,Yes
+600,Dong Jinggui,China,Yes
+601,Charles Ergen,United States,Yes
+602,David Filo,United States,Yes
+603,Lindsay Fox,Australia,Yes
+604,Sergei Galitsky,Russia,Yes
+605,Senapathy Gopalakrishnan,India,Yes
+606,Luciano Hang,Brazil,Yes
+607,Michael Hintze,Australia,Yes
+608,Hu Baifan,China,Yes
+609,Hamilton James & famiglia,United States,
+610,Li Liangbin,China,Yes
+611,Liang Feng,China,Yes
+612,Aristotelis Mistakidis,Greece,Yes
+613,Roger Penske,United States,Yes
+614,Ravi Pillai,India,Yes
+615,David Rubenstein,United States,Yes
+616,Hilton Schlosberg,United Kingdom,Yes
+617,Klaus-Peter Schulenberg,Germany,Yes
+618,Shen Guojun,China,Yes
+619,Roman Trotsenko,Russia,Yes
+620,Vincent Viola,United States,Yes
+621,Wu Shaoxun,China,Yes
+622,Steve Wynn,United States,Yes
+623,Jon Yarbrough,United States,Yes
+624,Zhou Bajin,China,Yes
+625,Cho Tak Wong,Hong Kong,Yes
+626,John Coates,Australia,Yes
+627,Ryan Cohen,Canada,Yes
+628,Deng Wen,China,Yes
+629,Gurbachan Singh Dhingra,India,Yes
+630,Kuldip Singh Dhingra,India,Yes
+631,Martin Ebner,Switzerland,Yes
+632,Charles Edelstenne,France,Yes
+633,Sergei Gordeev,Russia,Yes
+634,Jeff T. Green,United States,Yes
+635,Reed Hastings,United States,Yes
+636,Bertil Hult,Sweden,Yes
+637,Miguel Krigsner,Brazil,Yes
+638,Sheldon Lavin,United States,Yes
+639,Yin Yee Lee,China,Yes
+640,Vladimir Litvinenko,Russia,
+641,Daniel Mate,Spain,
+642,Ravi Modi,India,Yes
+643,Farhad Moshiri,Iran,Yes
+644,Jonathan Nelson,United States,Yes
+645,Or Wai Sheun,Hong Kong,Yes
+646,Sergei Popov,Russia,
+647,Renzo Rosso & famiglia,Italy,Yes
+648,Rita Tong Liu,Hong Kong,Yes
+649,Timur Turlov,Kazakhstan,Yes
+650,Frank VanderSloot,United States,Yes
+651,Yoo Jung-hyun,South Korea,Yes
+652,George Bishop,United States,Yes
+653,Norman Braman,United States,Yes
+654,Cai Dongchen,China,Yes
+655,Todd Christopher,United States,Yes
+656,Mang Yee Chu & famiglia,Hong Kong,Yes
+657,"William Conway, Jr.",United States,Yes
+658,Jean Coutu,Canada,
+659,Stephen Deckoff,United States,Yes
+660,Feng Hailiang,China,Yes
+661,"Ernest Garcia, II.",United States,Yes
+662,Sam Goi,Singapore,Yes
+663,Hui Ka Yan,China,
+664,Friedrich Knapp,Germany,
+665,Egor Kulkov,Russia,Yes
+666,Lin Ming-hsiung,Taiwan,Yes
+667,Lin Xiucheng,China,Yes
+668,Gilles Martin,France,Yes
+669,John Paulson,United States,Yes
+670,Guanghe Qiu,China,Yes
+671,Erik Selin,Sweden,Yes
+672,Yonghong Shi,China,Yes
+673,Martua Sitorus,Indonesia,Yes
+674,Guangxin Sun,China,Yes
+675,Sukanto Tanoto,Indonesia,Yes
+676,Gang Ye,Singapore,Yes
+677,Ye Xiaoping,China,Yes
+678,Lei Zhang,China,Yes
+679,Zhu Gongshan,China,Yes
+680,Isak Andic,Spain,Yes
+681,Cao Longxiang,China,Yes
+682,"Roy Carroll, II.",United States,Yes
+683,John Caudwell,United Kingdom,Yes
+684,James Clark,United States,Yes
+685,Jacques D'Amours,Canada,
+686,John Paul DeJoria,United States,Yes
+687,Bernard Ecclestone,United Kingdom,Yes
+688,Michael Federmann,Germany,
+689,Gu Yuhua,China,Yes
+690,Donald Horton,United States,Yes
+691,Zarakh Iliev,Russia,Yes
+692,Li Jianquan,China,Yes
+693,Li Li,China,Yes
+694,Li Xiaohua,China,Yes
+695,Liu Xiaodong,China,Yes
+696,Martin Lorentzon,Sweden,Yes
+697,Erwin Franz Mueller,Germany,
+698,Georg Nemetschek,Germany,Yes
+699,God Nisanov,Russia,
+700,Gregorio Perez Companc,Argentina,
+701,Sebastian Piñera,Chile,
+702,Alexey Repik,Russia,Yes
+703,Haim Saban,Israel,Yes
+704,Rodney Sacks,South Africa,Yes
+705,Karthik Sarma,India,Yes
+706,Daniel Sundheim,United States,Yes
+707,Zhang Wenzhong,China,Yes
+708,Zhou Jianping,China,Yes
+709,Kang An,China,Yes
+710,Garrett Camp,Canada,Yes
+711,Chen Lip Keong,Malaysia,Yes
+712,Choo Chong Ngen,Singapore,Yes
+713,Du Jiangtao,China,Yes
+714,Li Weiguo,China,Yes
+715,Dmitry Mazepin,Russia,
+716,Najib Mikati,Lebanon,Yes
+717,Taha Mikati,Lebanon,Yes
+718,Nandan Nilekani,India,Yes
+719,Sean Parker,United States,Yes
+720,Su Hua,China,Yes
+721,Sun Shoukuan,China,Yes
+722,Meg Whitman,United States,Yes
+723,Wong Luen Hei,Hong Kong,Yes
+724,Chenghai Ye,China,Yes
+725,Zhu Xingming,China,Yes
+726,Suhail Bahwan,Oman,Yes
+727,Harindarpal Banga,India,Yes
+728,Andrei Bokarev,Russia,
+729,Jack Cowin,Canada,Yes
+730,Glenn Dubin,United States,Yes
+731,N. Murray Edwards,Canada,Yes
+732,Bruce Flatt,Canada,Yes
+733,Robert Friedland,United States,Yes
+734,Alexander Frolov,Russia,Yes
+735,Nithin Kamath,India,Yes
+736,Samvel Karapetyan,Russia,Yes
+737,Kei Hoi Pang,Hong Kong,Yes
+738,Yuri Kovalchuk,Russia,
+739,Hans Langer,Germany,Yes
+740,Maritsa Lazari,United Kingdom,Yes
+741,Li Zhongchu,China,Yes
+742,Liang Yunchao,China,Yes
+743,Vincent McMahon,United States,Yes
+744,Patrice Motsepe,South Africa,Yes
+745,Denis O'Brien,Ireland,Yes
+746,Pan Dong,China,Yes
+747,Karsanbhai Patel,India,Yes
+748,Richard Peery,United States,Yes
+749,Wayne Rothbaum,United States,Yes
+750,Jeff Rothschild,United States,Yes
+751,Raj Sardana,India,Yes
+752,Alexander Skorobogatko,Russia,
+753,Evan Spiegel,United States,Yes
+754,Glen Taylor,United States,Yes
+755,Thomas Tull,United States,Yes
+756,Bulat Utemuratov,Kazakhstan,Yes
+757,Wong Man Li,Hong Kong,Yes
+758,Guangming Wu,China,Yes
+759,Zhu Yi,China,Yes
+760,Ben Ashkenazy,Israel,Yes
+761,Felix Baker,United States,Yes
+762,Julian Baker,United States,Yes
+763,David Baszucki,United States,Yes
+764,Cen Junda,China,Yes
+765,Chen Zhiping,China,Yes
+766,Fernando Chico Pardo,Mexico,Yes
+767,Ray Davis,United States,Yes
+768,Deng Weiming,China,Yes
+769,Stewart Horejsi,United States,Yes
+770,Hou Juncheng,China,Yes
+771,Zhenda Huang,China,Yes
+772,Dmitry Kamenshchik,Russia,
+773,Henry Laufer,United States,Yes
+774,Louis Le Duff,France,Yes
+775,Mark Leonard,United Kingdom,Yes
+776,Li Guoqiang,China,Yes
+777,Li Yongxin,China,Yes
+778,Peter Lim,Singapore,Yes
+779,Sergio Mantegazza,Switzerland,
+780,Hans Melchers,Netherlands,Yes
+781,C. Dean Metropoulos,United States,Yes
+782,Falguni Nayar,India,Yes
+783,Alexander Ponomarenko,Russia,Yes
+784,Steven Sarowitz,United States,Yes
+785,Leonard Schleifer,United States,Yes
+786,Michael S. Smith,United States,Yes
+787,Zhao Lixin,China,Yes
+788,Hongyi Zhou,China,Yes
+789,S. Daniel Abraham,United States,Yes
+790,Thor Bjorgolfsson,Iceland,Yes
+791,Herb Chambers,United States,Yes
+792,Cheng Yixiao,China,Yes
+793,Andrew Cherng,China,Yes
+794,Peggy Cherng,China,Yes
+795,Leon G. Cooperman,United States,Yes
+796,Oleg Deripaska,Russia,
+797,Sergey Dmitriev,Russia,Yes
+798,Joseph Edelman,United States,Yes
+799,Sandeep Engineer,India,Yes
+800,Alceu Elias Feldmann,Brazil,Yes
+801,Serge Godin,Canada,Yes
+802,Alec Gores,United States,Yes
+803,J. Tomilson Hill,United States,Yes
+804,Jay-Z,United States,Yes
+805,Brad Kelley,United States,Yes
+806,Wolfgang Leitner,Austria,Yes
+807,Li Hongxin,China,Yes
+808,Lin Chen-hai,China,Yes
+809,Lu Yiwen,China,Yes
+810,Willy Michel,Switzerland,Yes
+811,Bobby Murphy,United States,Yes
+812,Tomas Olivo Lopez,Spain,Yes
+813,Eren Ozmen,Turkey,Yes
+814,Qiu Minxiu,China,Yes
+815,Wenrong Shen,China,Yes
+816,Yuzhu Shi,China,Yes
+817,Jeff Sutton,United States,Yes
+818,Andrew Tan,Malaysia,Yes
+819,Arvind Tiku,India,Yes
+820,Byron Trott,United States,Yes
+821,Peter Unger,United States,Yes
+822,Roger Wang,United States,Yes
+823,Oprah Winfrey,United States,Yes
+824,Wu Zhigang,China,Yes
+825,Xie Weitong,China,Yes
+826,Ye Guofu,China,Yes
+827,Brian Acton,United States,Yes
+828,Koos Bekker,South Africa,Yes
+829,Chen Tei-fu,Taiwan,Yes
+830,Marcel Erni,Switzerland,Yes
+831,Doris Fisher,United States,
+832,Gerald Ford,United States,
+833,Bernard Fraisse,France,Yes
+834,Alfred Gantner,Switzerland,Yes
+835,Paul Gauselmann,Germany,Yes
+836,Mitchell Goldhar,Canada,Yes
+837,Peter Hargreaves,United Kingdom,Yes
+838,Xuande Hua,China,Yes
+839,Kalanithi Maran,India,Yes
+840,Jed McCaleb,United States,Yes
+841,Fatih Ozmen,Turkey,Yes
+842,Pan Laican,China,Yes
+843,Tor Peterson,United States,Yes
+844,Jinxing Qi,China,Yes
+845,Qiu Jianping,China,Yes
+846,Matthias Reinhart,Switzerland,Yes
+847,Arnout Schuijff,Netherlands,Yes
+848,Lucio Tan,Philippines,Yes
+849,Tsai Ming-kai,Taiwan,Yes
+850,David Walentas,United States,Yes
+851,Urs Wietlisbach,Switzerland,Yes
+852,Jerry Yang,Taiwan,Yes
+853,Yang Jianliang,China,Yes
+854,Yang Weidong,China,Yes
+855,Mortimer Zuckerman,Canada,Yes
+856,John Armitage,United Kingdom,Yes
+857,John Bicket,United States,Yes
+858,Sanjit Biswas,United States,Yes
+859,Timothy Boyle,United States,Yes
+860,Morris Chang,Taiwan,Yes
+861,Chao Teng-hsiung,Taiwan,Yes
+862,Samuel Chen,Taiwan,Yes
+863,Chu Lam Yiu,Hong Kong,Yes
+864,K. Dinesh,India,Yes
+865,James Duff,United States,Yes
+866,Thomas Duff,United States,Yes
+867,Daniel Ek,Sweden,Yes
+868,Erman Ilicak,Turkey,Yes
+869,Long Jiang,China,Yes
+870,Bruce Karsh,United States,Yes
+871,Bom Kim,South Korea,Yes
+872,Jianping Lai,China,Yes
+873,Lam Kong,China,Yes
+874,Stephen Lansdown,United Kingdom,Yes
+875,Li Haiyan,China,Yes
+876,Hua Li,China,Yes
+877,Clayton Mathile,United States,Yes
+878,Mi Enhua,China,Yes
+879,Vadim Moshkovich,Russia,Yes
+880,David Murdock,United States,Yes
+881,David Nahmad,Israel,Yes
+882,Lirio Parisotto,Brazil,Yes
+883,Tang Yiu,Hong Kong,Yes
+884,Tian Ming,China,Yes
+885,Jayshree Ullal,India,Yes
+886,Lang Walker,Australia,Yes
+887,Xicheng Wang,China,Yes
+888,Wang Zhenhua,China,Yes
+889,Paul-Heinz Wesjohann,Germany,Yes
+890,Xie Bingkun,China,Yes
+891,Xu Shugen,China,Yes
+892,Zhang Jingzhang,China,Yes
+893,George Argyros,United States,Yes
+894,Brian Armstrong,United States,Yes
+895,Albert Avdolyan,Russia,Yes
+896,Sezai Bacaksiz,Turkey,Yes
+897,Aneel Bhusri,United States,Yes
+898,Brett Blundy,Australia,Yes
+899,Chen Xueli,China,Yes
+900,Dermot Desmond,Ireland,Yes
+901,Dong Wei,China,Yes
+902,Tom Ford,United States,Yes
+903,Fu Guangming,China,Yes
+904,Noam Gottesman,United Kingdom,Yes
+905,Jeffrey Gundlach,United States,Yes
+906,Hao Hong,China,Yes
+907,Hans-Werner Hector,Germany,Yes
+908,Lutz Mario Helmig,Germany,Yes
+909,Chulong Huang,China,Yes
+910,James Jannard,United States,Yes
+911,Willis Johnson,United States,Yes
+912,Lai Shixian,China,Yes
+913,Chris Larsen,United States,Yes
+914,Solomon Lew,Australia,Yes
+915,Liang Xinjun,China,Yes
+916,Max Lytvyn,Ukraine,Yes
+917,Igor Makarov,Russia,Yes
+918,Howard Marks,United States,Yes
+919,Charles Munger,United States,
+920,Adam Neumann,Israel,Yes
+921,Thi Phuong Thao Nguyen,Vietnam,Yes
+922,Ni Yongpei,China,Yes
+923,Qi Xiangdong,China,Yes
+924,Phillip T. (Terry) Ragon,United States,Yes
+925,Prathap Reddy,India,Yes
+926,Jerry Reinsdorf,United States,Yes
+927,Chad Richison,United States,Yes
+928,"Karl Scheufele, III.",Switzerland,
+929,Alice Schwartz,United States,Yes
+930,Alex Shevchenko,Ukraine,Yes
+931,Kavitark Ram Shriram,India,Yes
+932,William Stone,United States,Yes
+933,Henry Swieca,United States,Yes
+934,Katsumi Tada,Japan,Yes
+935,Tang Jinkui,China,Yes
+936,Tang Xiao'ou,China,Yes
+937,Wang Wenmo,China,Yes
+938,Wang Zhenghua,China,Yes
+939,Kai Wu,China,Yes
+940,Xu Yingzhuo,China,Yes
+941,Yeung Kin-man,Hong Kong,Yes
+942,Huijiao Yu,China,Yes
+943,Oren Zeev,Israel,Yes
+944,Zhao Fenggang,China,Yes
+945,Alex Beard,United Kingdom,Yes
+946,Travis Boersma,United States,Yes
+947,William Boyd,United States,Yes
+948,Cao Ji,China,Yes
+949,Bruce Cheng,Taiwan,Yes
+950,Daniel Chiu,China,Yes
+951,Beda Diethelm,Switzerland,Yes
+952,Domenico Dolce,Italy,Yes
+953,Ralph Dommermuth,Germany,Yes
+954,Georgi Domuschiev,Bulgaria,Yes
+955,Kiril Domuschiev,Bulgaria,Yes
+956,Bob Ell,Australia,Yes
+957,Paul Foster,United States,Yes
+958,Stefano Gabbana,Italy,Yes
+959,Xingjiang Gao,China,Yes
+960,Kamal Ghaffarian,Iran,Yes
+961,Dennis Gillings,United Kingdom,Yes
+962,Stein Erik Hagen,Norway,Yes
+963,Huang Min,China,Yes
+964,Jared Isaacman,United States,Yes
+965,Eugene Kaspersky,Russia,Yes
+966,Artem Khachatryan,Armenia,Yes
+967,Andrei Krivenko,Russia,Yes
+968,Lam Wai-ying,Hong Kong,Yes
+969,Marc Lasry,Morocco,Yes
+970,Christian Latouche,France,Yes
+971,Theodore Leonsis,United States,Yes
+972,Liu Chengyu,China,Yes
+973,Sergey Lomakin,Russia,Yes
+974,Daniel Lubetzky,Mexico,Yes
+975,Melissa Ma,China,Yes
+976,Kiran Mazumdar-Shaw,India,Yes
+977,Mu Rongjun,China,Yes
+978,Eugene Murtagh,Ireland,Yes
+979,Alexander Nesis,Russia,Yes
+980,Zugen Ni,China,Yes
+981,Florentino Perez,Spain,
+982,Victor Pinchuk,Ukraine,Yes
+983,Leonid Radvinsky,Ukraine,Yes
+984,Raveendran Byju,India,Yes
+985,P.P. Reddy,India,Yes
+986,Richard Saghian,United States,Yes
+987,Shi Yifeng,China,Yes
+988,Thaksin Shinawatra,Thailand,Yes
+989,Shu Ping,China,Yes
+990,Timothy Springer,United States,Yes
+991,Edward Stack,United States,Yes
+992,Sun Mengquan,China,Yes
+993,Alexander Svetakov,Russia,Yes
+994,Torsten Toeller,Germany,Yes
+995,Hamdi Ulukaya,Turkey,Yes
+996,Wang Linpeng,China,Yes
+997,Wei Ing-Chou,Taiwan,Yes
+998,Wei Yin-Chun,Taiwan,Yes
+999,Wei Yin-Heng,Taiwan,Yes
+1000,Wei Ying-Chiao,Taiwan,Yes
+1001,Elaine Wynn,United States,
+1002,Xu Xudong,China,Yes
+1003,Michael Ying,Hong Kong,Yes
+1004,Yu Qibing,China,Yes
+1005,Yuan Fugen,China,Yes
+1006,Zhang Ning,China,Yes
+1007,Mohamed Al Fayed,Egypt,Yes
+1008,Andrey Andreev,Russia,Yes
+1009,Michael Ashcroft,United Kingdom,Yes
+1010,Pavel Baudis,Czech Republic,Yes
+1011,Wilhelm Beier,Germany,
+1012,Cao Jianwei,China,Yes
+1013,Huwen Chen,China,Yes
+1014,Dou Zhenggang,China,Yes
+1015,William Franke,United States,Yes
+1016,Hu Yangzhong,China,Yes
+1017,Huang Dawen,China,Yes
+1018,Huang Qiaoling,China,Yes
+1019,Rajiv Jain,India,Yes
+1020,Michael Jordan,United States,Yes
+1021,Shlomo Kramer,Israel,Yes
+1022,Heikki Kyostila,Finland,Yes
+1023,Martin Lau,Hong Kong,Yes
+1024,Li Min,China,Yes
+1025,Liang Rubo,China,Yes
+1026,Lin Fanlian,China,Yes
+1027,Bill Malhotra,Canada,Yes
+1028,Alexander Mamut,Russia,Yes
+1029,Cunhui Nan,China,Yes
+1030,Tengyun Nie,China,Yes
+1031,Clive Palmer,Australia,Yes
+1032,Matthew Prince,United States,Yes
+1033,P.V. Krishna Reddy,India,Yes
+1034,T. Denny Sanford,United States,Yes
+1035,Bhadresh Shah,India,Yes
+1036,Zygmunt Solorz-Zak,Poland,Yes
+1037,Otto Toto Sugiri,Indonesia,Yes
+1038,Larry Tanenbaum,Canada,Yes
+1039,Wichai Thongtang,Thailand,Yes
+1040,Ion Tiriac,Romania,Yes
+1041,William Young,United States,Yes
+1042,Ales Zavoral,Czech Republic,Yes
+1043,Zhang Fan,China,Yes
+1044,Shilong Zhang,China,Yes
+1045,Zhang Wanzhen,China,Yes
+1046,Hongfei Zhao,China,Yes
+1047,Zhou Jian,China,Yes
+1048,Zhu Yiwen,China,Yes
+1049,Mika Anttonen,Finland,Yes
+1050,David Blitzer,United States,Yes
+1051,Julio Bozano,Brazil,Yes
+1052,Nikolai Buinov,Russia,Yes
+1053,Jianxing Che,China,Yes
+1054,Huxiong Chen,China,Yes
+1055,Chen Qiongxiang,China,Yes
+1056,Chen Zhisong,China,Yes
+1057,James Dinan,United States,Yes
+1058,Dong Fan,China,Yes
+1059,Eduardo Eurnekian,Argentina,Yes
+1060,Guo Zhenyu,China,Yes
+1061,Roberto Hernandez Ramirez,Mexico,Yes
+1062,Reid Hoffman,United States,Yes
+1063,Hu Rongda,China,Yes
+1064,Hui Wing Mau,Hong Kong,Yes
+1065,Scott Kapnick,United States,Yes
+1066,Richard Kayne,United States,Yes
+1067,Edward Lampert,United States,Yes
+1068,David Lichtenstein,United States,Yes
+1069,Lin Dingqiang,China,Yes
+1070,Strive Masiyiwa,Zimbabwe,Yes
+1071,Robert Miller,Canada,Yes
+1072,Simon Nixon,United Kingdom,Yes
+1073,Kentaro Ogawa,Japan,Yes
+1074,G. Rajendran,India,Yes
+1075,Ren Jianhua,China,Yes
+1076,Larry Robbins,United States,Yes
+1077,Dwight Schar,United States,Yes
+1078,Shao Jianxiong,China,Yes
+1079,Qinxiang Shao,China,Yes
+1080,Hua Shen,China,Yes
+1081,Shi Wen-long,Taiwan,Yes
+1082,Peter Sondakh,Indonesia,Yes
+1083,Masateru Uno,Japan,Yes
+1084,Vardis Vardinoyannis,Greece,
+1085,Wang Chaobin,China,Yes
+1086,Wang Ren-sheng,China,Yes
+1087,Chuanhua Xu,China,Yes
+1088,Gavril Yushvaev,Russia,Yes
+1089,Zhang Hongwei,China,Yes
+1090,Cameron Adams,Australia,Yes
+1091,Faisal Bin Qassim Al Thani,Qatar,Yes
+1092,Leslie Alexander,United States,Yes
+1093,Masaaki Arai,Japan,Yes
+1094,Sanjeev Bikhchandani,India,Yes
+1095,O. Francis Biondi,United States,Yes
+1096,R.G. Chandramogan,India,Yes
+1097,Parker Conrad,United States,Yes
+1098,Tim Cook,United States,Yes
+1099,Mark Coombs,United Kingdom,Yes
+1100,John de Mol,Netherlands,
+1101,Diao Zhizhong,China,Yes
+1102,Robert Duggan,United States,Yes
+1103,Phillip Frost,United States,Yes
+1104,Brian Higgins,United States,Yes
+1105,Wei Huang,China,Yes
+1106,Yintai Jiang,China,Yes
+1107,Lei Jin,China,Yes
+1108,Jin Lei,China,Yes
+1109,Valentin Kipyatkov,Russia,Yes
+1110,George Kurtz,United States,Yes
+1111,Joe Lacob,United States,Yes
+1112,Joe Lau,Hong Kong,Yes
+1113,Luo Yangyong,China,Yes
+1114,Gary Michelson,United States,Yes
+1115,Robert G. Miller,United States,
+1116,David Mindus,Sweden,Yes
+1117,Adriaan Mol,Netherlands,Yes
+1118,Mofatraj Munot,India,Yes
+1119,Satyanarayan Nuwal,India,Yes
+1120,Nihat Ozdemir,Turkey,Yes
+1121,Benjamin Zhengmin Pan,China,Yes
+1122,Ronald Perelman,United States,
+1123,Olivier Pomel,France,Yes
+1124,Vinod Saraf,India,Yes
+1125,Anatoly Sedykh,Russia,Yes
+1126,Genhuo Shao,China,Yes
+1127,Shen Xiqiang,China,Yes
+1128,S.D. Shibulal,India,Yes
+1129,Bambang Sutantio,Indonesia,Yes
+1130,Sze Man Bok,Hong Kong,Yes
+1131,Jim Thompson,United States,Yes
+1132,Tran Dinh Long,Vietnam,Yes
+1133,Alan Trefler,United States,Yes
+1134,Riaz Valani,United States,Yes
+1135,Pieter van der Does,Netherlands,Yes
+1136,Nikil Viswanathan,United States,Yes
+1137,Todd Wagner,United States,Yes
+1138,Evan Williams,United States,Yes
+1139,Wu Yingming,China,Yes
+1140,Yan Zhi,China,Yes
+1141,Yoshiaki Yoshida,Japan,Yes
+1142,Zhang Li,China,Yes
+1143,Marc Andreessen,United States,Yes
+1144,Giovanni Arvedi,Italy,Yes
+1145,Bang Si-hyuk,South Korea,Yes
+1146,David Booth,United States,Yes
+1147,Jim Breyer,United States,Yes
+1148,Chen Kaichen,China,Yes
+1149,Carl DeSantis,United States,Yes
+1150,Marek Dospiva,Czech Republic,Yes
+1151,Keith Dunleavy,United States,Yes
+1152,Yasuhiro Fukushima,Japan,Yes
+1153,Mario Gabelli,United States,Yes
+1154,John Goff,United States,Yes
+1155,Alexandre Grendene Bartelle,Brazil,Yes
+1156,Gerry Harvey,Australia,Yes
+1157,He Zhaoxi,China,Yes
+1158,William Heinecke,United States,Yes
+1159,Jay Hennick,Canada,Yes
+1160,Hal Jackman,Canada,
+1161,Keeree Kanjanapas,Thailand,Yes
+1162,Osman Kibar,Turkey,Yes
+1163,Kim Chang-soo,South Korea,Yes
+1164,Mustafa Kucuk,Turkey,Yes
+1165,Lai Jianfa,China,Yes
+1166,Alexis Lê-Quôc,France,Yes
+1167,Lei Jufang,China,Yes
+1168,James Leininger,United States,Yes
+1169,Xuhui Li,China,Yes
+1170,Jimmy John Liautaud,United States,Yes
+1171,Lin Lairong,China,Yes
+1172,Lu Di,China,Yes
+1173,Palmer Luckey,United States,Yes
+1174,Duncan MacMillan,United States,Yes
+1175,Yusaku Maezawa,Japan,Yes
+1176,Ilson Mateus,Brazil,Yes
+1177,Meng Qingshan,China,Yes
+1178,Alberto Palatchi,Spain,
+1179,Dragos Paval,Romania,Yes
+1180,Jorge Perez,United States,Yes
+1181,Dmitry Pumpyansky,Russia,Yes
+1182,Jinsheng Ren,China,Yes
+1183,Ruan Shuilong,China,Yes
+1184,Paul Saville,United States,Yes
+1185,Ivan Savvidis,Greece,Yes
+1186,Keiichi Shibahara,Japan,Yes
+1187,Rajju Shroff,India,Yes
+1188,Sun Huaiqing,China,Yes
+1189,Alain Taravella,France,Yes
+1190,Kenneth Tuchman,United States,Yes
+1191,Wang Chou-hsiong,Taiwan,Yes
+1192,Wang Minwen,China,Yes
+1193,Tom Werner,United States,Yes
+1194,Stephen Winn,United States,Yes
+1195,Wu Lanlan,China,Yes
+1196,Xu Bingzhong,China,Yes
+1197,Yang Xuegang,China,Yes
+1198,Vladimir Yevtushenkov,Russia,
+1199,David Zalik,Israel,Yes
+1200,Zhang Xiaojuan,China,Yes
+1201,Zheng Xiaodong,China,Yes
+1202,Zhong Ruonong,China,Yes
+1203,Noubar Afeyan,Lebanon,Yes
+1204,Syed Mokhtar AlBukhary,Malaysia,Yes
+1205,Vasily Anisimov,Russia,Yes
+1206,Clifford Asness,United States,Yes
+1207,Louis Bacon,United States,Yes
+1208,Bai Baokun,China,Yes
+1209,Josef Boquoi,Germany,
+1210,Cai Huabo,China,Yes
+1211,Chen Tianshi,China,Yes
+1212,Chen Yung-tai,Taiwan,Yes
+1213,Ivan Chrenko,Slovakia,Yes
+1214,Robert Clark,United States,Yes
+1215,Jack Cockwell,South Africa,Yes
+1216,Tench Coxe,United States,Yes
+1217,Jim Crane,United States,Yes
+1218,Norbert Dentressangle,France,
+1219,Jamie Dimon,United States,
+1220,Daniel Dines,Romania,Yes
+1221,Gary Fegel,Switzerland,Yes
+1222,"William Foley, II.",United States,Yes
+1223,Richard Fortin,Canada,
+1224,Gao Yi,China,Yes
+1225,Bill Gross,United States,Yes
+1226,Irving Grousbeck,United States,Yes
+1227,David Hoffmann,United States,Yes
+1228,Hui Lin Chit,Hong Kong,Yes
+1229,Tianjiang Jia,China,Yes
+1230,Zhaobai Jiang,China,Yes
+1231,Sergei Katsiev,Russia,Yes
+1232,Kim Jae-young,South Korea,Yes
+1233,Randal J. Kirk,United States,Yes
+1234,Pyotr Kondrashev,Russia,Yes
+1235,Eiichi Kuriwada,Japan,Yes
+1236,Robert Langer,United States,Yes
+1237,Anthony Langley,United Kingdom,Yes
+1238,Li Sze Lim,Hong Kong,Yes
+1239,Li Wa,China,Yes
+1240,Li Weiwei,China,Yes
+1241,Liang Qin,China,Yes
+1242,Terence (Terry) Matthews,Canada,Yes
+1243,Jim McKelvey,United States,Yes
+1244,P.N.C. Menon,India,Yes
+1245,Stefan Pierer,Austria,Yes
+1246,Michael Polsky,United States,Yes
+1247,Sathien Sathientham,Thailand,Yes
+1248,Shang Xiaobo,China,Yes
+1249,Yuri Shefler,Russia,Yes
+1250,Evgeny (Eugene) Shvidler,Russia,Yes
+1251,Ryan Smith,United States,Yes
+1252,Zakhar Smushkin,Russia,Yes
+1253,Michael Tojner,Austria,Yes
+1254,August Troendle,United States,Yes
+1255,Sekar Vembu,India,Yes
+1256,Chris Wallin,Australia,Yes
+1257,Wang Changtian,China,Yes
+1258,Ning Wang,China,Yes
+1259,Scott Watterson,United States,Yes
+1260,Dan Wilks,United States,Yes
+1261,Anthony Wood,United States,Yes
+1262,Wu Ying,China,Yes
+1263,Wu Yulan,China,Yes
+1264,Zhongyi Wu,China,Yes
+1265,Xiang Guangming,China,Yes
+1266,Xue Xiangdong,China,Yes
+1267,George Yancopoulos,United States,Yes
+1268,Steven Meng Yang,China,Yes
+1269,Ye Fan,China,Yes
+1270,Yi Dasheng,China,Yes
+1271,Yu Lili,China,Yes
+1272,Zeng Kaitian,China,Yes
+1273,Zhang Xuexin,China,Yes
+1274,Yubai Zhang,China,Yes
+1275,Fredrik Österberg,Sweden,Yes
+1276,Hamdi Akin,Turkey,Yes
+1277,Nerio Alessandri,Italy,Yes
+1278,Mori Arkin,Israel,Yes
+1279,Zadik Bino,Israel,Yes
+1280,Ahmet Calik,Turkey,Yes
+1281,Safra Catz,Israel,Yes
+1282,Chu Jian,China,Yes
+1283,Sandor Csanyi,Hungary,Yes
+1284,Bharat Desai,India,Yes
+1285,Egon Durban,United States,Yes
+1286,Fu Mingkang,China,Yes
+1287,Alan Gerry,United States,Yes
+1288,Philippe Ginestet,France,Yes
+1289,G. Gnanalingam,Malaysia,Yes
+1290,Wei Gu,China,Yes
+1291,Patrick Hanrahan,United States,Yes
+1292,Kenneth Hao,United States,Yes
+1293,Jaroslav Hascak,Slovakia,Yes
+1294,He Zhenggang,China,Yes
+1295,Niranjan Hiranandani,India,Yes
+1296,Ho Hung Anh,Vietnam,Yes
+1297,Archie Hwang,Taiwan,Yes
+1298,Peter Jackson,United Kingdom,Yes
+1299,Stephen Jarislowsky,Germany,Yes
+1300,Rajeev Juneja,India,Yes
+1301,Ramesh Juneja,India,Yes
+1302,Ke Xiping,China,Yes
+1303,Kim Jun-ki,South Korea,Yes
+1304,Sidney Kimmel,United States,Yes
+1305,Jim Koch,United States,Yes
+1306,Raj Kumar,India,Yes
+1307,Li Jianli,China,Yes
+1308,Li Jiaquan,China,Yes
+1309,Li Rucheng,China,Yes
+1310,Li Shui-po,China,Yes
+1311,Scott Lin,Taiwan,Yes
+1312,Liu Xiucai,China,Yes
+1313,Lu Zhongfang,China,Yes
+1314,Lu Zongjun,China,Yes
+1315,Youssef Mansour,Egypt,
+1316,Bruce Mathieson,Australia,Yes
+1317,Romano Minozzi,Italy,Yes
+1318,Greg Mondre,United States,Yes
+1319,Mario Moretti Polegato,Italy,Yes
+1320,Jerry Moyes,United States,Yes
+1321,John Ocampo,Philippines,Yes
+1322,Nelson Peltz,United States,Yes
+1323,Mike Repole,United States,Yes
+1324,Christopher Rokos,United Kingdom,Yes
+1325,John Ruiz,United States,Yes
+1326,Sheryl Sandberg,United States,Yes
+1327,Amnon Shashua,Israel,Yes
+1328,Ben Silbermann,United States,Yes
+1329,Ron Sim,Singapore,Yes
+1330,Leonid Simanovsky,Russia,
+1331,Basudeo Singh,India,Yes
+1332,Frank Slootman,Netherlands,Yes
+1333,Terry Snow,United States,Yes
+1334,Axel Stawski,Germany,
+1335,Thomas Steyer,United States,Yes
+1336,Sergei Studennikov,Russia,Yes
+1337,Su Suyu,China,Yes
+1338,Kevin Systrom,United States,Yes
+1339,Tan Lili,China,Yes
+1340,Tang Binsen,China,Yes
+1341,Tang Rui,China,Yes
+1342,Prachak Tangkaravakoon,Thailand,Yes
+1343,Jeff Tangney,United States,Yes
+1344,Yuequn Tao,China,Yes
+1345,David Teoh,Australia,Yes
+1346,Tran Ba Duong,Vietnam,Yes
+1347,Kenny Troutt,United States,Yes
+1348,Jens von Bahr,Sweden,Yes
+1349,Wang Junmin,China,Yes
+1350,Weng Xianding,China,Yes
+1351,Farris Wilks,United States,Yes
+1352,Gordon Wu,Hong Kong,Yes
+1353,Xiong Wu,China,Yes
+1354,Xu Zhenhua,China,Yes
+1355,Xu Zhihan,China,Yes
+1356,Tingdong Yang,China,Yes
+1357,Michael Minhong Yu,China,Yes
+1358,Justin Yuan,China,Yes
+1359,Zhang Bangxin,China,Yes
+1360,Zhang Hong,China,Yes
+1361,Zhou Zongwen,China,Yes
+1362,Alberto Alcocer,Spain,
+1363,Nigel Austin,Australia,Yes
+1364,Binny Bansal,India,Yes
+1365,Girdhari Lal Bawri,India,Yes
+1366,John Bloor,United Kingdom,Yes
+1367,Vladimir Bogdanov,Russia,
+1368,Cai Jianyong,China,Yes
+1369,Steve Case,United States,Yes
+1370,Chen Wenyuan,China,Yes
+1371,Chua Thian Poh,Singapore,Yes
+1372,Sasson Dayan,Israel,Yes
+1373,Chris Ellison,Australia,Yes
+1374,John Farber,United States,Yes
+1375,J. Christopher Flowers,United States,Yes
+1376,Reinold Geiger,Austria,Yes
+1377,Ali Ghodsi,Iran,Yes
+1378,Guan Yihong,China,Yes
+1379,Rajinder Gupta,India,Yes
+1380,Torstein Hagen,Norway,Yes
+1381,Alfredo Harp Helu,Mexico,Yes
+1382,He Xiaopeng,China,Yes
+1383,Drew Houston,United States,Yes
+1384,Huang Jinxiang,China,Yes
+1385,Rameshchandra Jain,India,Yes
+1386,Ke Zunhong,China,Yes
+1387,Kim Taek-jin,South Korea,Yes
+1388,Koh Wee Meng,Singapore,Yes
+1389,Sergei Kolesnikov,Russia,Yes
+1390,Michael Lee-Chin,Canada,Yes
+1391,Bernard Lewis,United States,
+1392,William Li,China,Yes
+1393,Liu Fangyi,China,Yes
+1394,K.C. Liu,Taiwan,Yes
+1395,Liu Ming Chung,Hong Kong,Yes
+1396,Anatoly Lomakin,Russia,Yes
+1397,Lucia Maggi,Brazil,
+1398,Mao Lixiang,China,Yes
+1399,David McMurtry,United Kingdom,Yes
+1400,Miao Shouliang,China,Yes
+1401,Miao Yongjun,China,Yes
+1402,Marius Nacht,Israel,Yes
+1403,Vadim Novinsky,Russia,
+1404,Pan Longquan,China,Yes
+1405,Pan Shiyi,China,Yes
+1406,David Paul,United States,Yes
+1407,Qian Jinghong,China,Yes
+1408,Qin Long,China,Yes
+1409,M. Satyanarayana Reddy,India,Yes
+1410,Mochtar Riady,Indonesia,Yes
+1411,Rihanna,Barbados,Yes
+1412,Boris Rotenberg,Russia,
+1413,Subhash Runwal,India,Yes
+1414,Igor Rybakov,Russia,Yes
+1415,Martin Selig,United States,Yes
+1416,Airat Shaimiev,Russia,Yes
+1417,Radik Shaimiev,Russia,Yes
+1418,Nobutoshi Shimamura,Japan,Yes
+1419,Jared Smith,United States,Yes
+1420,Jianyi Wang,China,Yes
+1421,Wang Jilei,China,Yes
+1422,Shuifu Wang,China,Yes
+1423,Werner O. Weber,Germany,Yes
+1424,"Alfred West, Jr.",United States,Yes
+1425,Bo Wu,China,Yes
+1426,Wu Chaoqun,China,Yes
+1427,Swift Xie,China,Yes
+1428,Xu Guozhong,China,Yes
+1429,Yao Kuizhang,China,Yes
+1430,Yu Peidi,China,Yes
+1431,Zhang Chuanwei,China,Yes
+1432,Zhang Keqiang,China,Yes
+1433,Zhang Xin,China,Yes
+1434,Xinghai Zhang,China,Yes
+1435,Zheng Jianjiang,China,Yes
+1436,Zhong Sheng Jian,China,Yes
+1437,Zhou Chengjian,China,Yes
+1438,Boris Zingarevich,Russia,
+1439,A. Jayson Adair,United States,Yes
+1440,Soegiarto Adikoesoemo,Indonesia,Yes
+1441,Rajendra Agarwal,India,Yes
+1442,Anant Asavabhokhin,Thailand,Yes
+1443,Roman Avdeev,Russia,Yes
+1444,Ziv Aviram,Israel,Yes
+1445,Sachin Bansal,India,Yes
+1446,Kiki Barki,Indonesia,Yes
+1447,Elena Baturina,Russia,
+1448,Banwari Lal Bawri,India,Yes
+1449,Stewart Butterfield,Canada,Yes
+1450,Cai Mingtong,China,Yes
+1451,Anthony Casalena,United States,Yes
+1452,Chang Jianming,China,Yes
+1453,Richard Chang,Taiwan,Yes
+1454,Chen Xuehua,China,Yes
+1455,Chen Yin,China,Yes
+1456,Chin Jong Hwa,Taiwan,Yes
+1457,R. Marcelo Claure,Bolivia,Yes
+1458,Alberto Cortina,Spain,
+1459,Eduardo Costantini,Argentina,Yes
+1460,Wenjun Dai,China,Yes
+1461,Anand Deshpande,India,Yes
+1462,Aydin Dogan,Turkey,Yes
+1463,Weimin Du,China,Yes
+1464,Timothy Dunn,United States,Yes
+1465,Keiko Erikawa,Japan,Yes
+1466,Yoichi Erikawa,Japan,Yes
+1467,Philip Fayer,Canada,Yes
+1468,Marvy Finger,United States,Yes
+1469,Joel Greenberg,United States,Yes
+1470,He Zhiping,China,Yes
+1471,Hoi Kin Hong,Hong Kong,Yes
+1472,Gregg Hymowitz,United States,Yes
+1473,Anurang Jain,India,Yes
+1474,Jiang Guiting,China,Yes
+1475,Jin Xin,China,Yes
+1476,Conni Jonsson,Sweden,Yes
+1477,George Joseph,India,Yes
+1478,Laurent Junique,France,Yes
+1479,Zbigniew Juroszek,Poland,Yes
+1480,Alexander Karp,United States,Yes
+1481,Joe Kiani,United States,Yes
+1482,Seth Klarman,United States,Yes
+1483,Kagemasa Kozuki,Japan,Yes
+1484,Michael Krasny,United States,Yes
+1485,Eduard Kucera,Czech Republic,Yes
+1486,Kristo Käärmann,Estonia,Yes
+1487,Lee Hae-jin,South Korea,Yes
+1488,Art Levinson,United States,Yes
+1489,Li Denghai,China,Yes
+1490,Fengluan Li,China,Yes
+1491,Li Yongqing,China,Yes
+1492,Li Zhigang,China,Yes
+1493,Liu Gexin,China,Yes
+1494,Lu Hongyan,China,Yes
+1495,Lv Jianming,China,Yes
+1496,Yasseen Mansour,Egypt,
+1497,Charlwin Mao,China,Yes
+1498,George Marcus,United States,
+1499,Yves-Loic Martin,France,Yes
+1500,Carsten Maschmeyer,Germany,Yes
+1501,Martin Moller Nielsen,Denmark,Yes
+1502,Jahm Najafi,Iran,Yes
+1503,Randal Nardone,United States,Yes
+1504,Nguyen Dang Quang,Vietnam,Yes
+1505,Kazuo Okada,Japan,Yes
+1506,John Oyler,United States,Yes
+1507,George Pedersen,United States,Yes
+1508,Qu Miranda,China,Yes
+1509,Jupally Rameshwar Rao,India,Yes
+1510,G. M. Rao,India,Yes
+1511,P.V. Ramprasad Reddy,India,Yes
+1512,Igor Rotenberg,Russia,
+1513,Seifeddin Rustamov,Russia,Yes
+1514,Hajime Satomi,Japan,Yes
+1515,James Scapa,United States,Yes
+1516,Devi Shetty,India,Yes
+1517,Albert Shigaboutdinov,Russia,Yes
+1518,Denis Shtengelov,Russia,Yes
+1519,Fei Song,China,Yes
+1520,Konstantin Strukov,Russia,
+1521,Rustem Sulteev,Russia,Yes
+1522,Clemens Toennies,Germany,
+1523,John Van Lieshout,Australia,Yes
+1524,Pongsak Viddayakorn,Thailand,Yes
+1525,Wang Jianguo,China,Yes
+1526,Junjin Wang,China,Yes
+1527,Wang Mingwang,China,Yes
+1528,Wei Lidong,China,Yes
+1529,Myron Wentz,United States,Yes
+1530,Wu Xiaoge,China,Yes
+1531,Wu Xushun,China,Yes
+1532,Xiong Xiaochuan,China,Yes
+1533,Xu Shaochun,China,Yes
+1534,Yan Jane,China,Yes
+1535,Zeng Chaoyi,China,Yes
+1536,Peng Zhao,China,Yes
+1537,Zhao Tongtong,China,Yes
+1538,Kostyantin Zhevago,Ukraine,Yes
+1539,Zong Yanmin,China,Yes
+1540,Sanjay Agarwal,India,Yes
+1541,Joao Alves de Queiroz Filho,Brazil,Yes
+1542,Michael Arougheti,United States,Yes
+1543,Tope Awotona,Nigeria,Yes
+1544,Mehmet Aydinlar,Turkey,Yes
+1545,Bai Houshan,China,Yes
+1546,Thomas Bailey,United States,Yes
+1547,Jeffrey Cheah,Malaysia,Yes
+1548,Chen Xianbao,China,Yes
+1549,Cheng Xianfeng,China,Yes
+1550,Darwin Deason,United States,Yes
+1551,Ashwin Desai,India,Yes
+1552,Richard Desmond,United Kingdom,Yes
+1553,Sefik Yilmaz Dizdar,Turkey,Yes
+1554,Farhad Ebrahimi,Iran,Yes
+1555,Fang Hongbo,China,Yes
+1556,Zsolt Felcsuti,Hungary,Yes
+1557,Ben Francis,United Kingdom,Yes
+1558,Gary Friedman,United States,Yes
+1559,Balkrishan Goenka,India,Yes
+1560,Lawrence Golub,United States,Yes
+1561,Saroj Rani Gupta,India,Yes
+1562,Anthony Hall,United States,Yes
+1563,Richard Hayne,United States,Yes
+1564,Michael Heine,Australia,Yes
+1565,Orion Hindawi,United States,Yes
+1566,Huang Guanlin,China,Yes
+1567,Sam Hupert,Australia,Yes
+1568,Mohammed Ibrahim,Sudan,Yes
+1569,David Kaplan,United States,Yes
+1570,Kim Kardashian,United States,Yes
+1571,Ke Guihua,China,Yes
+1572,Ke Yunfeng,China,Yes
+1573,Alexander Klyachin,Russia,Yes
+1574,Guy Laliberté,Canada,Yes
+1575,Lee Su-jin,South Korea,Yes
+1576,Li Guoqing,China,Yes
+1577,Li Li,China,Yes
+1578,Li Ruiqiang,China,Yes
+1579,Zhen Li,China,Yes
+1580,Guangwei Liang,China,Yes
+1581,Liu Ming Hui,China,Yes
+1582,Frederic Luddy,United States,Yes
+1583,Mao Zhongwu,China,Yes
+1584,Lorinc Meszaros,Hungary,Yes
+1585,Jeffrey Michael,United States,Yes
+1586,Alan Miller,United States,Yes
+1587,Ulrich Mommert,Germany,
+1588,Scott Nuttall,United States,Yes
+1589,Jonathan Oringer,United States,Yes
+1590,Vitaly Orlov,Russia,Yes
+1591,Jose Isaac Peres,Brazil,Yes
+1592,Markus Persson,Sweden,Yes
+1593,Mark Pincus,United States,Yes
+1594,Forrest Preston,United States,Yes
+1595,Qian Ying,China,Yes
+1596,Jimmy Rane,United States,Yes
+1597,Andrei Rappoport,Russia,Yes
+1598,Bennett Rosenthal,United States,Yes
+1599,Thomas Sandell,Sweden,Yes
+1600,Gerald Schwartz,Canada,Yes
+1601,Antonio Luiz Seabra,Brazil,Yes
+1602,Eric Ya Shen,China,Yes
+1603,Sytse 'Sid' Sijbrandij,Netherlands,Yes
+1604,Abhay Soi,India,Yes
+1605,Mike Speiser,United States,Yes
+1606,Michael Steinhardt,United States,Yes
+1607,Ion Stoica,Romania,Yes
+1608,Eddy Sugianto,Indonesia,Yes
+1609,Luc Tack,Belgium,Yes
+1610,Tony Tan Caktiong,Philippines,Yes
+1611,Xiuguo Tang,China,Yes
+1612,Sam Tarascio,Australia,Yes
+1613,Ching Bor Tung,China,Yes
+1614,Joop van den Ende,Netherlands,Yes
+1615,Ruben Vardanyan,Armenia,Yes
+1616,Sandro Veronesi,Italy,Yes
+1617,Thongma Vijitpongpun,Thailand,Yes
+1618,Thomas von Koch,Sweden,Yes
+1619,Wang Fuji,China,Yes
+1620,Wang Shih-Chung,Taiwan,Yes
+1621,Wang Xiaoshen,China,Yes
+1622,J. Wayne Weaver,United States,Yes
+1623,Cameron Winklevoss,United States,Yes
+1624,Tyler Winklevoss,United States,Yes
+1625,Wu Yonghua,China,Yes
+1626,Xia Xinde,China,Yes
+1627,Wenbo Xiang,China,Yes
+1628,Xu Jin,China,Yes
+1629,Xu Shijun,China,Yes
+1630,Wanmao Xu,China,Yes
+1631,Xu Yuejuan,China,Yes
+1632,Vadim Yakunin,Russia,Yes
+1633,Yang Yunyun,China,Yes
+1634,Matei Zaharia,Romania,Yes
+1635,Zan Shengda,China,Yes
+1636,Zhang Xuezheng,China,Yes
+1637,Zhang Yin,China,Yes
+1638,Ning Zhao,China,Yes
+1639,Zhou Wen,China,Yes
+1640,Zhu Xingliang,China,Yes
+1641,Hari Krishan Agarwal,India,Yes
+1642,Farkhad Akhmedov,Russia,
+1643,Joseph Bae,United States,Yes
+1644,Sara Blakely,United States,Yes
+1645,Lloyd Blankfein,United States,Yes
+1646,Henadiy Boholyubov,Ukraine,
+1647,Stephane Bonvin,Switzerland,Yes
+1648,Oleg Boyko,Russia,Yes
+1649,Ryan Breslow,United States,Yes
+1650,Marina Budiman,Indonesia,Yes
+1651,Cai Hongbin,China,Yes
+1652,Cao Kejian,China,Yes
+1653,Chang Jing,China,Yes
+1654,Chen Baohua,China,Yes
+1655,Gang Chen,China,Yes
+1656,Liying Chen,China,Yes
+1657,Tony Chen,China,Yes
+1658,Chen Xueling,China,Yes
+1659,Cheng Lili,China,Yes
+1660,Cho Jyh-jer,Taiwan,Yes
+1661,Weili Dai,China,Yes
+1662,Deng Yingzhong,China,Yes
+1663,Shlomo Eliahu,Israel,Yes
+1664,Henry Engelhardt,United States,Yes
+1665,Gabriel Escarrer,Spain,Yes
+1666,Gleb Fetisov,Russia,Yes
+1667,Paul Fireman,United States,Yes
+1668,Bernd Freier,Germany,Yes
+1669,Donald Friese,United States,Yes
+1670,Gan Zhongru,China,Yes
+1671,David Golub,United States,Yes
+1672,Pavel Golubkov,Russia,Yes
+1673,Cristina Green,United Kingdom,Yes
+1674,Philip Green,United Kingdom,
+1675,He Zuxun,China,Yes
+1676,David Hindawi,United States,Yes
+1677,Huang Shan,China,Yes
+1678,Huang Xiaofen,China,Yes
+1679,Chatchai Kaewbootta,Thailand,Yes
+1680,Nikhil Kamath,India,Yes
+1681,Fumio Kaneko,Japan,Yes
+1682,Ali Metin Kazanci,Turkey,Yes
+1683,Kangbao Ke,China,Yes
+1684,Carsten Koerl,Germany,Yes
+1685,Andrei Kosogov,Russia,Yes
+1686,Yogesh Kothari,India,Yes
+1687,Manuel Lao Hernández,Spain,Yes
+1688,Lee Joong-keun,South Korea,Yes
+1689,Lin Zhijun,China,Yes
+1690,Lin Zhixiong,China,Yes
+1691,Lu Rongfu,China,Yes
+1692,Lyu Yixiong,China,Yes
+1693,Soichiro Minami,Japan,Yes
+1694,Dmitry Nikolaev,Russia,Yes
+1695,Adrian Paval,Romania,Yes
+1696,Antonio Percassi,Italy,Yes
+1697,Kevin Plank,United States,Yes
+1698,Pu Zhongjie,China,Yes
+1699,Rao Wei,China,Yes
+1700,Matthew Roszak,United States,Yes
+1701,Paul Sciarra,United States,Yes
+1702,Dean Solon,United States,Yes
+1703,Michael Spencer,United Kingdom,Yes
+1704,Joseph Steinberg,United States,
+1705,Manny Stul,Australia,Yes
+1706,Sun Hongjun,China,Yes
+1707,Sun Weijie,China,Yes
+1708,Sehat Sutardja,Indonesia,Yes
+1709,Min-Liang Tan,Singapore,Yes
+1710,Tan Yu Yeh,Taiwan,Yes
+1711,Tang Aoqi,China,Yes
+1712,Tsao Ter-fung,Taiwan,Yes
+1713,Tung Ching Sai,Hong Kong,Yes
+1714,Arkady Volozh,Russia,Yes
+1715,Wan Long,China,Yes
+1716,Lars Wingefors,Sweden,Yes
+1717,Allan Wong,Hong Kong,Yes
+1718,Tiger Woods,United States,Yes
+1719,Horst Wortmann,Germany,
+1720,Wu Kaiting,China,Yes
+1721,Wu Li-gann,China,Yes
+1722,Wu Xiangdong,China,Yes
+1723,Xiu Laigui,China,Yes
+1724,Xu Jiangnan,China,Yes
+1725,Xue Jiping,China,Yes
+1726,Yao Hsiao Tung,Taiwan,Yes
+1727,Ye Qiongjiu,China,Yes
+1728,Yanqiao Ye,China,Yes
+1729,Yeh Kuo-I,Taiwan,Yes
+1730,Yu Faxiang,China,Yes
+1731,Kapeng Zhang,China,Yes
+1732,Zhang Xuansong,China,Yes
+1733,Zhang Xuewu,China,Yes
+1734,Zhu Yiming,China,Yes
+1735,Zhu Zhaojiang,China,Yes
+1736,Christian Angermayer,Germany,Yes
+1737,Ryuji Arai,Japan,Yes
+1738,Jimmy Buffett,United States,Yes
+1739,Edouard Carmignac,France,Yes
+1740,Chen Jiancheng,China,Yes
+1741,Rui Chen,China,Yes
+1742,Chen Shiliang,China,Yes
+1743,Tianqiao Chen,China,Yes
+1744,Yuantai Chen,China,Yes
+1745,Cheng Antares,China,Yes
+1746,Kochouseph Chittilappilly,India,Yes
+1747,John Christodoulou,Cyprus,Yes
+1748,Pollyanna Chu,Hong Kong,Yes
+1749,Turgay Ciner,Turkey,Yes
+1750,Benoit Dageville,France,Yes
+1751,Mark Dixon,United Kingdom,Yes
+1752,Du Yulin,China,Yes
+1753,Feng Yuxia,China,Yes
+1754,Gao Yunfeng,China,Yes
+1755,Jianming Geng,China,Yes
+1756,Sven Hagströmer,Sweden,Yes
+1757,Hang Hong,China,Yes
+1758,He Yamin,China,Yes
+1759,Hong Feng,China,Yes
+1760,Hu Gengxi,China,Yes
+1761,Danilo Iervolino,Italy,Yes
+1762,Hedda im Brahm-Droege,Germany,Yes
+1763,Inder Jaisinghani,India,Yes
+1764,LeBron James,United States,Yes
+1765,Morris Kahn,Israel,Yes
+1766,Ashok Kajaria,India,Yes
+1767,Marcelo Kalim,Brazil,Yes
+1768,Ken Kendrick,United States,Yes
+1769,Brad Keywell,United States,Yes
+1770,Muhammed Aziz Khan,Bangladesh,Yes
+1771,Kim Jung-woong,South Korea,Yes
+1772,Ihor Kolomoyskyy,Ukraine,
+1773,Kong Jian Min,China,Yes
+1774,Michael Kum,Singapore,Yes
+1775,Richard Kurtz,United States,Yes
+1776,Lev Kvetnoi,Russia,Yes
+1777,Michiel Le Roux,South Africa,Yes
+1778,Li Wanqiang,China,Yes
+1779,Liu Baolin,China,Yes
+1780,Loo Choon Yong,Singapore,Yes
+1781,Lu Yonghua,China,Yes
+1782,Ma Xiuhui,China,Yes
+1783,Apoorva Mehta,India,Yes
+1784,Andrei Molchanov,Russia,Yes
+1785,Fulvio Montipò,Italy,Yes
+1786,Tyler Perry,United States,Yes
+1787,Réal Plourde,Canada,Yes
+1788,George Sakellaris,Greece,Yes
+1789,Eddy Kusnadi Sariaatmadja,Indonesia,Yes
+1790,Neerja Sethi,India,Yes
+1791,Scott Smith,United States,Yes
+1792,Petter Stordalen,Norway,Yes
+1793,Ivan Streshinsky,Russia,Yes
+1794,Sergei Sudarikov,Russia,Yes
+1795,David Tran,Vietnam,Yes
+1796,Kenzo Tsujimoto,Japan,Yes
+1797,Murat Vargi,Turkey,Yes
+1798,Shigefumi Wada,Japan,Yes
+1799,Wan Feng,China,Yes
+1800,Wang Jianfeng,China,Yes
+1801,Masaru Wasami,Japan,Yes
+1802,V. Prem Watsa,India,Yes
+1803,Wen Pengcheng,China,Yes
+1804,Toto Wolff,Austria,Yes
+1805,Xie Bingzheng,China,Yes
+1806,Xu Gang,China,Yes
+1807,Yan Junxu,China,Yes
+1808,Yi Xianzhong,China,Yes
+1809,Yu Rong,China,Yes
+1810,Zhang Gongyun,China,Yes
+1811,Zhang Guiping,China,Yes
