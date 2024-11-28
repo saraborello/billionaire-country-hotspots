@@ -50,7 +50,7 @@
 
 **Source**: [World Bank](https://www.worldbank.org/)
 
-### Legend for Renamed Variables
+### Legend for Variables
 
 - **Country Name**: Name of the country.
 - **Country Code**: ISO alpha-3 code representing the country.
@@ -61,7 +61,7 @@
 
 **Source**: [World Bank](https://www.worldbank.org/)
 
-### Legend for Renamed Variables
+### Legend for Variables
 
 - **Entity**: Name of the country or entity.
 - **Year**: Year of the observation.
@@ -71,7 +71,7 @@
 
 **Source**: [World Bank](https://www.worldbank.org/)
 
-### Legend for Renamed Variables
+### Legend for Variables
 
 - **Series Name**: Name of the series (e.g., GDP per capita in current US$).
 - **Series Code**: Code representing the series.
@@ -83,7 +83,7 @@
 
 **Source**: [Mendeley Data](https://data.mendeley.com/datasets/cvkdzr8tv3/)
 
-### Legend for Renamed Variables
+### Legend for Variables
 
 - **Economies**: Name of the economies or countries.
 - **Year**: Year of the observation.
@@ -104,7 +104,7 @@
 
 **Source**: [World Bank](https://www.worldbank.org/)
 
-### Legend for Renamed Variables
+### Legend for Variables
 
 - **Series Name**: Name of the series (e.g., "Population, total").
 - **Series Code**: Code representing the series (e.g., SP.POP.TOTL for total population).
@@ -115,7 +115,7 @@
 
 **Source**: [World Bank](https://www.worldbank.org/)
 
-### Legend for Renamed Variables
+### Legend for Variables
 
 - **Country Name**: Name of the country.
 - **Country Code**: ISO alpha-3 code representing the country.
