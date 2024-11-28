@@ -8,6 +8,9 @@
 4. [gdp_growth.csv](#gdp_growthcsv)
 5. [gdp_per_capta.csv](#gdp_per_captacsv)
 6. [global_innovation_index.csv](#global_innovation_indexcsv)
+7. [population.csv](#populationcsv)
+8. [tax_revenue_country.csv](#tax_revenue_countrycsv)
+9. [worldBank_gdp_growth.csv](#worldbank_gdp_growthcsv)
 ---
 
 ## HDR23-24_HDI_Table.csv
@@ -97,3 +100,37 @@
 - **Income level (GNI Thresholds)**: Income level category based on GNI thresholds.
 - **GDP per capita, ppp (constant 2017 international $)**: GDP per capita in PPP terms, adjusted for inflation to 2017 international dollars.
 - **GDP per capita ppp (current international $)**: GDP per capita in PPP terms in current international dollars.
+## population.csv
+
+**Source**: [World Bank](https://www.worldbank.org/)
+
+### Legend for Renamed Variables
+
+- **Series Name**: Name of the series (e.g., "Population, total").
+- **Series Code**: Code representing the series (e.g., SP.POP.TOTL for total population).
+- **Country Name**: Name of the country.
+- **Country Code**: ISO alpha-3 code representing the country.
+- **2023 [YR2023]**: Total population value for the year 2023.
+## tax_revenue_country.csv
+
+**Source**: [World Bank](https://www.worldbank.org/)
+
+### Legend for Renamed Variables
+
+- **Country Name**: Name of the country.
+- **Country Code**: ISO alpha-3 code representing the country.
+- **Series Name**: Description of the series (e.g., "Tax revenue (% of GDP)").
+- **Series Code**: Code representing the series (e.g., GC.TAX.TOTL.GD.ZS for tax revenue).
+- **2020 [YR2020]**: Value of tax revenue as a percentage of GDP for the year 2020.
+
+## worldBank_gdp_growth.csv
+
+**Source**: [World Bank](https://www.worldbank.org/)
+
+### Legend for Renamed Variables
+
+- **Series Name**: Name of the series (e.g., "GDP growth (annual %)").
+- **Series Code**: Code representing the series (e.g., NY.GDP.MKTP.KD.ZG for annual GDP growth).
+- **Country Name**: Name of the country.
+- **Country Code**: ISO alpha-3 code representing the country.
+- **2023 [YR2023]**: GDP growth rate (annual %) for the year 2023.
