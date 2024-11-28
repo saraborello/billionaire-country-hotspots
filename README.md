@@ -5,6 +5,9 @@
 1. [HDR23-24_HDI_Table.csv](#hdr23-24_hdi_tablecsv)
 2. [Country_of_birth.csv](#country_of_birthcsv)
 3. [gdp_countries.csv](#gdp_countriescsv)
+4. [gdp_growth.csv](#gdp_growthcsv)
+5. [gdp_per_capta.csv](#gdp_per_captacsv)
+6. [global_innovation_index.csv](#global_innovation_indexcsv)
 ---
 
 ## HDR23-24_HDI_Table.csv
@@ -51,3 +54,46 @@
 - **Series Name**: Description of the economic series (e.g., GDP in current US$).
 - **Series Code**: Code representing the series (e.g., NY.GDP.MKTP.CD for GDP).
 - **2022 [YR2022]**: Value of the series for the year 2022.
+## gdp_growth.csv
+
+**Source**: [World Bank](https://www.worldbank.org/)
+
+### Legend for Renamed Variables
+
+- **Entity**: Name of the country or entity.
+- **Year**: Year of the observation.
+- **gross_domestic_product__constant_prices__percent_change_observation**: Annual percentage change in GDP at constant prices (real GDP growth).
+
+## gdp_per_capta.csv
+
+**Source**: [World Bank](https://www.worldbank.org/)
+
+### Legend for Renamed Variables
+
+- **Series Name**: Name of the series (e.g., GDP per capita in current US$).
+- **Series Code**: Code representing the series.
+- **Country Name**: Name of the country.
+- **Country Code**: ISO alpha-3 code representing the country.
+- **2023 [YR2023]**: Value of the series for the year 2023.
+
+## global_innovation_index.csv
+
+**Source**: [Mendeley Data](https://data.mendeley.com/datasets/cvkdzr8tv3/)
+
+### Legend for Renamed Variables
+
+- **Economies**: Name of the economies or countries.
+- **Year**: Year of the observation.
+- **ID**: Unique identifier for the economy.
+- **Institutions**: Score for institutions (e.g., political and business environment).
+- **Human capital and research**: Score for human capital and research (e.g., education, R&D).
+- **Infrastructure**: Score for infrastructure (e.g., ICT, energy).
+- **Market sophistication**: Score for market sophistication (e.g., investment and trade).
+- **Business sophistication**: Score for business sophistication (e.g., knowledge workers, innovation linkages).
+- **Knowledge and technology outputs**: Score for knowledge and technology outputs (e.g., patents, software).
+- **Creative outputs**: Score for creative outputs (e.g., trademarks, cultural production).
+- **Global Innovation Index**: Overall Global Innovation Index score.
+- **GNI per capita in current U.S. dollars**: Gross national income per capita in current U.S. dollars.
+- **Income level (GNI Thresholds)**: Income level category based on GNI thresholds.
+- **GDP per capita, ppp (constant 2017 international $)**: GDP per capita in PPP terms, adjusted for inflation to 2017 international dollars.
+- **GDP per capita ppp (current international $)**: GDP per capita in PPP terms in current international dollars.
