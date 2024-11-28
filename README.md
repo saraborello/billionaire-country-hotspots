@@ -11,6 +11,8 @@
 7. [population.csv](#populationcsv)
 8. [tax_revenue_country.csv](#tax_revenue_countrycsv)
 9. [worldBank_gdp_growth.csv](#worldbank_gdp_growthcsv)
+10. [Billionaires_Statistics_Dataset.csv](#Billionaires_Statistics_Datasetcsv)
+
 ---
 
 ## HDR23-24_HDI_Table.csv
@@ -134,3 +136,6 @@
 - **Country Name**: Name of the country.
 - **Country Code**: ISO alpha-3 code representing the country.
 - **2023 [YR2023]**: GDP growth rate (annual %) for the year 2023.
+
+## Billionaires_Statistics_Dataset.csv
+**Source**: [Kaggle](https://www.kaggle.com/datasets/nelgiriyewithana/billionaires-statistics-dataset)
