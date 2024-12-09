@@ -1,2033 +1,1813 @@
 personName,age,industries,gender
-Elon Musk,51.0,Automotive,M
-Jeff Bezos,59.0,Technology,M
-Larry Ellison,78.0,Technology,M
-Warren Buffett,92.0,Finance & Investments,M
-Bill Gates,67.0,Technology,M
-Michael Bloomberg,81.0,Media & Entertainment,M
-Carlos Slim Helu & family,83.0,Telecom,M
-Steve Ballmer,67.0,Technology,M
-Larry Page,50.0,Technology,M
-Amancio Ortega,87.0,Fashion & Retail,M
-Sergey Brin,49.0,Technology,M
-Zhong Shanshan,68.0,Food & Beverage,M
-Mark Zuckerberg,38.0,Technology,M
-Michael Dell,58.0,Technology,M
-Gautam Adani,60.0,Diversified,M
-Phil Knight & family,85.0,Fashion & Retail,M
-Zhang Yiming,39.0,Technology,M
-François Pinault & family,86.0,Fashion & Retail,M
-Li Ka-shing,94.0,Diversified,M
-Ma Huateng,51.0,Technology,M
-Ken Griffin,54.0,Finance & Investments,M
-Robin Zeng,54.0,Automotive,M
-Tadashi Yanai & family,74.0,Fashion & Retail,M
-Len Blavatnik,65.0,Diversified,M
-Gianluigi Aponte,82.0,Logistics,M
-Rafaela Aponte-Diamant,78.0,Logistics,F
-Colin Zheng Huang,43.0,Technology,M
-Reinhold Wuerth & family,87.0,Manufacturing,M
-Lee Shau Kee,95.0,Real Estate,M
-Jeff Yass,64.0,Finance & Investments,M
-Jim Simons,84.0,Finance & Investments,M
-Stephen Schwarzman,76.0,Finance & Investments,M
-William Ding,51.0,Technology,M
-Shiv Nadar,77.0,Technology,M
-Low Tuck Kwong,74.0,Energy,M
-Thomas Peterffy,78.0,Finance & Investments,M
-Andrey Melnichenko & family,51.0,Metals & Mining,M
-Vladimir Potanin,62.0,Metals & Mining,M
-Jack Ma,58.0,Technology,M
-He Xiangjian & family,80.0,Manufacturing,M
-James Ratcliffe,70.0,Manufacturing,M
-Masayoshi Son,65.0,Telecom,M
-Vladimir Lisin,66.0,Metals & Mining,M
-Leonid Mikhelson & family,67.0,Energy,M
-Wang Wei,52.0,Service,M
-Jensen Huang,60.0,Technology,M
-Takemitsu Takizaki,77.0,Manufacturing,M
-Alexey Mordashov & family,57.0,Metals & Mining,M
-Vagit Alekperov,72.0,Energy,M
-"Thomas Frist, Jr. & family",84.0,Healthcare,M
-Andrew Forrest,61.0,Metals & Mining,M
-Ray Dalio,73.0,Finance & Investments,M
-Eric Li,59.0,Automotive,M
-Wang Wenyin,55.0,Metals & Mining,M
-Qin Yinglin,57.0,Food & Beverage,M
-Wang Chuanfu,57.0,Automotive,M
-Harold Hamm & family,77.0,Energy,M
-David Tepper,65.0,Finance & Investments,M
-Gennady Timchenko,70.0,Energy,M
-Daniel Gilbert,61.0,Finance & Investments,M
-Steve Cohen,66.0,Finance & Investments,M
-Carl Icahn,87.0,Finance & Investments,M
-Donald Bren,90.0,Real Estate,M
-"John Menard, Jr.",83.0,Fashion & Retail,M
-Li Xiting,72.0,Healthcare,M
-Eric Schmidt,67.0,Technology,M
-Michael Platt,55.0,Finance & Investments,M
-Pang Kang,67.0,Food & Beverage,M
-Jorge Paulo Lemann & family,83.0,Food & Beverage,M
-Dilip Shanghvi,67.0,Healthcare,M
-Robert Pera,45.0,Technology,M
-Radhakishan Damani,68.0,Fashion & Retail,M
-Huang Shilin,56.0,Automotive,M
-David Green & family,81.0,Fashion & Retail,M
-Charoen Sirivadhanabhakdi,78.0,Food & Beverage,M
-Xu Hang,60.0,Healthcare,M
-Wei Jianjun & family,59.0,Automotive,M
-Alisher Usmanov,69.0,Metals & Mining,M
-Goh Cheng Liang,95.0,Manufacturing,M
-Aliko Dangote,65.0,Manufacturing,M
-Chen Bang,57.0,Healthcare,M
-Lui Che Woo,94.0,Gambling & Casinos,M
-John Fredriksen,78.0,Logistics,M
-Diane Hendricks,76.0,Construction & Engineering,F
-Jan Koum,47.0,Technology,M
-Jerry Jones,80.0,Sports,M
-Joseph Lau,71.0,Real Estate,M
-Lu Xiangyang,60.0,Automotive,M
-Harry Triguboff,90.0,Real Estate,M
-Uday Kotak,64.0,Finance & Investments,M
-Stanley Kroenke,75.0,Sports,M
-Mikhail Fridman,58.0,Energy,M
-Sarath Ratanavadi,57.0,Energy,M
-Dang Yanbao,50.0,Metals & Mining,M
-Jiang Rensheng & family,69.0,Healthcare,M
-Shahid Khan,72.0,Automotive,M
-Robert Kuok,99.0,Diversified,M
-Stephen Ross,82.0,Real Estate,M
-Pavel Durov,38.0,Technology,M
-Andreas Struengmann & family,73.0,Healthcare,M
-Thomas Struengmann & family,73.0,Healthcare,M
-Liu Hanyuan,59.0,Food & Beverage,M
-Michael Rubin,50.0,Fashion & Retail,M
-Israel Englander,74.0,Finance & Investments,M
-Viatcheslav Kantor,69.0,Manufacturing,M
-Mikhail Prokhorov,57.0,Finance & Investments,M
-Giorgio Armani,88.0,Fashion & Retail,M
-Gong Hongjia & family,58.0,Finance & Investments,M
-Zhang Zhidong,51.0,Technology,M
-Judy Love & family,85.0,Fashion & Retail,F
-Robert Kraft,81.0,Sports,M
-Marcel Herrmann Telles,73.0,Food & Beverage,M
-Suleiman Kerimov & family,57.0,Finance & Investments,M
-Sky Xu,39.0,Fashion & Retail,M
-Changpeng Zhao,45.0,Finance & Investments,M
-Andrew Beal,70.0,Finance & Investments,M
-Mike Cannon-Brookes,43.0,Technology,M
-David Duffield,82.0,Technology,M
-Jeffery Hildebrand,64.0,Energy,M
-Viktor Rashnikov,74.0,Manufacturing,M
-Eduardo Saverin,41.0,Technology,M
-Scott Farquhar,43.0,Technology,M
-Wu Yajun,59.0,Real Estate,F
-Autry Stephens,85.0,Energy,M
-Liu Yongxing,74.0,Service,M
-Vinod Adani,74.0,Diversified,M
-Melker Schorling & family,75.0,Finance & Investments,M
-Andrei Guriev & family,63.0,Manufacturing,M
-Michael Kim,59.0,Finance & Investments,M
-Lei Jun,53.0,Technology,M
-Sun Piaoyang,64.0,Healthcare,M
-Jin Baofang,70.0,Energy,M
-Luo Liguo & family,67.0,Manufacturing,M
-Jim Pattison,94.0,Diversified,M
-Wang Xing,44.0,Technology,M
-Brian Chesky,41.0,Technology,M
-James Dyson,75.0,Manufacturing,M
-Roman Abramovich & family,56.0,Diversified,M
-Daniel Kretinsky,47.0,Energy,M
-John Malone,82.0,Media & Entertainment,M
-Charles Schwab,85.0,Finance & Investments,M
-Eric Smidt,63.0,Fashion & Retail,M
-David Cheriton,72.0,Technology,M
-Ivan Glasenberg,66.0,Metals & Mining,M
-Anthony von Mandl,73.0,Food & Beverage,M
-Wang Liping & family,57.0,Manufacturing,M
-Tatyana Bakalchuk,47.0,Fashion & Retail,F
-John Doerr,71.0,Technology,M
-Richard Liu,49.0,Technology,M
-Dustin Moskovitz,38.0,Technology,M
-Pierre Omidyar,55.0,Technology,M
-Pei Zhenhua,64.0,Energy,M
-Chen Jianhua,52.0,Manufacturing,M
-Leon Black,71.0,Finance & Investments,M
-Graeme Hart,67.0,Finance & Investments,M
-Hasso Plattner & family,79.0,Technology,M
-Carlos Alberto Sicupira & family,75.0,Food & Beverage,M
-Manuel Villar,73.0,Real Estate,M
-Andreas von Bechtolsheim & family,67.0,Technology,M
-"Chase Coleman, III.",47.0,Finance & Investments,M
-Li Zhenguo & family,55.0,Manufacturing,M
-John Morris,75.0,Fashion & Retail,M
-Francis Choi,75.0,Real Estate,M
-German Khan,61.0,Energy,M
-George Roberts,79.0,Finance & Investments,M
-Wang Jianlin,68.0,Real Estate,M
-Tilman Fertitta,65.0,Food & Beverage,M
-Karel Komarek,54.0,Gambling & Casinos,M
-Nathan Blecharczyk,39.0,Technology,M
-Leonid Fedun,66.0,Energy,M
-Bernard Marcus,93.0,Fashion & Retail,M
-Patrick Ryan,85.0,Finance & Investments,M
-Robert F. Smith,60.0,Finance & Investments,M
-Pavel Tykac,58.0,Metals & Mining,M
-Orlando Bravo,52.0,Finance & Investments,M
-Ding Shizhong,52.0,Fashion & Retail,M
-Ramzi Musallam,54.0,Finance & Investments,M
-David Shaw,72.0,Finance & Investments,M
-Andrei Skoch & family,57.0,Metals & Mining,M
-Georg Stumpf,50.0,Diversified,M
-Rocco Commisso,73.0,Telecom,M
-Li Shuirong & family,66.0,Manufacturing,M
-Lin Shu-hong,94.0,Manufacturing,M
-Qi Shi & family,53.0,Technology,M
-Yao Liangsong,58.0,Manufacturing,M
-Zhang Congyuan,75.0,Fashion & Retail,M
-David Geffen,80.0,Media & Entertainment,M
-Robin Li,54.0,Technology,M
-Liu Yonghao & family,71.0,Service,M
-Henry Samueli,68.0,Technology,M
-Reinhold Schmieding,68.0,Healthcare,M
-Ivar Tollefsen,61.0,Real Estate,M
-Cao Renxian,54.0,Energy,M
-Hasmukh Chudgar & family,89.0,Healthcare,M
-Andrew Currie,67.0,Manufacturing,M
-Joe Gebbia,41.0,Technology,M
-John Reece,66.0,Manufacturing,M
-Joseph Tsai,59.0,Technology,M
-Zhong Huijuan,62.0,Healthcare,F
-Arthur Blank,80.0,Sports,M
-Ding Shijia,59.0,Fashion & Retail,M
-"Paul Tudor Jones, II.",68.0,Finance & Investments,M
-Henry Kravis,79.0,Finance & Investments,M
-Zhang Yong,52.0,Food & Beverage,M
-James Goodnight,80.0,Technology,M
-Ma Jianrong,59.0,Fashion & Retail,M
-Steven Rales,72.0,Manufacturing,M
-Harry Stine,81.0,Food & Beverage,M
-Iskander Makhmudov,59.0,Metals & Mining,M
-Wang Laichun,55.0,Technology,F
-Arthur Dantchik,65.0,Finance & Investments,M
-Terry Gou,72.0,Technology,M
-Jeff Greene,68.0,Real Estate,M
-Don Hankey,79.0,Finance & Investments,M
-Richard Kinder,78.0,Energy,M
-Guillaume Pousaz,41.0,Finance & Investments,M
-Zong Qinghou,77.0,Food & Beverage,M
-Judy Faulkner,79.0,Technology,F
-Johann Graf,76.0,Gambling & Casinos,M
-Liang Wengen,66.0,Manufacturing,M
-Zhang Hejun,71.0,Manufacturing,M
-Marc Benioff,58.0,Technology,M
-Dmitri Bukhman,37.0,Media & Entertainment,M
-Igor Bukhman,41.0,Media & Entertainment,M
-Jack Dangermond,77.0,Technology,M
-Ralph Lauren,83.0,Fashion & Retail,M
-J. Christopher Reyes,69.0,Food & Beverage,M
-Jude Reyes,67.0,Food & Beverage,M
-Don Vultaggio & family,71.0,Food & Beverage,M
-Philippe Laffont,55.0,Finance & Investments,M
-Liu Jincheng & family,58.0,Technology,M
-Igor Olenicoff,80.0,Real Estate,M
-Silvio Berlusconi & family,86.0,Diversified,M
-Denise Coates,55.0,Gambling & Casinos,F
-Yuri Milner,61.0,Finance & Investments,M
-Gordon Moore,94.0,Technology,M
-John Overdeck,53.0,Finance & Investments,M
-David Siegel,61.0,Finance & Investments,M
-Viktor Vekselberg,65.0,Diversified,M
-Wang Laisheng,58.0,Technology,M
-Ken Fisher,72.0,Finance & Investments,M
-Christopher Hohn,56.0,Finance & Investments,M
-Li Ping,55.0,Automotive,M
-Lin Jianhua,60.0,Manufacturing,M
-Xavier Niel,55.0,Telecom,M
-Terrence Pegula,72.0,Energy,M
-John A. Sobrato & family,83.0,Real Estate,M
-George Soros,92.0,Finance & Investments,M
-David Sun,71.0,Technology,M
-John Tu,81.0,Technology,M
-Xu Shihui,65.0,Food & Beverage,M
-Bruce Kovner,78.0,Finance & Investments,M
-"Henry Nicholas, III.",63.0,Technology,M
-David Bonderman,80.0,Finance & Investments,M
-Nathan Kirsh,91.0,Fashion & Retail,M
-David Reuben,84.0,Real Estate,M
-Simon Reuben,81.0,Diversified,M
-Radovan Vitek,51.0,Real Estate,M
-Carl Bennet,71.0,Finance & Investments,M
-Stephen Bisciotti,62.0,Sports,M
-Stanley Druckenmiller,69.0,Finance & Investments,M
-Jian Jun,59.0,Healthcare,F
-Alexei Kuzmichev,60.0,Energy,M
-Dmitry Rybolovlev & family,56.0,Manufacturing,M
-Luis Carlos Sarmiento,90.0,Finance & Investments,M
-Dennis Washington,88.0,Logistics,M
-Gao Jifan & family,58.0,Energy,M
-John Grayken,66.0,Finance & Investments,M
-Wang Yusuo & family,59.0,Energy,M
-Stef Wertheimer & family,96.0,Manufacturing,M
-Gustaf Douglas,85.0,Diversified,M
-Frits Goldschmeding,89.0,Service,M
-Lin Muqin & family,59.0,Food & Beverage,M
-Ruan Liping,59.0,Manufacturing,M
-Ruan Xueping,51.0,Manufacturing,M
-Michal Solowow,60.0,Finance & Investments,M
-Mike Adenuga,69.0,Diversified,M
-Tom Gores,58.0,Finance & Investments,M
-Sunil Mittal,65.0,Telecom,M
-Zhou Qunfei,53.0,Technology,F
-Alexander Abramov,64.0,Metals & Mining,M
-Rene Benko,46.0,Real Estate,M
-Neil Bluhm,85.0,Real Estate,M
-Alain Bouchard,74.0,Fashion & Retail,M
-Jay Chaudhry,63.0,Technology,M
-Gopikishan Damani,65.0,Fashion & Retail,M
-Joe Lewis,86.0,Finance & Investments,M
-Frank Lowy,92.0,Finance & Investments,M
-Michael Milken,76.0,Finance & Investments,M
-David Steward,71.0,Technology,M
-Les Wexner & family,85.0,Fashion & Retail,M
-Cai Kui,60.0,Real Estate,M
-Andreas Halvorsen,61.0,Finance & Investments,M
-Antony Ressler,62.0,Finance & Investments,M
-Josh Harris,58.0,Finance & Investments,M
-Patrick Soon-Shiong,70.0,Healthcare,M
-Rinat Akhmetov,56.0,Metals & Mining,M
-John Brown,88.0,Healthcare,M
-Clive Calder,76.0,Media & Entertainment,M
-Lai Meisong,52.0,Logistics,M
-Ken Langone,87.0,Finance & Investments,M
-Li Ge,56.0,Healthcare,M
-Teddy Sagi,51.0,Gambling & Casinos,M
-Seo Jung-jin,65.0,Healthcare,M
-Wu Jianshu,59.0,Automotive,M
-Pierre Chen,66.0,Technology,M
-John Collison,32.0,Technology,M
-Patrick Collison,34.0,Technology,M
-Archie Aldis Emmerson & family,93.0,Manufacturing,M
-Jiang Weiping & family,68.0,Manufacturing,M
-Wolfgang Marguerre & family,81.0,Healthcare,M
-Mitchell Rales,66.0,Manufacturing,M
-Jean Salata,57.0,Finance & Investments,M
-Paul Singer,78.0,Finance & Investments,M
-Sergio Stevanato & family,80.0,Healthcare,M
-Richard White,68.0,Technology,M
-Zhao Yan,56.0,Diversified,F
-Patrizio Bertelli,77.0,Fashion & Retail,M
-Leo Koguan,68.0,Technology,M
-Miao Hangen,58.0,Diversified,M
-Michael Pieper,77.0,Manufacturing,M
-Todd Boehly,49.0,Finance & Investments,M
-Rick Caruso,64.0,Real Estate,M
-Ibrahim Erdemoglu,60.0,Manufacturing,M
-Douglas Leone,65.0,Finance & Investments,M
-Lynda Resnick,80.0,Food & Beverage,F
-Stewart Resnick,86.0,Food & Beverage,M
-Mark Walter,62.0,Finance & Investments,M
-Ronald Wanek,81.0,Manufacturing,M
-Erich Wesjohann & family,77.0,Food & Beverage,M
-M.A. Yusuff Ali,67.0,Fashion & Retail,M
-Alexandre Behring,56.0,Finance & Investments,M
-Cheng Xue,53.0,Food & Beverage,F
-Robert Faith,59.0,Real Estate,M
-Gao Dekang & family,71.0,Fashion & Retail,M
-Ananda Krishnan,85.0,Telecom,M
-Barry Lam,73.0,Technology,M
-Mark Scheinberg,49.0,Gambling & Casinos,M
-Charles Simonyi,74.0,Technology,M
-Ty Warner,78.0,Real Estate,M
-Sam Zell,81.0,Real Estate,M
-Fang Wei,49.0,Manufacturing,M
-Kwon Hyuk-bin,49.0,Media & Entertainment,M
-Sami Mnaymneh,61.0,Finance & Investments,M
-Kjell Inge Rokke,64.0,Logistics,M
-Tony Tamer,65.0,Finance & Investments,M
-Tse Ping & family,71.0,Healthcare,M
-Romesh T. Wadhwani,75.0,Technology,M
-Hansjoerg Wyss,88.0,Healthcare,M
-Ron Baron,79.0,Finance & Investments,M
-Alexander Gerko,43.0,Finance & Investments,M
-"Robert Hale, Jr.",56.0,Telecom,M
-Viktor Kharitonin,50.0,Healthcare,M
-Kim Beom-su,57.0,Technology,M
-George Lucas,78.0,Media & Entertainment,M
-Ugur Sahin,57.0,Healthcare,M
-Chip Wilson,66.0,Fashion & Retail,M
-Jim Davis & family,79.0,Manufacturing,M
-Murali Divi & family,72.0,Healthcare,M
-Marcos Galperin,52.0,Technology,M
-Tom Golisano,81.0,Service,M
-Jonathan Gray,53.0,Finance & Investments,M
-Bidzina Ivanishvili,67.0,Finance & Investments,M
-Lim Hariyanto Wijaya Sarwono,94.0,Metals & Mining,M
-Rudolf Maag,77.0,Healthcare,M
-Dan Snyder,58.0,Sports,M
-Chairul Tanjung,60.0,Diversified,M
-Kelcy Warren,67.0,Energy,M
-Zhang Tao,50.0,Fashion & Retail,M
-Michael Ashley,58.0,Fashion & Retail,M
-Tomasz Biernacki,50.0,Fashion & Retail,M
-Bernard Broermann,79.0,Healthcare,M
-Vinod Khosla,68.0,Technology,M
-Thai Lee,64.0,Technology,F
-Horst Julius Pudwill,78.0,Manufacturing,M
-Yu Yong,62.0,Finance & Investments,M
-Jason Chang,78.0,Technology,M
-Ali Erdemoglu,63.0,Manufacturing,M
-Andre Esteves,54.0,Finance & Investments,M
-Li Gaiteng,50.0,Manufacturing,M
-Thomas Secunda,68.0,Media & Entertainment,M
-Zuowen Song,76.0,Diversified,M
-Tim Sweeney,52.0,Media & Entertainment,M
-Bert Beveridge,61.0,Food & Beverage,M
-Mark Cuban,64.0,Media & Entertainment,M
-Charles Dolan & family,96.0,Media & Entertainment,M
-Jack Dorsey,46.0,Technology,M
-Fan Hongwei,56.0,Energy,F
-Vladimir Kim,62.0,Metals & Mining,M
-Li Chunan,54.0,Manufacturing,M
-Forrest Li,45.0,Media & Entertainment,M
-Issad Rebrab & family,79.0,Food & Beverage,M
-Fred Smith,78.0,Logistics,M
-Barry Sternlicht,62.0,Finance & Investments,M
-Russ Weiner,52.0,Food & Beverage,M
-Xue Min,66.0,Healthcare,M
-Dietmar Hopp & family,82.0,Technology,M
-Jiang Bin,56.0,Technology,M
-Joseph Liemandt,54.0,Technology,M
-N.R. Narayana Murthy,76.0,Technology,M
-Marc Rowan,60.0,Finance & Investments,M
-Hussain Sajwani,70.0,Real Estate,M
-David Velez & family,41.0,Finance & Investments,M
-Xu Jinfu,59.0,Manufacturing,M
-You Xiaoping & family,65.0,Manufacturing,M
-Stéphane Bancel,50.0,Healthcare,M
-Neal Blue & family,88.0,Manufacturing,M
-Jim Davis,63.0,Service,M
-Peter Grogg,81.0,Healthcare,M
-Mangal Prabhat Lodha,67.0,Real Estate,M
-Joe Mansueto,66.0,Finance & Investments,M
-Qian Dongqi & family,65.0,Manufacturing,M
-Mikhail Shelkov,54.0,Metals & Mining,M
-Patrick Drahi,59.0,Telecom,M
-Behdad Eghbali,46.0,Finance & Investments,M
-Juan Carlos Escotet,63.0,Finance & Investments,M
-Jose E. Feliciano,49.0,Finance & Investments,M
-Hu Kaijun,61.0,Healthcare,M
-Johnelle Hunt,91.0,Logistics,F
-Marian Ilitch,90.0,Food & Beverage,F
-Daryl Katz,61.0,Diversified,M
-Andrei Kozitsyn,62.0,Metals & Mining,M
-Timur Kulibaev,56.0,Finance & Investments,M
-Ian Livingstone,60.0,Real Estate,M
-Richard Livingstone,58.0,Real Estate,M
-Jay Paul,75.0,Real Estate,M
-Pham Nhat Vuong,54.0,Diversified,M
-Frank Wang,42.0,Technology,M
-Wang Junshi & family,74.0,Manufacturing,M
-Wang Wenjing,58.0,Technology,M
-Herbert Wertheim,83.0,Finance & Investments,M
-Pyotr Aven,68.0,Finance & Investments,M
-Chan Laiwa & family,82.0,Real Estate,F
-Chen Hua,57.0,Real Estate,M
-Dewi Kam,72.0,Energy,F
-Min Kao & family,74.0,Technology,M
-Marc Ladreit de Lacharriere,82.0,Finance & Investments,M
-Eric Lefkofsky,53.0,Technology,M
-Lin Bin,55.0,Technology,M
-Lin Li,59.0,Finance & Investments,M
-Michael Moritz,68.0,Technology,M
-Jeff Skoll,58.0,Technology,M
-Djoko Susanto,73.0,Fashion & Retail,M
-Tahir & family,71.0,Diversified,M
-Peter Thiel,55.0,Finance & Investments,M
-Andrej Babis,68.0,Food & Beverage,M
-Nick Caporella,87.0,Food & Beverage,M
-John Catsimatidis,74.0,Energy,M
-Scott Cook,70.0,Technology,M
-Hong Jie,55.0,Manufacturing,M
-Igor Kesaev,56.0,Fashion & Retail,M
-Arturo Moreno,76.0,Sports,M
-Peter Spuhler,63.0,Manufacturing,M
-Donald Sterling,88.0,Real Estate,M
-Kerry Stokes,82.0,Diversified,M
-Ken Xie,60.0,Technology,M
-Liangzhi Xie & family,57.0,Healthcare,M
-Ben Chestnut,48.0,Technology,M
-Guangchang Guo,56.0,Diversified,M
-John Henry,73.0,Sports,M
-Travis Kalanick,46.0,Technology,M
-Koon Poh Keong,61.0,Manufacturing,M
-Dan Kurzius,51.0,Technology,M
-Paul Lee,65.0,Manufacturing,M
-Tobi Lutke,42.0,Technology,M
-Gail Miller,79.0,Automotive,F
-Isaac Perlmutter,80.0,Media & Entertainment,M
-Shaul Shani,68.0,Telecom,M
-Steven Spielberg,76.0,Media & Entertainment,M
-Jerzy Starak,75.0,Healthcare,M
-Torbjorn Tornqvist,69.0,Energy,M
-Rufino Vigil Gonzalez,74.0,Metals & Mining,M
-Zhang Daocai,73.0,Diversified,M
-Vanich Chaiyawan,91.0,Finance & Investments,M
-Chen Dongsheng,65.0,Finance & Investments,M
-Guenther Fielmann & family,83.0,Healthcare,M
-Jorge Moll Filho & family,78.0,Healthcare,M
-Gabe Newell,60.0,Gambling & Casinos,M
-Ruan Hongliang & family,62.0,Manufacturing,M
-Mark Stevens,63.0,Finance & Investments,M
-Wu Yiling,73.0,Healthcare,M
-Yu Renrong,57.0,Manufacturing,M
-Zhu Baoguo & family,60.0,Healthcare,M
-Francesco Gaetano Caltagirone,80.0,Construction & Engineering,M
-Barry Diller,81.0,Media & Entertainment,M
-Wesley Edens,61.0,Finance & Investments,M
-Stephen Feinberg,63.0,Finance & Investments,M
-Rakesh Gangwal,69.0,Service,M
-Joseph Grendys,61.0,Food & Beverage,M
-Li Xiang,41.0,Automotive,M
-Trevor Rees-Jones,71.0,Energy,M
-Yasumitsu Shigeta,58.0,Telecom,M
-Su Qingcan,54.0,Healthcare,M
-Steven Udvar-Hazy,77.0,Service,M
-Elizabeth Uihlein,77.0,Manufacturing,F
-Richard Uihlein,77.0,Manufacturing,M
-Hayes Barnard,51.0,Finance & Investments,M
-William Berkley,76.0,Finance & Investments,M
-Yakir Gabay,56.0,Real Estate,M
-Huang Li,59.0,Technology,M
-Brad Jacobs,66.0,Logistics,M
-Ji Qi,56.0,Real Estate,M
-Jason Jiang,50.0,Media & Entertainment,M
-Jim Kavanaugh,60.0,Technology,M
-Mikhail Lomtadze,47.0,Finance & Investments,M
-Tom Morris,68.0,Fashion & Retail,M
-Shigenobu Nagamori,78.0,Manufacturing,M
-Daniel Och,62.0,Finance & Investments,M
-Horst Paulmann & family,88.0,Fashion & Retail,M
-John Sall,75.0,Technology,M
-Howard Schultz,69.0,Food & Beverage,M
-Richard Schulze,82.0,Fashion & Retail,M
-Yitzhak Tshuva,74.0,Real Estate,M
-Wang Yanqing & family,56.0,Manufacturing,M
-Leonid Boguslavsky,71.0,Finance & Investments,M
-Jim Coulter,63.0,Finance & Investments,M
-Bob Gaglardi,82.0,Real Estate,M
-Alan Howard,59.0,Finance & Investments,M
-Huang Yi,61.0,Automotive,M
-Vyacheslav Kim,53.0,Finance & Investments,M
-Josh Kushner,37.0,Finance & Investments,M
-Edwin Leong,71.0,Real Estate,M
-"Stephen Mandel, Jr.",67.0,Finance & Investments,M
-Mohamed Mansour,75.0,Diversified,M
-Masahiro Miki,67.0,Fashion & Retail,M
-Masahiro Noda,84.0,Technology,M
-Cliff Obrecht,37.0,Technology,M
-Melanie Perkins,35.0,Technology,F
-Jerry Speyer & family,82.0,Real Estate,M
-Lawrence Stroll,63.0,Fashion & Retail,M
-Wang Junlin,60.0,Food & Beverage,M
-Xia Zuoquan,61.0,Automotive,M
-Zeng Fangqin,57.0,Technology,F
-Zhang Jian,54.0,Manufacturing,M
-Fashu Chen,62.0,Finance & Investments,M
-Giuseppe Crippa & family,87.0,Manufacturing,M
-Daniel D'Aniello,76.0,Finance & Investments,M
-Walter P.J. Droege,70.0,Finance & Investments,M
-Fan Daidi,57.0,Fashion & Retail,F
-Peter Gassner,58.0,Technology,M
-Mikhail Gutseriev,65.0,Energy,M
-Patrick Lee,81.0,Manufacturing,M
-Leng Youbin,54.0,Food & Beverage,M
-Daniel Loeb,61.0,Finance & Investments,M
-Prasert Prasarttong-Osoth,90.0,Healthcare,M
-Ira Rennert,88.0,Finance & Investments,M
-Dirk Rossmann & family,76.0,Fashion & Retail,M
-Arkady Rotenberg,71.0,Construction & Engineering,M
-Remo Ruffini,61.0,Fashion & Retail,M
-Vivek Chaand Sehgal,66.0,Automotive,M
-Scott Shleifer,45.0,Finance & Investments,M
-Thomas Siebel,70.0,Technology,M
-Xiao Yongming & family,58.0,Diversified,M
-Michael Xie,54.0,Technology,M
-Yang Shaopeng,65.0,Logistics,M
-William Ackman,56.0,Finance & Investments,M
-Somphote Ahunai,55.0,Energy,M
-Igor Altushkin,52.0,Metals & Mining,M
-Ramon Ang,69.0,Food & Beverage,M
-Acharya Balkrishna,50.0,Food & Beverage,M
-Richard Branson,72.0,Diversified,M
-Laurence Graff & family,84.0,Fashion & Retail,M
-"Amos Hostetter, Jr.",86.0,Media & Entertainment,M
-Steven Klinsky,66.0,Finance & Investments,M
-Hiroshi Mikitani,58.0,Fashion & Retail,M
-Bob Parsons,72.0,Technology,M
-J. Joe Ricketts & family,81.0,Finance & Investments,M
-Herb Simon,88.0,Real Estate,M
-Wu Guanjiang & family,54.0,Healthcare,M
-Yi Zheng,52.0,Technology,M
-Eric Yuan & family,53.0,Technology,M
-Charles Zegar,75.0,Media & Entertainment,M
-Mohed Altrad,75.0,Construction & Engineering,M
-John Arnold,49.0,Finance & Investments,M
-Bill Austin,81.0,Manufacturing,M
-Chen Shibin,56.0,Manufacturing,M
-Walter Faria,68.0,Food & Beverage,M
-Fu Liquan & family,55.0,Technology,M
-Peter Gilgan,72.0,Construction & Engineering,M
-Pablo Legorreta,59.0,Finance & Investments,M
-Arnon Milchan,78.0,Media & Entertainment,M
-Akio Nitori,79.0,Fashion & Retail,M
-Julio Ponce Lerou,77.0,Metals & Mining,M
-Rodger Riney & family,77.0,Finance & Investments,M
-Phil Ruffin,88.0,Diversified,M
-Neil Shen,55.0,Finance & Investments,M
-Gil Shwed,54.0,Technology,M
-Stephen Smith,71.0,Finance & Investments,M
-Nik Storonsky,38.0,Finance & Investments,M
-Jeffrey Talpins,48.0,Finance & Investments,M
-Carl Thoma,74.0,Finance & Investments,M
-Xue Hua,53.0,Manufacturing,M
-Takao Yasuda,73.0,Fashion & Retail,M
-Giuliana Benetton,85.0,Fashion & Retail,F
-Luciano Benetton,87.0,Fashion & Retail,M
-Ron Burkle,70.0,Finance & Investments,M
-Chen Kaixuan,64.0,Manufacturing,M
-Brunello Cucinelli & family,69.0,Fashion & Retail,M
-Antonio Del Valle Ruiz & family,84.0,Manufacturing,M
-Gustavo Denegri & family,86.0,Healthcare,M
-Dong Jinggui,53.0,Automotive,M
-Charles Ergen,70.0,Media & Entertainment,M
-David Filo,56.0,Technology,M
-Lindsay Fox,85.0,Logistics,M
-Sergei Galitsky,55.0,Fashion & Retail,M
-Senapathy Gopalakrishnan,67.0,Technology,M
-Luciano Hang,60.0,Fashion & Retail,M
-Michael Hintze,69.0,Finance & Investments,M
-Hu Baifan,60.0,Healthcare,M
-Hamilton James & family,71.0,Finance & Investments,M
-Li Liangbin,55.0,Manufacturing,M
-Liang Feng,54.0,Manufacturing,M
-Aristotelis Mistakidis,61.0,Metals & Mining,M
-Roger Penske,86.0,Automotive,M
-Ravi Pillai,69.0,Construction & Engineering,M
-David Rubenstein,73.0,Finance & Investments,M
-Hilton Schlosberg,70.0,Food & Beverage,M
-Klaus-Peter Schulenberg,71.0,Service,M
-Shen Guojun,60.0,Fashion & Retail,M
-Roman Trotsenko,52.0,Logistics,M
-Vincent Viola,67.0,Finance & Investments,M
-Wu Shaoxun,67.0,Food & Beverage,M
-Steve Wynn,81.0,Gambling & Casinos,M
-Jon Yarbrough,65.0,Gambling & Casinos,M
-Zhou Bajin,87.0,Manufacturing,M
-Cho Tak Wong,76.0,Manufacturing,M
-John Coates,53.0,Gambling & Casinos,M
-Ryan Cohen,37.0,Finance & Investments,M
-Deng Wen,55.0,Food & Beverage,M
-Gurbachan Singh Dhingra,72.0,Manufacturing,M
-Kuldip Singh Dhingra,75.0,Manufacturing,M
-Martin Ebner,77.0,Finance & Investments,M
-Charles Edelstenne,85.0,Manufacturing,M
-Sergei Gordeev,50.0,Real Estate,M
-Jeff T. Green,46.0,Media & Entertainment,M
-Reed Hastings,62.0,Technology,M
-Bertil Hult,82.0,Service,M
-Miguel Krigsner,73.0,Fashion & Retail,M
-Sheldon Lavin,90.0,Food & Beverage,M
-Yin Yee Lee,71.0,Manufacturing,M
-Vladimir Litvinenko & family,67.0,Manufacturing,M
-Daniel Mate,59.0,Metals & Mining,M
-Ravi Modi,46.0,Fashion & Retail,M
-Farhad Moshiri,67.0,Diversified,M
-Jonathan Nelson,66.0,Finance & Investments,M
-Or Wai Sheun,71.0,Real Estate,M
-Sergei Popov,51.0,Finance & Investments,M
-Renzo Rosso & family,67.0,Fashion & Retail,M
-Rita Tong Liu,74.0,Real Estate,F
-Timur Turlov,35.0,Finance & Investments,M
-Frank VanderSloot,74.0,Fashion & Retail,M
-Yoo Jung-hyun,53.0,Media & Entertainment,F
-George Bishop,85.0,Energy,M
-Norman Braman,90.0,Automotive,M
-Cai Dongchen,70.0,Healthcare,M
-Todd Christopher,60.0,Fashion & Retail,M
-Mang Yee Chu & family,63.0,Real Estate,M
-"William Conway, Jr.",73.0,Finance & Investments,M
-Jean Coutu & family,95.0,Fashion & Retail,M
-Stephen Deckoff,57.0,Finance & Investments,M
-Feng Hailiang,62.0,Metals & Mining,M
-"Ernest Garcia, II.",65.0,Automotive,M
-Sam Goi,76.0,Food & Beverage,M
-Hui Ka Yan,64.0,Real Estate,M
-Friedrich Knapp,71.0,Fashion & Retail,M
-Egor Kulkov,51.0,Healthcare,M
-Lin Ming-hsiung,73.0,Fashion & Retail,M
-Lin Xiucheng & family,67.0,Technology,M
-Gilles Martin,59.0,Healthcare,M
-John Paulson,67.0,Finance & Investments,M
-Guanghe Qiu & family,71.0,Fashion & Retail,M
-Erik Selin,55.0,Real Estate,M
-Yonghong Shi & family,54.0,Food & Beverage,M
-Martua Sitorus,63.0,Manufacturing,M
-Guangxin Sun,60.0,Diversified,M
-Sukanto Tanoto,73.0,Diversified,M
-Gang Ye,42.0,Media & Entertainment,M
-Ye Xiaoping,60.0,Healthcare,M
-Lei Zhang,50.0,Finance & Investments,M
-Zhu Gongshan & family,65.0,Manufacturing,M
-Isak Andic & family,69.0,Fashion & Retail,M
-Cao Longxiang & family,65.0,Healthcare,M
-"Roy Carroll, II.",60.0,Real Estate,M
-John Caudwell,70.0,Telecom,M
-James Clark,79.0,Technology,M
-Jacques D'Amours,66.0,Fashion & Retail,M
-John Paul DeJoria,78.0,Fashion & Retail,M
-Bernard Ecclestone & family,92.0,Sports,M
-Michael Federmann & family,79.0,Technology,M
-Gu Yuhua & family,73.0,Manufacturing,M
-Donald Horton & family,73.0,Real Estate,M
-Zarakh Iliev,56.0,Real Estate,M
-Li Jianquan & family,66.0,Healthcare,M
-Li Li,57.0,Healthcare,M
-Li Xiaohua & family,61.0,Manufacturing,M
-Liu Xiaodong,55.0,Manufacturing,M
-Martin Lorentzon,54.0,Technology,M
-Erwin Franz Mueller,90.0,Fashion & Retail,M
-Georg Nemetschek & family,89.0,Technology,M
-God Nisanov,50.0,Real Estate,M
-Gregorio Perez Companc & family,87.0,Energy,M
-Sebastian Piñera & family,73.0,Finance & Investments,M
-Alexey Repik,43.0,Healthcare,M
-Haim Saban,78.0,Media & Entertainment,M
-Rodney Sacks,73.0,Food & Beverage,M
-Karthik Sarma,48.0,Finance & Investments,M
-Daniel Sundheim,46.0,Finance & Investments,M
-Zhang Wenzhong,61.0,Fashion & Retail,M
-Zhou Jianping,62.0,Fashion & Retail,M
-Kang An,74.0,Healthcare,M
-Garrett Camp,44.0,Technology,M
-Chen Lip Keong,75.0,Gambling & Casinos,M
-Choo Chong Ngen,69.0,Real Estate,M
-Du Jiangtao & family,53.0,Manufacturing,M
-Li Weiguo,58.0,Manufacturing,M
-Dmitry Mazepin,54.0,Manufacturing,M
-Najib Mikati,67.0,Telecom,M
-Taha Mikati,78.0,Telecom,M
-Nandan Nilekani,67.0,Technology,M
-Sean Parker,43.0,Technology,M
-Su Hua,41.0,Media & Entertainment,M
-Sun Shoukuan,73.0,Manufacturing,M
-Meg Whitman,66.0,Technology,F
-Wong Luen Hei,61.0,Manufacturing,M
-Chenghai Ye & family,79.0,Healthcare,M
-Zhu Xingming,56.0,Manufacturing,M
-Suhail Bahwan,84.0,Diversified,M
-Harindarpal Banga,72.0,Finance & Investments,M
-Andrei Bokarev,56.0,Manufacturing,M
-Jack Cowin,80.0,Food & Beverage,M
-Glenn Dubin,65.0,Finance & Investments,M
-N. Murray Edwards,63.0,Energy,M
-Bruce Flatt,57.0,Finance & Investments,M
-Robert Friedland,72.0,Metals & Mining,M
-Alexander Frolov,58.0,Metals & Mining,M
-Nithin Kamath,43.0,Finance & Investments,M
-Samvel Karapetyan,57.0,Construction & Engineering,M
-Kei Hoi Pang,57.0,Real Estate,M
-Yuri Kovalchuk & family,71.0,Finance & Investments,M
-Hans Langer,71.0,Manufacturing,M
-Maritsa Lazari & family,78.0,Real Estate,F
-Li Zhongchu,59.0,Technology,M
-Liang Yunchao,54.0,Food & Beverage,M
-Vincent McMahon,77.0,Sports,M
-Patrice Motsepe,61.0,Metals & Mining,M
-Denis O'Brien,64.0,Telecom,M
-Pan Dong,58.0,Fashion & Retail,F
-Karsanbhai Patel,79.0,Diversified,M
-Richard Peery,84.0,Real Estate,M
-Wayne Rothbaum,55.0,Healthcare,M
-Jeff Rothschild,68.0,Technology,M
-Raj Sardana,63.0,Technology,M
-Alexander Skorobogatko,55.0,Logistics,M
-Evan Spiegel,32.0,Technology,M
-Glen Taylor,81.0,Service,M
-Thomas Tull,52.0,Media & Entertainment,M
-Bulat Utemuratov,65.0,Metals & Mining,M
-Wong Man Li,58.0,Manufacturing,M
-Guangming Wu,61.0,Healthcare,M
-Zhu Yi,59.0,Healthcare,M
-Ben Ashkenazy,53.0,Real Estate,M
-Felix Baker,54.0,Finance & Investments,M
-Julian Baker,56.0,Finance & Investments,M
-David Baszucki,60.0,Media & Entertainment,M
-Cen Junda,58.0,Healthcare,M
-Chen Zhiping,47.0,Manufacturing,M
-Fernando Chico Pardo,71.0,Service,M
-Ray Davis,81.0,Energy,M
-Deng Weiming & family,54.0,Manufacturing,M
-Stewart Horejsi & family,85.0,Finance & Investments,M
-Hou Juncheng,58.0,Healthcare,M
-Zhenda Huang & family,75.0,Construction & Engineering,M
-Dmitry Kamenshchik,54.0,Service,M
-Henry Laufer,77.0,Finance & Investments,M
-Louis Le Duff,76.0,Food & Beverage,M
-Mark Leonard & family,66.0,Technology,M
-Li Guoqiang,59.0,Automotive,M
-Li Yongxin,47.0,Service,M
-Peter Lim,69.0,Finance & Investments,M
-Sergio Mantegazza,95.0,Service,M
-Hans Melchers,84.0,Finance & Investments,M
-C. Dean Metropoulos,76.0,Food & Beverage,M
-Falguni Nayar,60.0,Fashion & Retail,F
-Alexander Ponomarenko,58.0,Logistics,M
-Steven Sarowitz,57.0,Technology,M
-Leonard Schleifer,70.0,Healthcare,M
-Michael S. Smith,67.0,Energy,M
-Zhao Lixin,57.0,Technology,M
-Hongyi Zhou,52.0,Technology,M
-S. Daniel Abraham,98.0,Food & Beverage,M
-Thor Bjorgolfsson,56.0,Diversified,M
-Herb Chambers,81.0,Automotive,M
-Cheng Yixiao,39.0,Media & Entertainment,M
-Andrew Cherng,75.0,Food & Beverage,M
-Peggy Cherng,75.0,Food & Beverage,F
-Leon G. Cooperman,79.0,Finance & Investments,M
-Oleg Deripaska,55.0,Metals & Mining,M
-Sergey Dmitriev,57.0,Technology,M
-Joseph Edelman,67.0,Finance & Investments,M
-Sandeep Engineer,61.0,Manufacturing,M
-Alceu Elias Feldmann & family,73.0,Energy,M
-Serge Godin,73.0,Technology,M
-Alec Gores,70.0,Finance & Investments,M
-J. Tomilson Hill,74.0,Finance & Investments,M
-Jay-Z,53.0,Media & Entertainment,M
-Brad Kelley,66.0,Real Estate,M
-Wolfgang Leitner,70.0,Construction & Engineering,M
-Li Hongxin & family,70.0,Manufacturing,M
-Lin Chen-hai,76.0,Real Estate,M
-Lu Yiwen,36.0,Fashion & Retail,F
-Willy Michel,76.0,Healthcare,M
-Bobby Murphy,34.0,Technology,M
-Tomas Olivo Lopez,49.0,Real Estate,M
-Eren Ozmen,64.0,Manufacturing,F
-Qiu Minxiu,77.0,Technology,F
-Wenrong Shen,77.0,Metals & Mining,M
-Yuzhu Shi,60.0,Diversified,M
-Jeff Sutton,63.0,Real Estate,M
-Andrew Tan,71.0,Diversified,M
-Arvind Tiku,53.0,Energy,M
-Byron Trott,64.0,Finance & Investments,M
-Peter Unger,78.0,Automotive,M
-Roger Wang,74.0,Fashion & Retail,M
-Oprah Winfrey,69.0,Media & Entertainment,F
-Wu Zhigang & family,88.0,Food & Beverage,M
-Xie Weitong,66.0,Metals & Mining,M
-Ye Guofu,45.0,Fashion & Retail,M
-Brian Acton,51.0,Technology,M
-Koos Bekker,70.0,Media & Entertainment,M
-Chen Tei-fu,74.0,Fashion & Retail,M
-Marcel Erni,58.0,Finance & Investments,M
-Doris Fisher,91.0,Fashion & Retail,F
-Gerald Ford,78.0,Finance & Investments,M
-Bernard Fraisse & family,66.0,Healthcare,M
-Alfred Gantner,55.0,Finance & Investments,M
-Paul Gauselmann & family,88.0,Gambling & Casinos,M
-Mitchell Goldhar,61.0,Real Estate,M
-Peter Hargreaves,76.0,Finance & Investments,M
-Xuande Hua & family,79.0,Healthcare,M
-Kalanithi Maran,57.0,Media & Entertainment,M
-Jed McCaleb,48.0,Finance & Investments,M
-Fatih Ozmen,65.0,Manufacturing,M
-Pan Laican,"<bound method Series.mean of 0       51.0
-1       59.0
-2       78.0
-3       92.0
-4       67.0
-        ... 
-1807    53.0
-1808    63.0
-1809    51.0
-1810    60.0
-1811    71.0
-Name: age, Length: 1812, dtype: float64>",Food & Beverage,M
-Tor Peterson,58.0,Metals & Mining,M
-Jinxing Qi,61.0,Real Estate,M
-Qiu Jianping & family,61.0,Manufacturing,M
-Matthias Reinhart,63.0,Finance & Investments,M
-Arnout Schuijff,55.0,Technology,M
-Lucio Tan,88.0,Diversified,M
-Tsai Ming-kai,72.0,Technology,M
-David Walentas,84.0,Real Estate,M
-Urs Wietlisbach,61.0,Finance & Investments,M
-Jerry Yang,54.0,Technology,M
-Yang Jianliang & family,53.0,Manufacturing,M
-Yang Weidong & family,54.0,Manufacturing,M
-Mortimer Zuckerman,85.0,Real Estate,M
-John Armitage,63.0,Finance & Investments,M
-John Bicket,43.0,Technology,M
-Sanjit Biswas,41.0,Technology,M
-Timothy Boyle,73.0,Fashion & Retail,M
-Morris Chang,91.0,Technology,M
-Chao Teng-hsiung,78.0,Real Estate,M
-Samuel Chen,73.0,Finance & Investments,M
-Chu Lam Yiu,53.0,Manufacturing,F
-K. Dinesh,68.0,Technology,M
-James Duff,62.0,Diversified,M
-Thomas Duff,66.0,Diversified,M
-Daniel Ek,40.0,Technology,M
-Erman Ilicak,55.0,Construction & Engineering,M
-Long Jiang,49.0,Technology,M
-Bruce Karsh,67.0,Finance & Investments,M
-Bom Kim,44.0,Technology,M
-Jianping Lai,"<bound method Series.mean of 0       51.0
-1       59.0
-2       78.0
-3       92.0
-4       67.0
-        ... 
-1807    53.0
-1808    63.0
-1809    51.0
-1810    60.0
-1811    71.0
-Name: age, Length: 1812, dtype: float64>",Food & Beverage,M
-Lam Kong,58.0,Healthcare,M
-Stephen Lansdown,70.0,Finance & Investments,M
-Li Haiyan,"<bound method Series.mean of 0       51.0
-1       59.0
-2       78.0
-3       92.0
-4       67.0
-        ... 
-1807    53.0
-1808    63.0
-1809    51.0
-1810    60.0
-1811    71.0
-Name: age, Length: 1812, dtype: float64>",Food & Beverage,F
-Hua Li,45.0,Finance & Investments,M
-Clayton Mathile,82.0,Food & Beverage,M
-Mi Enhua,65.0,Fashion & Retail,M
-Vadim Moshkovich,55.0,Food & Beverage,M
-David Murdock,99.0,Food & Beverage,M
-David Nahmad,75.0,Fashion & Retail,M
-Lirio Parisotto,69.0,Finance & Investments,M
-Tang Yiu,89.0,Fashion & Retail,M
-Tian Ming,69.0,Technology,M
-Jayshree Ullal,62.0,Technology,F
-Lang Walker,77.0,Real Estate,M
-Xicheng Wang & family,74.0,Manufacturing,M
-Wang Zhenhua,61.0,Real Estate,M
-Paul-Heinz Wesjohann & family,79.0,Food & Beverage,M
-Xie Bingkun & family,56.0,Fashion & Retail,M
-Xu Shugen,57.0,Manufacturing,M
-Zhang Jingzhang & family,87.0,Manufacturing,M
-George Argyros & family,86.0,Real Estate,M
-Brian Armstrong,40.0,Finance & Investments,M
-Albert Avdolyan,52.0,Energy,M
-Sezai Bacaksiz,73.0,Diversified,M
-Aneel Bhusri,57.0,Technology,M
-Brett Blundy,63.0,Fashion & Retail,M
-Chen Xueli,71.0,Healthcare,M
-Dermot Desmond,72.0,Finance & Investments,M
-Dong Wei,52.0,Healthcare,M
-Tom Ford,61.0,Fashion & Retail,M
-Fu Guangming & family,69.0,Food & Beverage,M
-Noam Gottesman,61.0,Finance & Investments,M
-Jeffrey Gundlach,64.0,Finance & Investments,M
-Hao Hong,67.0,Healthcare,M
-Hans-Werner Hector,83.0,Technology,M
-Lutz Mario Helmig & family,76.0,Healthcare,M
-Chulong Huang,64.0,Real Estate,M
-James Jannard,73.0,Fashion & Retail,M
-Willis Johnson,75.0,Automotive,M
-Lai Shixian,48.0,Fashion & Retail,M
-Chris Larsen,62.0,Finance & Investments,M
-Solomon Lew,78.0,Fashion & Retail,M
-Liang Xinjun,54.0,Diversified,M
-Max Lytvyn,43.0,Technology,M
-Igor Makarov,60.0,Energy,M
-Howard Marks,76.0,Finance & Investments,M
-Charles Munger,99.0,Finance & Investments,M
-Adam Neumann,44.0,Real Estate,M
-Thi Phuong Thao Nguyen,52.0,Diversified,F
-Ni Yongpei & family,71.0,Food & Beverage,M
-Qi Xiangdong,52.0,Technology,M
-Phillip T. (Terry) Ragon,73.0,Technology,M
-Prathap Reddy,91.0,Healthcare,M
-Jerry Reinsdorf,87.0,Sports,M
-Chad Richison,52.0,Technology,M
-"Karl Scheufele, III. & family",84.0,Fashion & Retail,M
-Alice Schwartz,96.0,Healthcare,F
-Alex Shevchenko,43.0,Technology,M
-Kavitark Ram Shriram,66.0,Technology,M
-William Stone,67.0,Technology,M
-Henry Swieca,65.0,Finance & Investments,M
-Katsumi Tada,77.0,Real Estate,M
-Tang Jinkui & family,67.0,Manufacturing,M
-Tang Xiao'ou,55.0,Technology,M
-Wang Wenmo,66.0,Fashion & Retail,M
-Wang Zhenghua,78.0,Service,M
-Kai Wu,55.0,Energy,M
-Xu Yingzhuo,55.0,Food & Beverage,M
-Yeung Kin-man,59.0,Manufacturing,M
-Huijiao Yu,57.0,Logistics,M
-Oren Zeev,58.0,Finance & Investments,M
-Zhao Fenggang,57.0,Energy,M
-Alex Beard,55.0,Metals & Mining,M
-Travis Boersma,52.0,Food & Beverage,M
-William Boyd & family,91.0,Gambling & Casinos,M
-Cao Ji,71.0,Manufacturing,M
-Bruce Cheng,86.0,Technology,M
-Daniel Chiu,62.0,Energy,M
-Beda Diethelm,82.0,Healthcare,M
-Domenico Dolce,64.0,Fashion & Retail,M
-Ralph Dommermuth,59.0,Technology,M
-Georgi Domuschiev,50.0,Diversified,M
-Kiril Domuschiev,53.0,Diversified,M
-Bob Ell,78.0,Real Estate,M
-Paul Foster,65.0,Energy,M
-Stefano Gabbana,60.0,Fashion & Retail,M
-Xingjiang Gao,59.0,Manufacturing,M
-Kamal Ghaffarian,64.0,Energy,M
-Dennis Gillings,78.0,Healthcare,M
-Stein Erik Hagen,66.0,Fashion & Retail,M
-Huang Min,49.0,Manufacturing,M
-Jared Isaacman,40.0,Technology,M
-Eugene Kaspersky,57.0,Technology,M
-Artem Khachatryan,48.0,Fashion & Retail,M
-Andrei Krivenko,47.0,Food & Beverage,M
-Lam Wai-ying,"<bound method Series.mean of 0       51.0
-1       59.0
-2       78.0
-3       92.0
-4       67.0
-        ... 
-1807    53.0
-1808    63.0
-1809    51.0
-1810    60.0
-1811    71.0
-Name: age, Length: 1812, dtype: float64>",Manufacturing,F
-Marc Lasry,62.0,Finance & Investments,M
-Christian Latouche & family,82.0,Finance & Investments,M
-Theodore Leonsis,67.0,Sports,M
-Liu Chengyu & family,60.0,Manufacturing,M
-Sergey Lomakin,49.0,Fashion & Retail,M
-Daniel Lubetzky,54.0,Food & Beverage,M
-Melissa Ma,"<bound method Series.mean of 0       51.0
-1       59.0
-2       78.0
-3       92.0
-4       67.0
-        ... 
-1807    53.0
-1808    63.0
-1809    51.0
-1810    60.0
-1811    71.0
-Name: age, Length: 1812, dtype: float64>",Technology,F
-Kiran Mazumdar-Shaw,70.0,Healthcare,F
-Mu Rongjun,43.0,Technology,M
-Eugene Murtagh,80.0,Manufacturing,M
-Alexander Nesis,60.0,Finance & Investments,M
-Zugen Ni,66.0,Manufacturing,M
-Florentino Perez,76.0,Construction & Engineering,M
-Victor Pinchuk,62.0,Metals & Mining,M
-Leonid Radvinsky,40.0,Technology,M
-Raveendran Byju,41.0,Technology,M
-P.P. Reddy,65.0,Construction & Engineering,M
-Richard Saghian,41.0,Fashion & Retail,M
-Shi Yifeng,49.0,Healthcare,M
-Thaksin Shinawatra,73.0,Finance & Investments,M
-Shu Ping,53.0,Food & Beverage,F
-Timothy Springer,75.0,Healthcare,M
-Edward Stack,68.0,Fashion & Retail,M
-Sun Mengquan & family,73.0,Food & Beverage,M
-Alexander Svetakov,55.0,Finance & Investments,M
-Torsten Toeller,56.0,Fashion & Retail,M
-Hamdi Ulukaya,50.0,Food & Beverage,M
-Wang Linpeng,54.0,Construction & Engineering,M
-Wei Ing-Chou,69.0,Food & Beverage,M
-Wei Yin-Chun,66.0,Food & Beverage,M
-Wei Yin-Heng,64.0,Food & Beverage,M
-Wei Ying-Chiao,68.0,Food & Beverage,M
-Elaine Wynn,80.0,Gambling & Casinos,F
-Xu Xudong & family,53.0,Automotive,M
-Michael Ying,73.0,Fashion & Retail,M
-Yu Qibing & family,57.0,Manufacturing,M
-Yuan Fugen & family,72.0,Manufacturing,M
-Zhang Ning & family,49.0,Manufacturing,F
-Mohamed Al Fayed,94.0,Fashion & Retail,M
-Andrey Andreev,49.0,Technology,M
-Michael Ashcroft,77.0,Finance & Investments,M
-Pavel Baudis,62.0,Technology,M
-Wilhelm Beier & family,66.0,Healthcare,M
-Cao Jianwei,44.0,Manufacturing,M
-Huwen Chen,52.0,Manufacturing,M
-Dou Zhenggang,69.0,Diversified,M
-William Franke,85.0,Diversified,M
-Hu Yangzhong,58.0,Technology,M
-Huang Dawen,62.0,Manufacturing,M
-Huang Qiaoling,64.0,Media & Entertainment,M
-Rajiv Jain,55.0,Finance & Investments,M
-Michael Jordan,60.0,Sports,M
-Shlomo Kramer,57.0,Technology,M
-Heikki Kyostila,77.0,Healthcare,M
-Martin Lau,50.0,Technology,M
-Li Min,57.0,Technology,M
-Liang Rubo,40.0,Technology,M
-Lin Fanlian,61.0,Energy,M
-Bill Malhotra,73.0,Real Estate,M
-Alexander Mamut,63.0,Finance & Investments,M
-Cunhui Nan,59.0,Manufacturing,M
-Tengyun Nie & family,47.0,Service,M
-Clive Palmer,69.0,Metals & Mining,M
-Matthew Prince,48.0,Technology,M
-P.V. Krishna Reddy,53.0,Construction & Engineering,M
-T. Denny Sanford,87.0,Finance & Investments,M
-Bhadresh Shah,71.0,Manufacturing,M
-Zygmunt Solorz-Zak,66.0,Media & Entertainment,M
-Otto Toto Sugiri,69.0,Technology,M
-Larry Tanenbaum,77.0,Sports,M
-Wichai Thongtang,76.0,Finance & Investments,M
-Ion Tiriac,83.0,Finance & Investments,M
-William Young,82.0,Manufacturing,M
-Ales Zavoral,46.0,Fashion & Retail,M
-Zhang Fan,57.0,Technology,M
-Shilong Zhang & family,57.0,Technology,M
-Zhang Wanzhen,73.0,Manufacturing,M
-Hongfei Zhao,48.0,Technology,M
-Zhou Jian,46.0,Energy,M
-Zhu Yiwen & family,59.0,Healthcare,M
-Mika Anttonen,56.0,Energy,M
-David Blitzer,53.0,Sports,M
-Julio Bozano,87.0,Finance & Investments,M
-Nikolai Buinov,55.0,Energy,M
-Jianxing Che,56.0,Fashion & Retail,M
-Huxiong Chen,52.0,Manufacturing,M
-Chen Qiongxiang,"<bound method Series.mean of 0       51.0
-1       59.0
-2       78.0
-3       92.0
-4       67.0
-        ... 
-1807    53.0
-1808    63.0
-1809    51.0
-1810    60.0
-1811    71.0
-Name: age, Length: 1812, dtype: float64>",Energy,F
-Chen Zhisong,57.0,Technology,M
-James Dinan,63.0,Finance & Investments,M
-Dong Fan,53.0,Healthcare,M
-Eduardo Eurnekian,90.0,Diversified,M
-Guo Zhenyu & family,59.0,Fashion & Retail,M
-Roberto Hernandez Ramirez,81.0,Finance & Investments,M
-Reid Hoffman,55.0,Technology,M
-Hu Rongda & family,64.0,Manufacturing,M
-Hui Wing Mau,72.0,Real Estate,M
-Scott Kapnick,64.0,Finance & Investments,M
-Richard Kayne,77.0,Finance & Investments,M
-Edward Lampert,60.0,Finance & Investments,M
-David Lichtenstein,61.0,Real Estate,M
-Lin Dingqiang & family,56.0,Real Estate,M
-Strive Masiyiwa,62.0,Telecom,M
-Robert Miller,89.0,Fashion & Retail,M
-Simon Nixon,55.0,Technology,M
-Kentaro Ogawa,74.0,Food & Beverage,M
-G. Rajendran,80.0,Fashion & Retail,M
-Ren Jianhua,66.0,Manufacturing,M
-Larry Robbins,53.0,Finance & Investments,M
-Dwight Schar,81.0,Construction & Engineering,M
-Shao Jianxiong,"<bound method Series.mean of 0       51.0
-1       59.0
-2       78.0
-3       92.0
-4       67.0
-        ... 
-1807    53.0
-1808    63.0
-1809    51.0
-1810    60.0
-1811    71.0
-Name: age, Length: 1812, dtype: float64>",Energy,M
-Qinxiang Shao,68.0,Manufacturing,M
-Hua Shen,60.0,Technology,M
-Shi Wen-long,95.0,Manufacturing,M
-Peter Sondakh,73.0,Finance & Investments,M
-Masateru Uno & family,76.0,Fashion & Retail,M
-Vardis Vardinoyannis & family,90.0,Energy,M
-Wang Chaobin,67.0,Real Estate,M
-Wang Ren-sheng,91.0,Fashion & Retail,M
-Chuanhua Xu & family,88.0,Manufacturing,M
-Gavril Yushvaev & family,65.0,Finance & Investments,M
-Zhang Hongwei,68.0,Diversified,M
-Cameron Adams,43.0,Technology,M
-Faisal Bin Qassim Al Thani,75.0,Diversified,M
-Leslie Alexander,79.0,Sports,M
-Masaaki Arai,57.0,Real Estate,M
-Sanjeev Bikhchandani,59.0,Technology,M
-O. Francis Biondi,58.0,Finance & Investments,M
-R.G. Chandramogan,74.0,Food & Beverage,M
-Parker Conrad,42.0,Technology,M
-Tim Cook,62.0,Technology,M
-Mark Coombs,62.0,Finance & Investments,M
-John de Mol,68.0,Media & Entertainment,M
-Diao Zhizhong,59.0,Technology,M
-Robert Duggan,78.0,Healthcare,M
-Phillip Frost,86.0,Healthcare,M
-Brian Higgins,58.0,Finance & Investments,M
-Wei Huang,63.0,Real Estate,M
-Yintai Jiang & family,72.0,Automotive,M
-Lei Jin,57.0,Healthcare,M
-Jin Lei & family,68.0,Healthcare,M
-Valentin Kipyatkov,46.0,Technology,M
-George Kurtz,52.0,Technology,M
-Joe Lacob,67.0,Sports,M
-Joe Lau,33.0,Technology,M
-Luo Yangyong & family,47.0,Metals & Mining,M
-Gary Michelson,74.0,Healthcare,M
-Robert G. Miller,77.0,Technology,M
-David Mindus,51.0,Real Estate,M
-Adriaan Mol,39.0,Technology,M
-Mofatraj Munot,78.0,Real Estate,M
-Satyanarayan Nuwal,70.0,Manufacturing,M
-Nihat Ozdemir,72.0,Diversified,M
-Benjamin Zhengmin Pan & family,53.0,Technology,M
-Ronald Perelman,80.0,Finance & Investments,M
-Olivier Pomel,46.0,Technology,M
-Vinod Saraf,70.0,Manufacturing,M
-Anatoly Sedykh,58.0,Metals & Mining,M
-Genhuo Shao,57.0,Food & Beverage,M
-Shen Xiqiang & family,75.0,Energy,M
-S.D. Shibulal,68.0,Technology,M
-Bambang Sutantio,64.0,Food & Beverage,M
-Sze Man Bok,73.0,Manufacturing,M
-Jim Thompson,83.0,Logistics,M
-Tran Dinh Long,62.0,Manufacturing,M
-Alan Trefler,67.0,Technology,M
-Riaz Valani,46.0,Finance & Investments,M
-Pieter van der Does,53.0,Technology,M
-Nikil Viswanathan,35.0,Technology,M
-Todd Wagner,62.0,Media & Entertainment,M
-Evan Williams,51.0,Technology,M
-Wu Yingming,56.0,Energy,M
-Yan Zhi,50.0,Real Estate,M
-Yoshiaki Yoshida,82.0,Fashion & Retail,M
-Zhang Li,70.0,Real Estate,M
-Marc Andreessen,51.0,Finance & Investments,M
-Giovanni Arvedi,85.0,Metals & Mining,M
-Bang Si-hyuk,50.0,Media & Entertainment,M
-David Booth,77.0,Finance & Investments,M
-Jim Breyer,61.0,Technology,M
-Chen Kaichen,"<bound method Series.mean of 0       51.0
-1       59.0
-2       78.0
-3       92.0
-4       67.0
-        ... 
-1807    53.0
-1808    63.0
-1809    51.0
-1810    60.0
-1811    71.0
-Name: age, Length: 1812, dtype: float64>",Manufacturing,M
-Carl DeSantis,83.0,Food & Beverage,M
-Marek Dospiva,53.0,Finance & Investments,M
-Keith Dunleavy & family,53.0,Healthcare,M
-Yasuhiro Fukushima,75.0,Media & Entertainment,M
-Mario Gabelli,81.0,Finance & Investments,M
-John Goff,67.0,Real Estate,M
-Alexandre Grendene Bartelle,73.0,Fashion & Retail,M
-Gerry Harvey,83.0,Fashion & Retail,M
-He Zhaoxi,49.0,Technology,M
-William Heinecke,73.0,Real Estate,M
-Jay Hennick,66.0,Finance & Investments,M
-Hal Jackman,90.0,Finance & Investments,M
-Keeree Kanjanapas,72.0,Real Estate,M
-Osman Kibar,52.0,Healthcare,M
-Kim Chang-soo,62.0,Fashion & Retail,M
-Mustafa Kucuk,59.0,Fashion & Retail,M
-Lai Jianfa,53.0,Logistics,M
-Alexis Lê-Quôc,48.0,Technology,M
-Lei Jufang,70.0,Healthcare,F
-James Leininger,78.0,Healthcare,M
-Xuhui Li,54.0,Food & Beverage,F
-Jimmy John Liautaud,59.0,Food & Beverage,M
-Lin Lairong & family,54.0,Metals & Mining,M
-Lu Di,"<bound method Series.mean of 0       51.0
-1       59.0
-2       78.0
-3       92.0
-4       67.0
-        ... 
-1807    53.0
-1808    63.0
-1809    51.0
-1810    60.0
-1811    71.0
-Name: age, Length: 1812, dtype: float64>",Technology,M
-Palmer Luckey,30.0,Technology,M
-Duncan MacMillan,85.0,Finance & Investments,M
-Yusaku Maezawa,47.0,Technology,M
-Ilson Mateus & family,60.0,Fashion & Retail,M
-Meng Qingshan & family,74.0,Manufacturing,M
-Alberto Palatchi,73.0,Fashion & Retail,M
-Dragos Paval,56.0,Fashion & Retail,M
-Jorge Perez,73.0,Real Estate,M
-Dmitry Pumpyansky,59.0,Metals & Mining,M
-Jinsheng Ren & family,60.0,Healthcare,M
-Ruan Shuilong & family,87.0,Manufacturing,M
-Paul Saville,67.0,Real Estate,M
-Ivan Savvidis & family,64.0,Diversified,M
-Keiichi Shibahara,58.0,Healthcare,M
-Rajju Shroff,89.0,Manufacturing,M
-Sun Huaiqing & family,53.0,Fashion & Retail,M
-Alain Taravella,75.0,Real Estate,M
-Kenneth Tuchman,63.0,Service,M
-Wang Chou-hsiong,82.0,Manufacturing,M
-Wang Minwen,59.0,Technology,M
-Tom Werner,72.0,Sports,M
-Stephen Winn,76.0,Real Estate,M
-Wu Lanlan & family,49.0,Manufacturing,F
-Xu Bingzhong,49.0,Food & Beverage,M
-Yang Xuegang,58.0,Manufacturing,M
-Vladimir Yevtushenkov,74.0,Telecom,M
-David Zalik,49.0,Technology,M
-Zhang Xiaojuan,53.0,Logistics,F
-Zheng Xiaodong,59.0,Manufacturing,M
-Zhong Ruonong & family,60.0,Manufacturing,F
-Noubar Afeyan,60.0,Healthcare,M
-Syed Mokhtar AlBukhary,71.0,Construction & Engineering,M
-Vasily Anisimov,71.0,Metals & Mining,M
-Clifford Asness,56.0,Finance & Investments,M
-Louis Bacon,66.0,Finance & Investments,M
-Bai Baokun,53.0,Manufacturing,M
-Josef Boquoi & family,89.0,Food & Beverage,M
-Cai Huabo,47.0,Technology,M
-Chen Tianshi,38.0,Technology,M
-Chen Yung-tai,87.0,Real Estate,M
-Ivan Chrenko,55.0,Real Estate,M
-Robert Clark,64.0,Construction & Engineering,M
-Jack Cockwell,82.0,Finance & Investments,M
-Tench Coxe,65.0,Finance & Investments,M
-Jim Crane,69.0,Sports,M
-Norbert Dentressangle,68.0,Logistics,M
-Jamie Dimon,67.0,Finance & Investments,M
-Daniel Dines,51.0,Technology,M
-Gary Fegel,49.0,Metals & Mining,M
-"William Foley, II.",78.0,Finance & Investments,M
-Richard Fortin,74.0,Fashion & Retail,M
-Gao Yi & family,54.0,Healthcare,M
-Bill Gross,78.0,Finance & Investments,M
-Irving Grousbeck & family,88.0,Sports,M
-David Hoffmann,70.0,Diversified,M
-Hui Lin Chit,69.0,Manufacturing,M
-Tianjiang Jia & family,60.0,Metals & Mining,M
-Zhaobai Jiang,59.0,Real Estate,M
-Sergei Katsiev,65.0,Fashion & Retail,M
-Kim Jae-young,51.0,Media & Entertainment,M
-Randal J. Kirk,69.0,Healthcare,M
-Pyotr Kondrashev,73.0,Manufacturing,M
-Eiichi Kuriwada,76.0,Logistics,M
-Robert Langer,74.0,Healthcare,M
-Anthony Langley,68.0,Diversified,M
-Li Sze Lim,66.0,Real Estate,M
-Li Wa,57.0,Real Estate,M
-Li Weiwei,46.0,Technology,M
-Liang Qin & family,51.0,Technology,F
-Terence (Terry) Matthews,80.0,Telecom,M
-Jim McKelvey,57.0,Technology,M
-P.N.C. Menon,74.0,Real Estate,M
-Stefan Pierer,66.0,Automotive,M
-Michael Polsky,74.0,Energy,M
-Sathien Sathientham,68.0,Food & Beverage,M
-Shang Xiaobo & family,49.0,Manufacturing,M
-Yuri Shefler,55.0,Food & Beverage,M
-Evgeny (Eugene) Shvidler,59.0,Metals & Mining,M
-Ryan Smith,44.0,Technology,M
-Zakhar Smushkin,61.0,Diversified,M
-Michael Tojner,57.0,Manufacturing,M
-August Troendle,67.0,Healthcare,M
-Sekar Vembu,51.0,Technology,M
-Chris Wallin,70.0,Energy,M
-Wang Changtian,57.0,Media & Entertainment,M
-Ning Wang & family,36.0,Media & Entertainment,M
-Scott Watterson,67.0,Technology,M
-Dan Wilks,66.0,Energy,M
-Anthony Wood,57.0,Technology,M
-Wu Ying,58.0,Manufacturing,M
-Wu Yulan,53.0,Healthcare,F
-Zhongyi Wu,49.0,Technology,M
-Xiang Guangming & family,59.0,Manufacturing,M
-Xue Xiangdong & family,64.0,Technology,M
-George Yancopoulos,63.0,Healthcare,M
-Steven Meng Yang & family,40.0,Technology,M
-Ye Fan & family,52.0,Automotive,M
-Yi Dasheng,62.0,Diversified,M
-Yu Lili,55.0,Manufacturing,F
-Zeng Kaitian,48.0,Technology,M
-Zhang Xuexin & family,75.0,Metals & Mining,M
-Yubai Zhang,58.0,Food & Beverage,M
-Fredrik Österberg,52.0,Gambling & Casinos,M
-Hamdi Akin & family,68.0,Diversified,M
-Nerio Alessandri,61.0,Manufacturing,M
-Mori Arkin,70.0,Healthcare,M
-Zadik Bino & family,79.0,Diversified,M
-Ahmet Calik,65.0,Diversified,M
-Safra Catz,61.0,Technology,F
-Chu Jian,60.0,Manufacturing,M
-Sandor Csanyi,70.0,Diversified,M
-Bharat Desai,70.0,Technology,M
-Egon Durban,49.0,Finance & Investments,M
-Fu Mingkang & family,60.0,Manufacturing,M
-Alan Gerry,94.0,Media & Entertainment,M
-Philippe Ginestet & family,69.0,Fashion & Retail,M
-G. Gnanalingam,78.0,Logistics,M
-Wei Gu,58.0,Manufacturing,M
-Patrick Hanrahan,67.0,Technology,M
-Kenneth Hao,54.0,Finance & Investments,M
-Jaroslav Hascak & family,53.0,Finance & Investments,M
-He Zhenggang,69.0,Manufacturing,M
-Niranjan Hiranandani,73.0,Real Estate,M
-Ho Hung Anh,52.0,Finance & Investments,M
-Archie Hwang,70.0,Technology,M
-Peter Jackson,61.0,Media & Entertainment,M
-Stephen Jarislowsky,97.0,Finance & Investments,M
-Rajeev Juneja,57.0,Healthcare,M
-Ramesh Juneja,67.0,Healthcare,M
-Ke Xiping & family,62.0,Diversified,M
-Kim Jun-ki,78.0,Diversified,M
-Sidney Kimmel,95.0,Fashion & Retail,M
-Jim Koch,73.0,Food & Beverage,M
-Raj Kumar,68.0,Real Estate,M
-Li Jianli,50.0,Manufacturing,M
-Li Jiaquan,59.0,Manufacturing,M
-Li Rucheng,71.0,Fashion & Retail,M
-Li Shui-po,66.0,Manufacturing,M
-Scott Lin,90.0,Technology,M
-Liu Xiucai & family,66.0,Manufacturing,M
-Lu Zhongfang,80.0,Automotive,F
-Lu Zongjun,59.0,Logistics,M
-Youssef Mansour,77.0,Diversified,M
-Bruce Mathieson,79.0,Real Estate,M
-Romano Minozzi,88.0,Diversified,M
-Greg Mondre,48.0,Finance & Investments,M
-Mario Moretti Polegato & family,70.0,Fashion & Retail,M
-Jerry Moyes & family,79.0,Logistics,M
-John Ocampo,63.0,Technology,M
-Nelson Peltz,80.0,Finance & Investments,M
-Mike Repole,55.0,Food & Beverage,M
-Christopher Rokos,52.0,Finance & Investments,M
-John Ruiz,56.0,Service,M
-Sheryl Sandberg,53.0,Technology,F
-Amnon Shashua,62.0,Automotive,M
-Ben Silbermann,40.0,Media & Entertainment,M
-Ron Sim,64.0,Fashion & Retail,M
-Leonid Simanovsky,73.0,Finance & Investments,M
-Basudeo Singh,82.0,Healthcare,M
-Frank Slootman,64.0,Technology,M
-Terry Snow,79.0,Real Estate,M
-Axel Stawski,72.0,Real Estate,M
-Thomas Steyer,65.0,Finance & Investments,M
-Sergei Studennikov & family,56.0,Fashion & Retail,M
-Su Suyu & family,74.0,Real Estate,F
-Kevin Systrom,39.0,Technology,M
-Tan Lili,"<bound method Series.mean of 0       51.0
-1       59.0
-2       78.0
-3       92.0
-4       67.0
-        ... 
-1807    53.0
-1808    63.0
-1809    51.0
-1810    60.0
-1811    71.0
-Name: age, Length: 1812, dtype: float64>",Food & Beverage,F
-Tang Binsen,40.0,Food & Beverage,M
-Tang Rui,"<bound method Series.mean of 0       51.0
-1       59.0
-2       78.0
-3       92.0
-4       67.0
-        ... 
-1807    53.0
-1808    63.0
-1809    51.0
-1810    60.0
-1811    71.0
-Name: age, Length: 1812, dtype: float64>",Technology,M
-Prachak Tangkaravakoon,79.0,Manufacturing,M
-Jeff Tangney,50.0,Healthcare,M
-Yuequn Tao,63.0,Fashion & Retail,M
-David Teoh,67.0,Telecom,M
-Tran Ba Duong & family,63.0,Automotive,M
-Kenny Troutt,75.0,Telecom,M
-Jens von Bahr,52.0,Gambling & Casinos,M
-Wang Junmin,54.0,Healthcare,M
-Weng Xianding,61.0,Healthcare,M
-Farris Wilks,71.0,Energy,M
-Gordon Wu,87.0,Real Estate,M
-Xiong Wu,47.0,Technology,M
-Xu Zhenhua,"<bound method Series.mean of 0       51.0
-1       59.0
-2       78.0
-3       92.0
-4       67.0
-        ... 
-1807    53.0
-1808    63.0
-1809    51.0
-1810    60.0
-1811    71.0
-Name: age, Length: 1812, dtype: float64>",Media & Entertainment,M
-Xu Zhihan,50.0,Technology,M
-Tingdong Yang,62.0,Food & Beverage,M
-Michael Minhong Yu,61.0,Service,M
-Justin Yuan,"<bound method Series.mean of 0       51.0
-1       59.0
-2       78.0
-3       92.0
-4       67.0
-        ... 
-1807    53.0
-1808    63.0
-1809    51.0
-1810    60.0
-1811    71.0
-Name: age, Length: 1812, dtype: float64>",Media & Entertainment,M
-Zhang Bangxin,43.0,Service,M
-Zhang Hong,"<bound method Series.mean of 0       51.0
-1       59.0
-2       78.0
-3       92.0
-4       67.0
-        ... 
-1807    53.0
-1808    63.0
-1809    51.0
-1810    60.0
-1811    71.0
-Name: age, Length: 1812, dtype: float64>",Energy,F
-Zhou Zongwen & family,66.0,Fashion & Retail,M
-Alberto Alcocer,80.0,Finance & Investments,M
-Nigel Austin,52.0,Fashion & Retail,M
-Binny Bansal,40.0,Technology,M
-Girdhari Lal Bawri,75.0,Healthcare,M
-John Bloor,79.0,Diversified,M
-Vladimir Bogdanov,71.0,Energy,M
-Cai Jianyong,52.0,Metals & Mining,M
-Steve Case,64.0,Technology,M
-Chen Wenyuan & family,55.0,Technology,M
-Chua Thian Poh,74.0,Real Estate,M
-Sasson Dayan & family,83.0,Finance & Investments,M
-Chris Ellison,65.0,Metals & Mining,M
-John Farber,97.0,Manufacturing,M
-J. Christopher Flowers,65.0,Finance & Investments,M
-Reinold Geiger,75.0,Fashion & Retail,M
-Ali Ghodsi,44.0,Technology,M
-Guan Yihong,53.0,Food & Beverage,M
-Rajinder Gupta,64.0,Manufacturing,M
-Torstein Hagen,80.0,Service,M
-Alfredo Harp Helu & family,79.0,Finance & Investments,M
-He Xiaopeng,45.0,Automotive,M
-Drew Houston,40.0,Technology,M
-Huang Jinxiang & family,58.0,Manufacturing,M
-Rameshchandra Jain,74.0,Manufacturing,M
-Ke Zunhong & family,68.0,Healthcare,M
-Kim Taek-jin,56.0,Media & Entertainment,M
-Koh Wee Meng,59.0,Real Estate,M
-Sergei Kolesnikov,51.0,Manufacturing,M
-Michael Lee-Chin,72.0,Finance & Investments,M
-Bernard Lewis & family,97.0,Fashion & Retail,M
-William Li,48.0,Automotive,M
-Liu Fangyi,53.0,Healthcare,M
-K.C. Liu,69.0,Technology,M
-Liu Ming Chung,60.0,Manufacturing,M
-Anatoly Lomakin,70.0,Metals & Mining,M
-Lucia Maggi & family,90.0,Diversified,F
-Mao Lixiang & family,82.0,Technology,M
-David McMurtry,82.0,Manufacturing,M
-Miao Shouliang,68.0,Real Estate,M
-Miao Yongjun,55.0,Healthcare,M
-Marius Nacht,57.0,Technology,M
-Vadim Novinsky,59.0,Metals & Mining,M
-Pan Longquan,58.0,Manufacturing,M
-Pan Shiyi,60.0,Real Estate,M
-David Paul,56.0,Healthcare,M
-Qian Jinghong,50.0,Automotive,F
-Qin Long,57.0,Manufacturing,M
-M.Satyanarayana Reddy,65.0,Healthcare,M
-Mochtar Riady & family,93.0,Diversified,M
-Rihanna,35.0,Fashion & Retail,F
-Boris Rotenberg,66.0,Construction & Engineering,M
-Subhash Runwal,79.0,Real Estate,M
-Igor Rybakov,50.0,Manufacturing,M
-Martin Selig,85.0,Real Estate,M
-Airat Shaimiev,61.0,Energy,M
-Radik Shaimiev,58.0,Energy,M
-Nobutoshi Shimamura,97.0,Fashion & Retail,M
-Jared Smith,48.0,Technology,M
-Jianyi Wang,60.0,Technology,M
-Wang Jilei,58.0,Logistics,M
-Shuifu Wang,68.0,Manufacturing,M
-Werner O. Weber,84.0,Manufacturing,M
-"Alfred West, Jr.",80.0,Finance & Investments,M
-Bo Wu,68.0,Manufacturing,M
-Wu Chaoqun,53.0,Manufacturing,M
-Swift Xie,43.0,Technology,M
-Xu Guozhong & family,59.0,Manufacturing,M
-Yao Kuizhang,58.0,Food & Beverage,M
-Yu Peidi,63.0,Real Estate,M
-Zhang Chuanwei & family,60.0,Manufacturing,M
-Zhang Keqiang,62.0,Real Estate,M
-Zhang Xin,57.0,Real Estate,F
-Xinghai Zhang & family,60.0,Manufacturing,M
-Zheng Jianjiang & family,62.0,Manufacturing,M
-Zhong Sheng Jian,65.0,Real Estate,M
-Zhou Chengjian,57.0,Fashion & Retail,M
-Boris Zingarevich,63.0,Diversified,M
-A. Jayson Adair,53.0,Automotive,M
-Soegiarto Adikoesoemo,85.0,Logistics,M
-Rajendra Agarwal,64.0,Healthcare,M
-Anant Asavabhokhin,72.0,Real Estate,M
-Roman Avdeev,55.0,Finance & Investments,M
-Ziv Aviram,64.0,Automotive,M
-Sachin Bansal,41.0,Fashion & Retail,M
-Kiki Barki,83.0,Energy,M
-Elena Baturina,60.0,Construction & Engineering,F
-Banwari Lal Bawri,70.0,Healthcare,M
-Stewart Butterfield,50.0,Technology,M
-Cai Mingtong,71.0,Technology,M
-Anthony Casalena,40.0,Technology,M
-Chang Jianming & family,58.0,Manufacturing,M
-Richard Chang,76.0,Real Estate,M
-Chen Xuehua,62.0,Metals & Mining,M
-Chen Yin,50.0,Manufacturing,M
-Chin Jong Hwa,64.0,Automotive,M
-R. Marcelo Claure,52.0,Telecom,M
-Alberto Cortina,77.0,Finance & Investments,M
-Eduardo Costantini,76.0,Real Estate,M
-Wenjun Dai,54.0,Food & Beverage,M
-Anand Deshpande,60.0,Technology,M
-Aydin Dogan,86.0,Media & Entertainment,M
-Weimin Du,59.0,Healthcare,M
-Timothy Dunn & family,67.0,Energy,M
-Keiko Erikawa,74.0,Media & Entertainment,F
-Yoichi Erikawa,72.0,Media & Entertainment,M
-Philip Fayer,45.0,Finance & Investments,M
-Marvy Finger,87.0,Real Estate,M
-Joel Greenberg,65.0,Finance & Investments,M
-He Zhiping,59.0,Finance & Investments,M
-Hoi Kin Hong,70.0,Real Estate,M
-Gregg Hymowitz,57.0,Finance & Investments,M
-Anurang Jain,61.0,Manufacturing,M
-Jiang Guiting & family,64.0,Manufacturing,M
-Jin Xin,56.0,Manufacturing,M
-Conni Jonsson,62.0,Finance & Investments,M
-George Joseph,101.0,Finance & Investments,M
-Laurent Junique,57.0,Technology,M
-Zbigniew Juroszek & family,60.0,Diversified,M
-Alexander Karp,55.0,Technology,M
-Joe Kiani,58.0,Healthcare,M
-Seth Klarman,65.0,Finance & Investments,M
-Kagemasa Kozuki,82.0,Technology,M
-Michael Krasny,69.0,Technology,M
-Eduard Kucera,70.0,Technology,M
-Kristo Käärmann,42.0,Finance & Investments,M
-Lee Hae-jin,55.0,Technology,M
-Art Levinson,73.0,Diversified,M
-Li Denghai,73.0,Food & Beverage,M
-Fengluan Li,61.0,Diversified,F
-Li Yongqing,58.0,Manufacturing,M
-Li Zhigang,46.0,Manufacturing,M
-Liu Gexin & family,71.0,Healthcare,M
-Lu Hongyan,45.0,Media & Entertainment,M
-Lv Jianming,58.0,Healthcare,M
-Yasseen Mansour,61.0,Diversified,M
-Charlwin Mao,"<bound method Series.mean of 0       51.0
-1       59.0
-2       78.0
-3       92.0
-4       67.0
-        ... 
-1807    53.0
-1808    63.0
-1809    51.0
-1810    60.0
-1811    71.0
-Name: age, Length: 1812, dtype: float64>",Fashion & Retail,M
-George Marcus,81.0,Real Estate,M
-Yves-Loic Martin,57.0,Healthcare,M
-Carsten Maschmeyer,63.0,Finance & Investments,M
-Martin Moller Nielsen,58.0,Logistics,M
-Jahm Najafi,60.0,Finance & Investments,M
-Randal Nardone,67.0,Finance & Investments,M
-Nguyen Dang Quang,59.0,Food & Beverage,M
-Kazuo Okada,80.0,Gambling & Casinos,M
-John Oyler,55.0,Healthcare,M
-George Pedersen & family,87.0,Manufacturing,M
-Qu Miranda,38.0,Fashion & Retail,F
-Jupally Rameshwar Rao,67.0,Real Estate,M
-G. M. Rao,72.0,Logistics,M
-P.V. Ramprasad Reddy,65.0,Healthcare,M
-Igor Rotenberg,49.0,Diversified,M
-Seifeddin Rustamov,60.0,Manufacturing,M
-Hajime Satomi,81.0,Gambling & Casinos,M
-James Scapa,66.0,Technology,M
-Devi Shetty,70.0,Healthcare,M
-Albert Shigaboutdinov,70.0,Diversified,M
-Denis Shtengelov,50.0,Food & Beverage,M
-Fei Song,56.0,Manufacturing,M
-Konstantin Strukov & family,64.0,Metals & Mining,M
-Rustem Sulteev,69.0,Energy,M
-Clemens Toennies,66.0,Food & Beverage,M
-John Van Lieshout,77.0,Real Estate,M
-Pongsak Viddayakorn,89.0,Healthcare,M
-Wang Jianguo,63.0,Fashion & Retail,M
-Junjin Wang,54.0,Service,M
-Wang Mingwang,55.0,Manufacturing,M
-Wei Lidong & family,47.0,Technology,M
-Myron Wentz,83.0,Fashion & Retail,M
-Wu Xiaoge,50.0,Manufacturing,F
-Wu Xushun & family,74.0,Diversified,M
-Xiong Xiaochuan,57.0,Healthcare,M
-Xu Shaochun,60.0,Technology,M
-Yan Jane & family,53.0,Technology,F
-Zeng Chaoyi,54.0,Manufacturing,M
-Peng Zhao,52.0,Service,M
-Zhao Tongtong,56.0,Service,F
-Kostyantin Zhevago,49.0,Metals & Mining,M
-Zong Yanmin,"<bound method Series.mean of 0       51.0
-1       59.0
-2       78.0
-3       92.0
-4       67.0
-        ... 
-1807    53.0
-1808    63.0
-1809    51.0
-1810    60.0
-1811    71.0
-Name: age, Length: 1812, dtype: float64>",Manufacturing,M
-Sanjay Agarwal,52.0,Finance & Investments,M
-Joao Alves de Queiroz Filho,70.0,Diversified,M
-Michael Arougheti,50.0,Finance & Investments,M
-Tope Awotona,41.0,Technology,M
-Mehmet Aydinlar,66.0,Healthcare,M
-Bai Houshan,59.0,Energy,M
-Thomas Bailey,86.0,Finance & Investments,M
-Jeffrey Cheah,78.0,Real Estate,M
-Chen Xianbao & family,63.0,Food & Beverage,M
-Cheng Xianfeng,54.0,Healthcare,M
-Darwin Deason,82.0,Service,M
-Ashwin Desai,71.0,Manufacturing,M
-Richard Desmond,71.0,Media & Entertainment,M
-Sefik Yilmaz Dizdar,85.0,Fashion & Retail,M
-Farhad Ebrahimi,84.0,Manufacturing,M
-Fang Hongbo,56.0,Manufacturing,M
-Zsolt Felcsuti,51.0,Manufacturing,M
-Ben Francis,30.0,Fashion & Retail,M
-Gary Friedman,65.0,Fashion & Retail,M
-Balkrishan Goenka,56.0,Manufacturing,M
-Lawrence Golub,63.0,Finance & Investments,M
-Saroj Rani Gupta,72.0,Manufacturing,F
-Anthony Hall,67.0,Technology,M
-Richard Hayne,75.0,Fashion & Retail,M
-Michael Heine,73.0,Finance & Investments,M
-Orion Hindawi,43.0,Technology,M
-Huang Guanlin,58.0,Fashion & Retail,M
-Sam Hupert,68.0,Technology,M
-Mohammed Ibrahim,76.0,Telecom,M
-David Kaplan,55.0,Finance & Investments,M
-Kim Kardashian,42.0,Fashion & Retail,F
-Ke Guihua,57.0,Manufacturing,M
-Ke Yunfeng & family,56.0,Healthcare,M
-Alexander Klyachin,55.0,Real Estate,M
-Guy Laliberté,63.0,Media & Entertainment,M
-Lee Su-jin,45.0,Technology,M
-Li Guoqing,53.0,Manufacturing,M
-Li Li,59.0,Healthcare,M
-Li Ruiqiang,43.0,Healthcare,M
-Zhen Li & family,59.0,Manufacturing,M
-Guangwei Liang,59.0,Manufacturing,M
-Liu Ming Hui,60.0,Energy,M
-Frederic Luddy,68.0,Technology,M
-Mao Zhongwu,60.0,Manufacturing,M
-Lorinc Meszaros,57.0,Diversified,M
-Jeffrey Michael & family,66.0,Technology,M
-Alan Miller & family,85.0,Healthcare,M
-Ulrich Mommert & family,82.0,Automotive,M
-Scott Nuttall,50.0,Finance & Investments,M
-Jonathan Oringer,48.0,Technology,M
-Vitaly Orlov,58.0,Food & Beverage,M
-Jose Isaac Peres & family,82.0,Real Estate,M
-Markus Persson,43.0,Media & Entertainment,M
-Mark Pincus,57.0,Technology,M
-Forrest Preston,90.0,Healthcare,M
-Qian Ying,57.0,Food & Beverage,F
-Jimmy Rane,76.0,Manufacturing,M
-Andrei Rappoport,59.0,Finance & Investments,M
-Bennett Rosenthal,59.0,Finance & Investments,M
-Thomas Sandell,62.0,Finance & Investments,M
-Gerald Schwartz,81.0,Finance & Investments,M
-Antonio Luiz Seabra,80.0,Fashion & Retail,M
-Eric Ya Shen,52.0,Technology,M
-Sytse 'Sid' Sijbrandij,43.0,Technology,M
-Abhay Soi,49.0,Healthcare,M
-Mike Speiser,52.0,Technology,M
-Michael Steinhardt,82.0,Finance & Investments,M
-Ion Stoica,58.0,Technology,M
-Eddy Sugianto,77.0,Metals & Mining,M
-Luc Tack,61.0,Manufacturing,M
-Tony Tan Caktiong,70.0,Food & Beverage,M
-Xiuguo Tang,59.0,Manufacturing,M
-Sam Tarascio,78.0,Real Estate,M
-Ching Bor Tung,60.0,Manufacturing,M
-Joop van den Ende,81.0,Media & Entertainment,M
-Ruben Vardanyan & family,54.0,Finance & Investments,M
-Sandro Veronesi & family,63.0,Fashion & Retail,M
-Thongma Vijitpongpun,65.0,Real Estate,M
-Thomas von Koch,57.0,Finance & Investments,M
-Wang Fuji,"<bound method Series.mean of 0       51.0
-1       59.0
-2       78.0
-3       92.0
-4       67.0
-        ... 
-1807    53.0
-1808    63.0
-1809    51.0
-1810    60.0
-1811    71.0
-Name: age, Length: 1812, dtype: float64>",Healthcare,M
-Wang Shih-Chung,61.0,Manufacturing,M
-Wang Xiaoshen,54.0,Manufacturing,M
-J. Wayne Weaver,87.0,Diversified,M
-Cameron Winklevoss,41.0,Finance & Investments,M
-Tyler Winklevoss,41.0,Finance & Investments,M
-Wu Yonghua,52.0,Fashion & Retail,M
-Xia Xinde,58.0,Manufacturing,M
-Wenbo Xiang,60.0,Manufacturing,M
-Xu Jin,58.0,Food & Beverage,M
-Xu Shijun & family,60.0,Manufacturing,M
-Wanmao Xu,78.0,Service,M
-Xu Yuejuan,61.0,Manufacturing,F
-Vadim Yakunin,60.0,Healthcare,M
-Yang Yunyun,46.0,Fashion & Retail,F
-Matei Zaharia,37.0,Technology,M
-Zan Shengda,60.0,Diversified,M
-Zhang Xuezheng,47.0,Technology,M
-Zhang Yin,66.0,Manufacturing,F
-Ning Zhao,56.0,Healthcare,F
-Zhou Wen & family,58.0,Manufacturing,M
-Zhu Xingliang,63.0,Construction & Engineering,M
-Hari Krishan Agarwal,66.0,Fashion & Retail,M
-Farkhad Akhmedov,67.0,Energy,M
-Joseph Bae,51.0,Finance & Investments,M
-Sara Blakely,52.0,Fashion & Retail,F
-Lloyd Blankfein,68.0,Finance & Investments,M
-Henadiy Boholyubov,61.0,Diversified,M
-Stephane Bonvin,56.0,Real Estate,M
-Oleg Boyko,58.0,Diversified,M
-Ryan Breslow,28.0,Technology,M
-Marina Budiman,61.0,Technology,F
-Cai Hongbin,"<bound method Series.mean of 0       51.0
-1       59.0
-2       78.0
-3       92.0
-4       67.0
-        ... 
-1807    53.0
-1808    63.0
-1809    51.0
-1810    60.0
-1811    71.0
-Name: age, Length: 1812, dtype: float64>",Healthcare,M
-Cao Kejian,60.0,Manufacturing,M
-Chang Jing,40.0,Technology,M
-Chen Baohua,61.0,Healthcare,M
-Gang Chen,55.0,Energy,M
-Liying Chen,47.0,Logistics,F
-Tony Chen,73.0,Technology,M
-Chen Xueling,55.0,Manufacturing,F
-Cheng Lili,58.0,Food & Beverage,M
-Cho Jyh-jer,"<bound method Series.mean of 0       51.0
-1       59.0
-2       78.0
-3       92.0
-4       67.0
-        ... 
-1807    53.0
-1808    63.0
-1809    51.0
-1810    60.0
-1811    71.0
-Name: age, Length: 1812, dtype: float64>",Technology,M
-Weili Dai,61.0,Technology,F
-Deng Yingzhong,72.0,Manufacturing,M
-Shlomo Eliahu,87.0,Finance & Investments,M
-Henry Engelhardt,65.0,Finance & Investments,M
-Gabriel Escarrer,88.0,Service,M
-Gleb Fetisov,56.0,Telecom,M
-Paul Fireman,79.0,Fashion & Retail,M
-Bernd Freier,66.0,Fashion & Retail,M
-Donald Friese,82.0,Manufacturing,M
-Gan Zhongru,74.0,Healthcare,M
-David Golub,60.0,Finance & Investments,M
-Pavel Golubkov,47.0,Real Estate,M
-Cristina Green,74.0,Fashion & Retail,F
-Philip Green,65.0,Fashion & Retail,M
-He Zuxun,57.0,Food & Beverage,M
-David Hindawi,78.0,Technology,M
-Huang Shan,52.0,Technology,M
-Huang Xiaofen & family,61.0,Technology,F
-Chatchai Kaewbootta,71.0,Finance & Investments,M
-Nikhil Kamath,36.0,Finance & Investments,M
-Fumio Kaneko,66.0,Service,M
-Ali Metin Kazanci,88.0,Energy,M
-Kangbao Ke & family,60.0,Healthcare,M
-Carsten Koerl,58.0,Sports,M
-Andrei Kosogov,62.0,Energy,M
-Yogesh Kothari,74.0,Manufacturing,M
-Manuel Lao Hernández,78.0,Gambling & Casinos,M
-Lee Joong-keun,82.0,Construction & Engineering,M
-Lin Zhijun,47.0,Healthcare,M
-Lin Zhixiong & family,49.0,Healthcare,M
-Lu Rongfu,52.0,Telecom,M
-Lyu Yixiong,60.0,Fashion & Retail,M
-Soichiro Minami,46.0,Technology,M
-Dmitry Nikolaev,56.0,Energy,M
-Adrian Paval,54.0,Fashion & Retail,M
-Antonio Percassi,69.0,Diversified,M
-Kevin Plank,50.0,Fashion & Retail,M
-Pu Zhongjie & family,60.0,Healthcare,M
-Rao Wei & family,58.0,Healthcare,M
-Matthew Roszak,50.0,Finance & Investments,M
-Paul Sciarra,42.0,Technology,M
-Dean Solon,58.0,Energy,M
-Michael Spencer,67.0,Finance & Investments,M
-Joseph Steinberg,79.0,Finance & Investments,M
-Manny Stul,73.0,Manufacturing,M
-Sun Hongjun,49.0,Technology,M
-Sun Weijie,59.0,Manufacturing,M
-Sehat Sutardja,61.0,Technology,M
-Min-Liang Tan,45.0,Media & Entertainment,M
-Tan Yu Yeh,52.0,Fashion & Retail,M
-Tang Aoqi & family,77.0,Automotive,M
-Tsao Ter-fung,76.0,Food & Beverage,M
-Tung Ching Sai,58.0,Manufacturing,M
-Arkady Volozh,59.0,Technology,M
-Wan Long,82.0,Food & Beverage,M
-Lars Wingefors,46.0,Media & Entertainment,M
-Allan Wong,73.0,Manufacturing,M
-Tiger Woods,47.0,Sports,M
-Horst Wortmann,81.0,Fashion & Retail,M
-Wu Kaiting,53.0,Telecom,M
-Wu Li-gann,82.0,Manufacturing,M
-Wu Xiangdong,54.0,Food & Beverage,M
-Xiu Laigui,68.0,Healthcare,M
-Xu Jiangnan,61.0,Healthcare,M
-Xue Jiping,72.0,Telecom,M
-Yao Hsiao Tung,83.0,Manufacturing,M
-Ye Qiongjiu,68.0,Technology,F
-Yanqiao Ye,53.0,Food & Beverage,M
-Yeh Kuo-I,81.0,Manufacturing,M
-Yu Faxiang,51.0,Media & Entertainment,M
-Kapeng Zhang,58.0,Construction & Engineering,M
-Zhang Xuansong,51.0,Fashion & Retail,M
-Zhang Xuewu,48.0,Food & Beverage,M
-Zhu Yiming,50.0,Technology,M
-Zhu Zhaojiang,49.0,Manufacturing,M
-Christian Angermayer,44.0,Finance & Investments,M
-Ryuji Arai,76.0,Fashion & Retail,M
-Jimmy Buffett,76.0,Media & Entertainment,M
-Edouard Carmignac,75.0,Finance & Investments,M
-Chen Jiancheng,64.0,Manufacturing,M
-Rui Chen,45.0,Media & Entertainment,M
-Chen Shiliang,59.0,Manufacturing,M
-Tianqiao Chen,49.0,Technology,M
-Yuantai Chen,55.0,Energy,M
-Cheng Antares,65.0,Food & Beverage,M
-Kochouseph Chittilappilly,72.0,Manufacturing,M
-John Christodoulou,57.0,Real Estate,M
-Pollyanna Chu,64.0,Finance & Investments,F
-Turgay Ciner,67.0,Diversified,M
-Benoit Dageville,56.0,Technology,M
-Mark Dixon,63.0,Real Estate,M
-Du Yulin & family,50.0,Technology,M
-Feng Yuxia,58.0,Healthcare,F
-Gao Yunfeng,56.0,Manufacturing,M
-Jianming Geng,60.0,Real Estate,M
-Sven Hagströmer,79.0,Finance & Investments,M
-Hang Hong,55.0,Manufacturing,F
-He Yamin & family,66.0,Manufacturing,M
-Hong Feng,46.0,Technology,M
-Hu Gengxi & family,59.0,Healthcare,M
-Danilo Iervolino,45.0,Technology,M
-Hedda im Brahm-Droege,68.0,Finance & Investments,F
-Inder Jaisinghani,70.0,Manufacturing,M
-LeBron James,38.0,Sports,M
-Morris Kahn,93.0,Technology,M
-Ashok Kajaria,75.0,Manufacturing,M
-Marcelo Kalim,53.0,Finance & Investments,M
-Ken Kendrick,79.0,Sports,M
-Brad Keywell,53.0,Technology,M
-Muhammed Aziz Khan,68.0,Energy,M
-Kim Jung-woong,48.0,Fashion & Retail,M
-Ihor Kolomoyskyy,60.0,Diversified,M
-Kong Jian Min,55.0,Real Estate,M
-Michael Kum,78.0,Real Estate,M
-Richard Kurtz,82.0,Real Estate,M
-Lev Kvetnoi,57.0,Finance & Investments,M
-Michiel Le Roux,73.0,Finance & Investments,M
-Li Wanqiang,45.0,Technology,M
-Liu Baolin,69.0,Fashion & Retail,M
-Loo Choon Yong,74.0,Healthcare,M
-Lu Yonghua & family,59.0,Technology,M
-Ma Xiuhui,52.0,Manufacturing,F
-Apoorva Mehta,36.0,Technology,M
-Andrei Molchanov,51.0,Construction & Engineering,M
-Fulvio Montipò & family,78.0,Manufacturing,M
-Tyler Perry,53.0,Media & Entertainment,M
-Réal Plourde,"<bound method Series.mean of 0       51.0
-1       59.0
-2       78.0
-3       92.0
-4       67.0
-        ... 
-1807    53.0
-1808    63.0
-1809    51.0
-1810    60.0
-1811    71.0
-Name: age, Length: 1812, dtype: float64>",Fashion & Retail,M
-George Sakellaris,76.0,Energy,M
-Eddy Kusnadi Sariaatmadja,69.0,Media & Entertainment,M
-Neerja Sethi,68.0,Technology,F
-Scott Smith,73.0,Technology,M
-Petter Stordalen & family,60.0,Service,M
-Ivan Streshinsky,53.0,Diversified,M
-Sergei Sudarikov,51.0,Finance & Investments,M
-David Tran & family,77.0,Food & Beverage,M
-Kenzo Tsujimoto,82.0,Media & Entertainment,M
-Murat Vargi,75.0,Telecom,M
-Shigefumi Wada,70.0,Technology,M
-Wan Feng & family,54.0,Healthcare,M
-Wang Jianfeng & family,53.0,Automotive,M
-Masaru Wasami,77.0,Logistics,M
-V. Prem Watsa,72.0,Finance & Investments,M
-Wen Pengcheng & family,60.0,Food & Beverage,M
-Toto Wolff,51.0,Sports,M
-Xie Bingzheng & family,54.0,Fashion & Retail,M
-Xu Gang,59.0,Manufacturing,M
-Yan Junxu,53.0,Manufacturing,M
-Yi Xianzhong & family,63.0,Healthcare,M
-Yu Rong,51.0,Healthcare,M
-Zhang Gongyun,60.0,Manufacturing,M
-Zhang Guiping & family,71.0,Real Estate,M
+Elon Musk,51,Automotive,M
+Jeff Bezos,59,Technology,M
+Larry Ellison,78,Technology,M
+Warren Buffett,92,Finance & Investments,M
+Bill Gates,67,Technology,M
+Michael Bloomberg,81,Media & Entertainment,M
+Carlos Slim Helu & family,83,Telecom,M
+Steve Ballmer,67,Technology,M
+Larry Page,50,Technology,M
+Amancio Ortega,87,Fashion & Retail,M
+Sergey Brin,49,Technology,M
+Zhong Shanshan,68,Food & Beverage,M
+Mark Zuckerberg,38,Technology,M
+Michael Dell,58,Technology,M
+Gautam Adani,60,Diversified,M
+Phil Knight & family,85,Fashion & Retail,M
+Zhang Yiming,39,Technology,M
+François Pinault & family,86,Fashion & Retail,M
+Li Ka-shing,94,Diversified,M
+Ma Huateng,51,Technology,M
+Ken Griffin,54,Finance & Investments,M
+Robin Zeng,54,Automotive,M
+Tadashi Yanai & family,74,Fashion & Retail,M
+Len Blavatnik,65,Diversified,M
+Gianluigi Aponte,82,Logistics,M
+Rafaela Aponte-Diamant,78,Logistics,F
+Colin Zheng Huang,43,Technology,M
+Reinhold Wuerth & family,87,Manufacturing,M
+Lee Shau Kee,95,Real Estate,M
+Jeff Yass,64,Finance & Investments,M
+Jim Simons,84,Finance & Investments,M
+Stephen Schwarzman,76,Finance & Investments,M
+William Ding,51,Technology,M
+Shiv Nadar,77,Technology,M
+Low Tuck Kwong,74,Energy,M
+Thomas Peterffy,78,Finance & Investments,M
+Andrey Melnichenko & family,51,Metals & Mining,M
+Vladimir Potanin,62,Metals & Mining,M
+Jack Ma,58,Technology,M
+He Xiangjian & family,80,Manufacturing,M
+James Ratcliffe,70,Manufacturing,M
+Masayoshi Son,65,Telecom,M
+Vladimir Lisin,66,Metals & Mining,M
+Leonid Mikhelson & family,67,Energy,M
+Wang Wei,52,Service,M
+Jensen Huang,60,Technology,M
+Takemitsu Takizaki,77,Manufacturing,M
+Alexey Mordashov & family,57,Metals & Mining,M
+Vagit Alekperov,72,Energy,M
+"Thomas Frist, Jr. & family",84,Healthcare,M
+Andrew Forrest,61,Metals & Mining,M
+Ray Dalio,73,Finance & Investments,M
+Eric Li,59,Automotive,M
+Wang Wenyin,55,Metals & Mining,M
+Qin Yinglin,57,Food & Beverage,M
+Wang Chuanfu,57,Automotive,M
+Harold Hamm & family,77,Energy,M
+David Tepper,65,Finance & Investments,M
+Gennady Timchenko,70,Energy,M
+Daniel Gilbert,61,Finance & Investments,M
+Steve Cohen,66,Finance & Investments,M
+Carl Icahn,87,Finance & Investments,M
+Donald Bren,90,Real Estate,M
+"John Menard, Jr.",83,Fashion & Retail,M
+Li Xiting,72,Healthcare,M
+Eric Schmidt,67,Technology,M
+Michael Platt,55,Finance & Investments,M
+Pang Kang,67,Food & Beverage,M
+Jorge Paulo Lemann & family,83,Food & Beverage,M
+Dilip Shanghvi,67,Healthcare,M
+Robert Pera,45,Technology,M
+Radhakishan Damani,68,Fashion & Retail,M
+Huang Shilin,56,Automotive,M
+David Green & family,81,Fashion & Retail,M
+Charoen Sirivadhanabhakdi,78,Food & Beverage,M
+Xu Hang,60,Healthcare,M
+Wei Jianjun & family,59,Automotive,M
+Alisher Usmanov,69,Metals & Mining,M
+Goh Cheng Liang,95,Manufacturing,M
+Aliko Dangote,65,Manufacturing,M
+Chen Bang,57,Healthcare,M
+Lui Che Woo,94,Gambling & Casinos,M
+John Fredriksen,78,Logistics,M
+Diane Hendricks,76,Construction & Engineering,F
+Jan Koum,47,Technology,M
+Jerry Jones,80,Sports,M
+Joseph Lau,71,Real Estate,M
+Lu Xiangyang,60,Automotive,M
+Harry Triguboff,90,Real Estate,M
+Uday Kotak,64,Finance & Investments,M
+Stanley Kroenke,75,Sports,M
+Mikhail Fridman,58,Energy,M
+Sarath Ratanavadi,57,Energy,M
+Dang Yanbao,50,Metals & Mining,M
+Jiang Rensheng & family,69,Healthcare,M
+Shahid Khan,72,Automotive,M
+Robert Kuok,99,Diversified,M
+Stephen Ross,82,Real Estate,M
+Pavel Durov,38,Technology,M
+Andreas Struengmann & family,73,Healthcare,M
+Thomas Struengmann & family,73,Healthcare,M
+Liu Hanyuan,59,Food & Beverage,M
+Michael Rubin,50,Fashion & Retail,M
+Israel Englander,74,Finance & Investments,M
+Viatcheslav Kantor,69,Manufacturing,M
+Mikhail Prokhorov,57,Finance & Investments,M
+Giorgio Armani,88,Fashion & Retail,M
+Gong Hongjia & family,58,Finance & Investments,M
+Zhang Zhidong,51,Technology,M
+Judy Love & family,85,Fashion & Retail,F
+Robert Kraft,81,Sports,M
+Marcel Herrmann Telles,73,Food & Beverage,M
+Suleiman Kerimov & family,57,Finance & Investments,M
+Sky Xu,39,Fashion & Retail,M
+Changpeng Zhao,45,Finance & Investments,M
+Andrew Beal,70,Finance & Investments,M
+Mike Cannon-Brookes,43,Technology,M
+David Duffield,82,Technology,M
+Jeffery Hildebrand,64,Energy,M
+Viktor Rashnikov,74,Manufacturing,M
+Eduardo Saverin,41,Technology,M
+Scott Farquhar,43,Technology,M
+Wu Yajun,59,Real Estate,F
+Autry Stephens,85,Energy,M
+Liu Yongxing,74,Service,M
+Vinod Adani,74,Diversified,M
+Melker Schorling & family,75,Finance & Investments,M
+Andrei Guriev & family,63,Manufacturing,M
+Michael Kim,59,Finance & Investments,M
+Lei Jun,53,Technology,M
+Sun Piaoyang,64,Healthcare,M
+Jin Baofang,70,Energy,M
+Luo Liguo & family,67,Manufacturing,M
+Jim Pattison,94,Diversified,M
+Wang Xing,44,Technology,M
+Brian Chesky,41,Technology,M
+James Dyson,75,Manufacturing,M
+Roman Abramovich & family,56,Diversified,M
+Daniel Kretinsky,47,Energy,M
+John Malone,82,Media & Entertainment,M
+Charles Schwab,85,Finance & Investments,M
+Eric Smidt,63,Fashion & Retail,M
+David Cheriton,72,Technology,M
+Ivan Glasenberg,66,Metals & Mining,M
+Anthony von Mandl,73,Food & Beverage,M
+Wang Liping & family,57,Manufacturing,M
+Tatyana Bakalchuk,47,Fashion & Retail,F
+John Doerr,71,Technology,M
+Richard Liu,49,Technology,M
+Dustin Moskovitz,38,Technology,M
+Pierre Omidyar,55,Technology,M
+Pei Zhenhua,64,Energy,M
+Chen Jianhua,52,Manufacturing,M
+Leon Black,71,Finance & Investments,M
+Graeme Hart,67,Finance & Investments,M
+Hasso Plattner & family,79,Technology,M
+Carlos Alberto Sicupira & family,75,Food & Beverage,M
+Manuel Villar,73,Real Estate,M
+Andreas von Bechtolsheim & family,67,Technology,M
+"Chase Coleman, III.",47,Finance & Investments,M
+Li Zhenguo & family,55,Manufacturing,M
+John Morris,75,Fashion & Retail,M
+Francis Choi,75,Real Estate,M
+German Khan,61,Energy,M
+George Roberts,79,Finance & Investments,M
+Wang Jianlin,68,Real Estate,M
+Tilman Fertitta,65,Food & Beverage,M
+Karel Komarek,54,Gambling & Casinos,M
+Nathan Blecharczyk,39,Technology,M
+Leonid Fedun,66,Energy,M
+Bernard Marcus,93,Fashion & Retail,M
+Patrick Ryan,85,Finance & Investments,M
+Robert F. Smith,60,Finance & Investments,M
+Pavel Tykac,58,Metals & Mining,M
+Orlando Bravo,52,Finance & Investments,M
+Ding Shizhong,52,Fashion & Retail,M
+Ramzi Musallam,54,Finance & Investments,M
+David Shaw,72,Finance & Investments,M
+Andrei Skoch & family,57,Metals & Mining,M
+Georg Stumpf,50,Diversified,M
+Rocco Commisso,73,Telecom,M
+Li Shuirong & family,66,Manufacturing,M
+Lin Shu-hong,94,Manufacturing,M
+Qi Shi & family,53,Technology,M
+Yao Liangsong,58,Manufacturing,M
+Zhang Congyuan,75,Fashion & Retail,M
+David Geffen,80,Media & Entertainment,M
+Robin Li,54,Technology,M
+Liu Yonghao & family,71,Service,M
+Henry Samueli,68,Technology,M
+Reinhold Schmieding,68,Healthcare,M
+Ivar Tollefsen,61,Real Estate,M
+Cao Renxian,54,Energy,M
+Hasmukh Chudgar & family,89,Healthcare,M
+Andrew Currie,67,Manufacturing,M
+Joe Gebbia,41,Technology,M
+John Reece,66,Manufacturing,M
+Joseph Tsai,59,Technology,M
+Zhong Huijuan,62,Healthcare,F
+Arthur Blank,80,Sports,M
+Ding Shijia,59,Fashion & Retail,M
+"Paul Tudor Jones, II.",68,Finance & Investments,M
+Henry Kravis,79,Finance & Investments,M
+Zhang Yong,52,Food & Beverage,M
+James Goodnight,80,Technology,M
+Ma Jianrong,59,Fashion & Retail,M
+Steven Rales,72,Manufacturing,M
+Harry Stine,81,Food & Beverage,M
+Iskander Makhmudov,59,Metals & Mining,M
+Wang Laichun,55,Technology,F
+Arthur Dantchik,65,Finance & Investments,M
+Terry Gou,72,Technology,M
+Jeff Greene,68,Real Estate,M
+Don Hankey,79,Finance & Investments,M
+Richard Kinder,78,Energy,M
+Guillaume Pousaz,41,Finance & Investments,M
+Zong Qinghou,77,Food & Beverage,M
+Judy Faulkner,79,Technology,F
+Johann Graf,76,Gambling & Casinos,M
+Liang Wengen,66,Manufacturing,M
+Zhang Hejun,71,Manufacturing,M
+Marc Benioff,58,Technology,M
+Dmitri Bukhman,37,Media & Entertainment,M
+Igor Bukhman,41,Media & Entertainment,M
+Jack Dangermond,77,Technology,M
+Ralph Lauren,83,Fashion & Retail,M
+J. Christopher Reyes,69,Food & Beverage,M
+Jude Reyes,67,Food & Beverage,M
+Don Vultaggio & family,71,Food & Beverage,M
+Philippe Laffont,55,Finance & Investments,M
+Liu Jincheng & family,58,Technology,M
+Igor Olenicoff,80,Real Estate,M
+Silvio Berlusconi & family,86,Diversified,M
+Denise Coates,55,Gambling & Casinos,F
+Yuri Milner,61,Finance & Investments,M
+Gordon Moore,94,Technology,M
+John Overdeck,53,Finance & Investments,M
+David Siegel,61,Finance & Investments,M
+Viktor Vekselberg,65,Diversified,M
+Wang Laisheng,58,Technology,M
+Ken Fisher,72,Finance & Investments,M
+Christopher Hohn,56,Finance & Investments,M
+Li Ping,55,Automotive,M
+Lin Jianhua,60,Manufacturing,M
+Xavier Niel,55,Telecom,M
+Terrence Pegula,72,Energy,M
+John A. Sobrato & family,83,Real Estate,M
+George Soros,92,Finance & Investments,M
+David Sun,71,Technology,M
+John Tu,81,Technology,M
+Xu Shihui,65,Food & Beverage,M
+Bruce Kovner,78,Finance & Investments,M
+"Henry Nicholas, III.",63,Technology,M
+David Bonderman,80,Finance & Investments,M
+Nathan Kirsh,91,Fashion & Retail,M
+David Reuben,84,Real Estate,M
+Simon Reuben,81,Diversified,M
+Radovan Vitek,51,Real Estate,M
+Carl Bennet,71,Finance & Investments,M
+Stephen Bisciotti,62,Sports,M
+Stanley Druckenmiller,69,Finance & Investments,M
+Jian Jun,59,Healthcare,F
+Alexei Kuzmichev,60,Energy,M
+Dmitry Rybolovlev & family,56,Manufacturing,M
+Luis Carlos Sarmiento,90,Finance & Investments,M
+Dennis Washington,88,Logistics,M
+Gao Jifan & family,58,Energy,M
+John Grayken,66,Finance & Investments,M
+Wang Yusuo & family,59,Energy,M
+Stef Wertheimer & family,96,Manufacturing,M
+Gustaf Douglas,85,Diversified,M
+Frits Goldschmeding,89,Service,M
+Lin Muqin & family,59,Food & Beverage,M
+Ruan Liping,59,Manufacturing,M
+Ruan Xueping,51,Manufacturing,M
+Michal Solowow,60,Finance & Investments,M
+Mike Adenuga,69,Diversified,M
+Tom Gores,58,Finance & Investments,M
+Sunil Mittal,65,Telecom,M
+Zhou Qunfei,53,Technology,F
+Alexander Abramov,64,Metals & Mining,M
+Rene Benko,46,Real Estate,M
+Neil Bluhm,85,Real Estate,M
+Alain Bouchard,74,Fashion & Retail,M
+Jay Chaudhry,63,Technology,M
+Gopikishan Damani,65,Fashion & Retail,M
+Joe Lewis,86,Finance & Investments,M
+Frank Lowy,92,Finance & Investments,M
+Michael Milken,76,Finance & Investments,M
+David Steward,71,Technology,M
+Les Wexner & family,85,Fashion & Retail,M
+Cai Kui,60,Real Estate,M
+Andreas Halvorsen,61,Finance & Investments,M
+Antony Ressler,62,Finance & Investments,M
+Josh Harris,58,Finance & Investments,M
+Patrick Soon-Shiong,70,Healthcare,M
+Rinat Akhmetov,56,Metals & Mining,M
+John Brown,88,Healthcare,M
+Clive Calder,76,Media & Entertainment,M
+Lai Meisong,52,Logistics,M
+Ken Langone,87,Finance & Investments,M
+Li Ge,56,Healthcare,M
+Teddy Sagi,51,Gambling & Casinos,M
+Seo Jung-jin,65,Healthcare,M
+Wu Jianshu,59,Automotive,M
+Pierre Chen,66,Technology,M
+John Collison,32,Technology,M
+Patrick Collison,34,Technology,M
+Archie Aldis Emmerson & family,93,Manufacturing,M
+Jiang Weiping & family,68,Manufacturing,M
+Wolfgang Marguerre & family,81,Healthcare,M
+Mitchell Rales,66,Manufacturing,M
+Jean Salata,57,Finance & Investments,M
+Paul Singer,78,Finance & Investments,M
+Sergio Stevanato & family,80,Healthcare,M
+Richard White,68,Technology,M
+Zhao Yan,56,Diversified,F
+Patrizio Bertelli,77,Fashion & Retail,M
+Leo Koguan,68,Technology,M
+Miao Hangen,58,Diversified,M
+Michael Pieper,77,Manufacturing,M
+Todd Boehly,49,Finance & Investments,M
+Rick Caruso,64,Real Estate,M
+Ibrahim Erdemoglu,60,Manufacturing,M
+Douglas Leone,65,Finance & Investments,M
+Lynda Resnick,80,Food & Beverage,F
+Stewart Resnick,86,Food & Beverage,M
+Mark Walter,62,Finance & Investments,M
+Ronald Wanek,81,Manufacturing,M
+Erich Wesjohann & family,77,Food & Beverage,M
+M.A. Yusuff Ali,67,Fashion & Retail,M
+Alexandre Behring,56,Finance & Investments,M
+Cheng Xue,53,Food & Beverage,F
+Robert Faith,59,Real Estate,M
+Gao Dekang & family,71,Fashion & Retail,M
+Ananda Krishnan,85,Telecom,M
+Barry Lam,73,Technology,M
+Mark Scheinberg,49,Gambling & Casinos,M
+Charles Simonyi,74,Technology,M
+Ty Warner,78,Real Estate,M
+Sam Zell,81,Real Estate,M
+Fang Wei,49,Manufacturing,M
+Kwon Hyuk-bin,49,Media & Entertainment,M
+Sami Mnaymneh,61,Finance & Investments,M
+Kjell Inge Rokke,64,Logistics,M
+Tony Tamer,65,Finance & Investments,M
+Tse Ping & family,71,Healthcare,M
+Romesh T. Wadhwani,75,Technology,M
+Hansjoerg Wyss,88,Healthcare,M
+Ron Baron,79,Finance & Investments,M
+Alexander Gerko,43,Finance & Investments,M
+"Robert Hale, Jr.",56,Telecom,M
+Viktor Kharitonin,50,Healthcare,M
+Kim Beom-su,57,Technology,M
+George Lucas,78,Media & Entertainment,M
+Ugur Sahin,57,Healthcare,M
+Chip Wilson,66,Fashion & Retail,M
+Jim Davis & family,79,Manufacturing,M
+Murali Divi & family,72,Healthcare,M
+Marcos Galperin,52,Technology,M
+Tom Golisano,81,Service,M
+Jonathan Gray,53,Finance & Investments,M
+Bidzina Ivanishvili,67,Finance & Investments,M
+Lim Hariyanto Wijaya Sarwono,94,Metals & Mining,M
+Rudolf Maag,77,Healthcare,M
+Dan Snyder,58,Sports,M
+Chairul Tanjung,60,Diversified,M
+Kelcy Warren,67,Energy,M
+Zhang Tao,50,Fashion & Retail,M
+Michael Ashley,58,Fashion & Retail,M
+Tomasz Biernacki,50,Fashion & Retail,M
+Bernard Broermann,79,Healthcare,M
+Vinod Khosla,68,Technology,M
+Thai Lee,64,Technology,F
+Horst Julius Pudwill,78,Manufacturing,M
+Yu Yong,62,Finance & Investments,M
+Jason Chang,78,Technology,M
+Ali Erdemoglu,63,Manufacturing,M
+Andre Esteves,54,Finance & Investments,M
+Li Gaiteng,50,Manufacturing,M
+Thomas Secunda,68,Media & Entertainment,M
+Zuowen Song,76,Diversified,M
+Tim Sweeney,52,Media & Entertainment,M
+Bert Beveridge,61,Food & Beverage,M
+Mark Cuban,64,Media & Entertainment,M
+Charles Dolan & family,96,Media & Entertainment,M
+Jack Dorsey,46,Technology,M
+Fan Hongwei,56,Energy,F
+Vladimir Kim,62,Metals & Mining,M
+Li Chunan,54,Manufacturing,M
+Forrest Li,45,Media & Entertainment,M
+Issad Rebrab & family,79,Food & Beverage,M
+Fred Smith,78,Logistics,M
+Barry Sternlicht,62,Finance & Investments,M
+Russ Weiner,52,Food & Beverage,M
+Xue Min,66,Healthcare,M
+Dietmar Hopp & family,82,Technology,M
+Jiang Bin,56,Technology,M
+Joseph Liemandt,54,Technology,M
+N.R. Narayana Murthy,76,Technology,M
+Marc Rowan,60,Finance & Investments,M
+Hussain Sajwani,70,Real Estate,M
+David Velez & family,41,Finance & Investments,M
+Xu Jinfu,59,Manufacturing,M
+You Xiaoping & family,65,Manufacturing,M
+Stéphane Bancel,50,Healthcare,M
+Neal Blue & family,88,Manufacturing,M
+Jim Davis,63,Service,M
+Peter Grogg,81,Healthcare,M
+Mangal Prabhat Lodha,67,Real Estate,M
+Joe Mansueto,66,Finance & Investments,M
+Qian Dongqi & family,65,Manufacturing,M
+Mikhail Shelkov,54,Metals & Mining,M
+Patrick Drahi,59,Telecom,M
+Behdad Eghbali,46,Finance & Investments,M
+Juan Carlos Escotet,63,Finance & Investments,M
+Jose E. Feliciano,49,Finance & Investments,M
+Hu Kaijun,61,Healthcare,M
+Johnelle Hunt,91,Logistics,F
+Marian Ilitch,90,Food & Beverage,F
+Daryl Katz,61,Diversified,M
+Andrei Kozitsyn,62,Metals & Mining,M
+Timur Kulibaev,56,Finance & Investments,M
+Ian Livingstone,60,Real Estate,M
+Richard Livingstone,58,Real Estate,M
+Jay Paul,75,Real Estate,M
+Pham Nhat Vuong,54,Diversified,M
+Frank Wang,42,Technology,M
+Wang Junshi & family,74,Manufacturing,M
+Wang Wenjing,58,Technology,M
+Herbert Wertheim,83,Finance & Investments,M
+Pyotr Aven,68,Finance & Investments,M
+Chan Laiwa & family,82,Real Estate,F
+Chen Hua,57,Real Estate,M
+Dewi Kam,72,Energy,F
+Min Kao & family,74,Technology,M
+Marc Ladreit de Lacharriere,82,Finance & Investments,M
+Eric Lefkofsky,53,Technology,M
+Lin Bin,55,Technology,M
+Lin Li,59,Finance & Investments,M
+Michael Moritz,68,Technology,M
+Jeff Skoll,58,Technology,M
+Djoko Susanto,73,Fashion & Retail,M
+Tahir & family,71,Diversified,M
+Peter Thiel,55,Finance & Investments,M
+Andrej Babis,68,Food & Beverage,M
+Nick Caporella,87,Food & Beverage,M
+John Catsimatidis,74,Energy,M
+Scott Cook,70,Technology,M
+Hong Jie,55,Manufacturing,M
+Igor Kesaev,56,Fashion & Retail,M
+Arturo Moreno,76,Sports,M
+Peter Spuhler,63,Manufacturing,M
+Donald Sterling,88,Real Estate,M
+Kerry Stokes,82,Diversified,M
+Ken Xie,60,Technology,M
+Liangzhi Xie & family,57,Healthcare,M
+Ben Chestnut,48,Technology,M
+Guangchang Guo,56,Diversified,M
+John Henry,73,Sports,M
+Travis Kalanick,46,Technology,M
+Koon Poh Keong,61,Manufacturing,M
+Dan Kurzius,51,Technology,M
+Paul Lee,65,Manufacturing,M
+Tobi Lutke,42,Technology,M
+Gail Miller,79,Automotive,F
+Isaac Perlmutter,80,Media & Entertainment,M
+Shaul Shani,68,Telecom,M
+Steven Spielberg,76,Media & Entertainment,M
+Jerzy Starak,75,Healthcare,M
+Torbjorn Tornqvist,69,Energy,M
+Rufino Vigil Gonzalez,74,Metals & Mining,M
+Zhang Daocai,73,Diversified,M
+Vanich Chaiyawan,91,Finance & Investments,M
+Chen Dongsheng,65,Finance & Investments,M
+Guenther Fielmann & family,83,Healthcare,M
+Jorge Moll Filho & family,78,Healthcare,M
+Gabe Newell,60,Gambling & Casinos,M
+Ruan Hongliang & family,62,Manufacturing,M
+Mark Stevens,63,Finance & Investments,M
+Wu Yiling,73,Healthcare,M
+Yu Renrong,57,Manufacturing,M
+Zhu Baoguo & family,60,Healthcare,M
+Francesco Gaetano Caltagirone,80,Construction & Engineering,M
+Barry Diller,81,Media & Entertainment,M
+Wesley Edens,61,Finance & Investments,M
+Stephen Feinberg,63,Finance & Investments,M
+Rakesh Gangwal,69,Service,M
+Joseph Grendys,61,Food & Beverage,M
+Li Xiang,41,Automotive,M
+Trevor Rees-Jones,71,Energy,M
+Yasumitsu Shigeta,58,Telecom,M
+Su Qingcan,54,Healthcare,M
+Steven Udvar-Hazy,77,Service,M
+Elizabeth Uihlein,77,Manufacturing,F
+Richard Uihlein,77,Manufacturing,M
+Hayes Barnard,51,Finance & Investments,M
+William Berkley,76,Finance & Investments,M
+Yakir Gabay,56,Real Estate,M
+Huang Li,59,Technology,M
+Brad Jacobs,66,Logistics,M
+Ji Qi,56,Real Estate,M
+Jason Jiang,50,Media & Entertainment,M
+Jim Kavanaugh,60,Technology,M
+Mikhail Lomtadze,47,Finance & Investments,M
+Tom Morris,68,Fashion & Retail,M
+Shigenobu Nagamori,78,Manufacturing,M
+Daniel Och,62,Finance & Investments,M
+Horst Paulmann & family,88,Fashion & Retail,M
+John Sall,75,Technology,M
+Howard Schultz,69,Food & Beverage,M
+Richard Schulze,82,Fashion & Retail,M
+Yitzhak Tshuva,74,Real Estate,M
+Wang Yanqing & family,56,Manufacturing,M
+Leonid Boguslavsky,71,Finance & Investments,M
+Jim Coulter,63,Finance & Investments,M
+Bob Gaglardi,82,Real Estate,M
+Alan Howard,59,Finance & Investments,M
+Huang Yi,61,Automotive,M
+Vyacheslav Kim,53,Finance & Investments,M
+Josh Kushner,37,Finance & Investments,M
+Edwin Leong,71,Real Estate,M
+"Stephen Mandel, Jr.",67,Finance & Investments,M
+Mohamed Mansour,75,Diversified,M
+Masahiro Miki,67,Fashion & Retail,M
+Masahiro Noda,84,Technology,M
+Cliff Obrecht,37,Technology,M
+Melanie Perkins,35,Technology,F
+Jerry Speyer & family,82,Real Estate,M
+Lawrence Stroll,63,Fashion & Retail,M
+Wang Junlin,60,Food & Beverage,M
+Xia Zuoquan,61,Automotive,M
+Zeng Fangqin,57,Technology,F
+Zhang Jian,54,Manufacturing,M
+Fashu Chen,62,Finance & Investments,M
+Giuseppe Crippa & family,87,Manufacturing,M
+Daniel D'Aniello,76,Finance & Investments,M
+Walter P.J. Droege,70,Finance & Investments,M
+Fan Daidi,57,Fashion & Retail,F
+Peter Gassner,58,Technology,M
+Mikhail Gutseriev,65,Energy,M
+Patrick Lee,81,Manufacturing,M
+Leng Youbin,54,Food & Beverage,M
+Daniel Loeb,61,Finance & Investments,M
+Prasert Prasarttong-Osoth,90,Healthcare,M
+Ira Rennert,88,Finance & Investments,M
+Dirk Rossmann & family,76,Fashion & Retail,M
+Arkady Rotenberg,71,Construction & Engineering,M
+Remo Ruffini,61,Fashion & Retail,M
+Vivek Chaand Sehgal,66,Automotive,M
+Scott Shleifer,45,Finance & Investments,M
+Thomas Siebel,70,Technology,M
+Xiao Yongming & family,58,Diversified,M
+Michael Xie,54,Technology,M
+Yang Shaopeng,65,Logistics,M
+William Ackman,56,Finance & Investments,M
+Somphote Ahunai,55,Energy,M
+Igor Altushkin,52,Metals & Mining,M
+Ramon Ang,69,Food & Beverage,M
+Acharya Balkrishna,50,Food & Beverage,M
+Richard Branson,72,Diversified,M
+Laurence Graff & family,84,Fashion & Retail,M
+"Amos Hostetter, Jr.",86,Media & Entertainment,M
+Steven Klinsky,66,Finance & Investments,M
+Hiroshi Mikitani,58,Fashion & Retail,M
+Bob Parsons,72,Technology,M
+J. Joe Ricketts & family,81,Finance & Investments,M
+Herb Simon,88,Real Estate,M
+Wu Guanjiang & family,54,Healthcare,M
+Yi Zheng,52,Technology,M
+Eric Yuan & family,53,Technology,M
+Charles Zegar,75,Media & Entertainment,M
+Mohed Altrad,75,Construction & Engineering,M
+John Arnold,49,Finance & Investments,M
+Bill Austin,81,Manufacturing,M
+Chen Shibin,56,Manufacturing,M
+Walter Faria,68,Food & Beverage,M
+Fu Liquan & family,55,Technology,M
+Peter Gilgan,72,Construction & Engineering,M
+Pablo Legorreta,59,Finance & Investments,M
+Arnon Milchan,78,Media & Entertainment,M
+Akio Nitori,79,Fashion & Retail,M
+Julio Ponce Lerou,77,Metals & Mining,M
+Rodger Riney & family,77,Finance & Investments,M
+Phil Ruffin,88,Diversified,M
+Neil Shen,55,Finance & Investments,M
+Gil Shwed,54,Technology,M
+Stephen Smith,71,Finance & Investments,M
+Nik Storonsky,38,Finance & Investments,M
+Jeffrey Talpins,48,Finance & Investments,M
+Carl Thoma,74,Finance & Investments,M
+Xue Hua,53,Manufacturing,M
+Takao Yasuda,73,Fashion & Retail,M
+Giuliana Benetton,85,Fashion & Retail,F
+Luciano Benetton,87,Fashion & Retail,M
+Ron Burkle,70,Finance & Investments,M
+Chen Kaixuan,64,Manufacturing,M
+Brunello Cucinelli & family,69,Fashion & Retail,M
+Antonio Del Valle Ruiz & family,84,Manufacturing,M
+Gustavo Denegri & family,86,Healthcare,M
+Dong Jinggui,53,Automotive,M
+Charles Ergen,70,Media & Entertainment,M
+David Filo,56,Technology,M
+Lindsay Fox,85,Logistics,M
+Sergei Galitsky,55,Fashion & Retail,M
+Senapathy Gopalakrishnan,67,Technology,M
+Luciano Hang,60,Fashion & Retail,M
+Michael Hintze,69,Finance & Investments,M
+Hu Baifan,60,Healthcare,M
+Hamilton James & family,71,Finance & Investments,M
+Li Liangbin,55,Manufacturing,M
+Liang Feng,54,Manufacturing,M
+Aristotelis Mistakidis,61,Metals & Mining,M
+Roger Penske,86,Automotive,M
+Ravi Pillai,69,Construction & Engineering,M
+David Rubenstein,73,Finance & Investments,M
+Hilton Schlosberg,70,Food & Beverage,M
+Klaus-Peter Schulenberg,71,Service,M
+Shen Guojun,60,Fashion & Retail,M
+Roman Trotsenko,52,Logistics,M
+Vincent Viola,67,Finance & Investments,M
+Wu Shaoxun,67,Food & Beverage,M
+Steve Wynn,81,Gambling & Casinos,M
+Jon Yarbrough,65,Gambling & Casinos,M
+Zhou Bajin,87,Manufacturing,M
+Cho Tak Wong,76,Manufacturing,M
+John Coates,53,Gambling & Casinos,M
+Ryan Cohen,37,Finance & Investments,M
+Deng Wen,55,Food & Beverage,M
+Gurbachan Singh Dhingra,72,Manufacturing,M
+Kuldip Singh Dhingra,75,Manufacturing,M
+Martin Ebner,77,Finance & Investments,M
+Charles Edelstenne,85,Manufacturing,M
+Sergei Gordeev,50,Real Estate,M
+Jeff T. Green,46,Media & Entertainment,M
+Reed Hastings,62,Technology,M
+Bertil Hult,82,Service,M
+Miguel Krigsner,73,Fashion & Retail,M
+Sheldon Lavin,90,Food & Beverage,M
+Yin Yee Lee,71,Manufacturing,M
+Vladimir Litvinenko & family,67,Manufacturing,M
+Daniel Mate,59,Metals & Mining,M
+Ravi Modi,46,Fashion & Retail,M
+Farhad Moshiri,67,Diversified,M
+Jonathan Nelson,66,Finance & Investments,M
+Or Wai Sheun,71,Real Estate,M
+Sergei Popov,51,Finance & Investments,M
+Renzo Rosso & family,67,Fashion & Retail,M
+Rita Tong Liu,74,Real Estate,F
+Timur Turlov,35,Finance & Investments,M
+Frank VanderSloot,74,Fashion & Retail,M
+Yoo Jung-hyun,53,Media & Entertainment,F
+George Bishop,85,Energy,M
+Norman Braman,90,Automotive,M
+Cai Dongchen,70,Healthcare,M
+Todd Christopher,60,Fashion & Retail,M
+Mang Yee Chu & family,63,Real Estate,M
+"William Conway, Jr.",73,Finance & Investments,M
+Jean Coutu & family,95,Fashion & Retail,M
+Stephen Deckoff,57,Finance & Investments,M
+Feng Hailiang,62,Metals & Mining,M
+"Ernest Garcia, II.",65,Automotive,M
+Sam Goi,76,Food & Beverage,M
+Hui Ka Yan,64,Real Estate,M
+Friedrich Knapp,71,Fashion & Retail,M
+Egor Kulkov,51,Healthcare,M
+Lin Ming-hsiung,73,Fashion & Retail,M
+Lin Xiucheng & family,67,Technology,M
+Gilles Martin,59,Healthcare,M
+John Paulson,67,Finance & Investments,M
+Guanghe Qiu & family,71,Fashion & Retail,M
+Erik Selin,55,Real Estate,M
+Yonghong Shi & family,54,Food & Beverage,M
+Martua Sitorus,63,Manufacturing,M
+Guangxin Sun,60,Diversified,M
+Sukanto Tanoto,73,Diversified,M
+Gang Ye,42,Media & Entertainment,M
+Ye Xiaoping,60,Healthcare,M
+Lei Zhang,50,Finance & Investments,M
+Zhu Gongshan & family,65,Manufacturing,M
+Isak Andic & family,69,Fashion & Retail,M
+Cao Longxiang & family,65,Healthcare,M
+"Roy Carroll, II.",60,Real Estate,M
+John Caudwell,70,Telecom,M
+James Clark,79,Technology,M
+Jacques D'Amours,66,Fashion & Retail,M
+John Paul DeJoria,78,Fashion & Retail,M
+Bernard Ecclestone & family,92,Sports,M
+Michael Federmann & family,79,Technology,M
+Gu Yuhua & family,73,Manufacturing,M
+Donald Horton & family,73,Real Estate,M
+Zarakh Iliev,56,Real Estate,M
+Li Jianquan & family,66,Healthcare,M
+Li Li,57,Healthcare,M
+Li Xiaohua & family,61,Manufacturing,M
+Liu Xiaodong,55,Manufacturing,M
+Martin Lorentzon,54,Technology,M
+Erwin Franz Mueller,90,Fashion & Retail,M
+Georg Nemetschek & family,89,Technology,M
+God Nisanov,50,Real Estate,M
+Gregorio Perez Companc & family,87,Energy,M
+Sebastian Piñera & family,73,Finance & Investments,M
+Alexey Repik,43,Healthcare,M
+Haim Saban,78,Media & Entertainment,M
+Rodney Sacks,73,Food & Beverage,M
+Karthik Sarma,48,Finance & Investments,M
+Daniel Sundheim,46,Finance & Investments,M
+Zhang Wenzhong,61,Fashion & Retail,M
+Zhou Jianping,62,Fashion & Retail,M
+Kang An,74,Healthcare,M
+Garrett Camp,44,Technology,M
+Chen Lip Keong,75,Gambling & Casinos,M
+Choo Chong Ngen,69,Real Estate,M
+Du Jiangtao & family,53,Manufacturing,M
+Li Weiguo,58,Manufacturing,M
+Dmitry Mazepin,54,Manufacturing,M
+Najib Mikati,67,Telecom,M
+Taha Mikati,78,Telecom,M
+Nandan Nilekani,67,Technology,M
+Sean Parker,43,Technology,M
+Su Hua,41,Media & Entertainment,M
+Sun Shoukuan,73,Manufacturing,M
+Meg Whitman,66,Technology,F
+Wong Luen Hei,61,Manufacturing,M
+Chenghai Ye & family,79,Healthcare,M
+Zhu Xingming,56,Manufacturing,M
+Suhail Bahwan,84,Diversified,M
+Harindarpal Banga,72,Finance & Investments,M
+Andrei Bokarev,56,Manufacturing,M
+Jack Cowin,80,Food & Beverage,M
+Glenn Dubin,65,Finance & Investments,M
+N. Murray Edwards,63,Energy,M
+Bruce Flatt,57,Finance & Investments,M
+Robert Friedland,72,Metals & Mining,M
+Alexander Frolov,58,Metals & Mining,M
+Nithin Kamath,43,Finance & Investments,M
+Samvel Karapetyan,57,Construction & Engineering,M
+Kei Hoi Pang,57,Real Estate,M
+Yuri Kovalchuk & family,71,Finance & Investments,M
+Hans Langer,71,Manufacturing,M
+Maritsa Lazari & family,78,Real Estate,F
+Li Zhongchu,59,Technology,M
+Liang Yunchao,54,Food & Beverage,M
+Vincent McMahon,77,Sports,M
+Patrice Motsepe,61,Metals & Mining,M
+Denis O'Brien,64,Telecom,M
+Pan Dong,58,Fashion & Retail,F
+Karsanbhai Patel,79,Diversified,M
+Richard Peery,84,Real Estate,M
+Wayne Rothbaum,55,Healthcare,M
+Jeff Rothschild,68,Technology,M
+Raj Sardana,63,Technology,M
+Alexander Skorobogatko,55,Logistics,M
+Evan Spiegel,32,Technology,M
+Glen Taylor,81,Service,M
+Thomas Tull,52,Media & Entertainment,M
+Bulat Utemuratov,65,Metals & Mining,M
+Wong Man Li,58,Manufacturing,M
+Guangming Wu,61,Healthcare,M
+Zhu Yi,59,Healthcare,M
+Ben Ashkenazy,53,Real Estate,M
+Felix Baker,54,Finance & Investments,M
+Julian Baker,56,Finance & Investments,M
+David Baszucki,60,Media & Entertainment,M
+Cen Junda,58,Healthcare,M
+Chen Zhiping,47,Manufacturing,M
+Fernando Chico Pardo,71,Service,M
+Ray Davis,81,Energy,M
+Deng Weiming & family,54,Manufacturing,M
+Stewart Horejsi & family,85,Finance & Investments,M
+Hou Juncheng,58,Healthcare,M
+Zhenda Huang & family,75,Construction & Engineering,M
+Dmitry Kamenshchik,54,Service,M
+Henry Laufer,77,Finance & Investments,M
+Louis Le Duff,76,Food & Beverage,M
+Mark Leonard & family,66,Technology,M
+Li Guoqiang,59,Automotive,M
+Li Yongxin,47,Service,M
+Peter Lim,69,Finance & Investments,M
+Sergio Mantegazza,95,Service,M
+Hans Melchers,84,Finance & Investments,M
+C. Dean Metropoulos,76,Food & Beverage,M
+Falguni Nayar,60,Fashion & Retail,F
+Alexander Ponomarenko,58,Logistics,M
+Steven Sarowitz,57,Technology,M
+Leonard Schleifer,70,Healthcare,M
+Michael S. Smith,67,Energy,M
+Zhao Lixin,57,Technology,M
+Hongyi Zhou,52,Technology,M
+S. Daniel Abraham,98,Food & Beverage,M
+Thor Bjorgolfsson,56,Diversified,M
+Herb Chambers,81,Automotive,M
+Cheng Yixiao,39,Media & Entertainment,M
+Andrew Cherng,75,Food & Beverage,M
+Peggy Cherng,75,Food & Beverage,F
+Leon G. Cooperman,79,Finance & Investments,M
+Oleg Deripaska,55,Metals & Mining,M
+Sergey Dmitriev,57,Technology,M
+Joseph Edelman,67,Finance & Investments,M
+Sandeep Engineer,61,Manufacturing,M
+Alceu Elias Feldmann & family,73,Energy,M
+Serge Godin,73,Technology,M
+Alec Gores,70,Finance & Investments,M
+J. Tomilson Hill,74,Finance & Investments,M
+Jay-Z,53,Media & Entertainment,M
+Brad Kelley,66,Real Estate,M
+Wolfgang Leitner,70,Construction & Engineering,M
+Li Hongxin & family,70,Manufacturing,M
+Lin Chen-hai,76,Real Estate,M
+Lu Yiwen,36,Fashion & Retail,F
+Willy Michel,76,Healthcare,M
+Bobby Murphy,34,Technology,M
+Tomas Olivo Lopez,49,Real Estate,M
+Eren Ozmen,64,Manufacturing,F
+Qiu Minxiu,77,Technology,F
+Wenrong Shen,77,Metals & Mining,M
+Yuzhu Shi,60,Diversified,M
+Jeff Sutton,63,Real Estate,M
+Andrew Tan,71,Diversified,M
+Arvind Tiku,53,Energy,M
+Byron Trott,64,Finance & Investments,M
+Peter Unger,78,Automotive,M
+Roger Wang,74,Fashion & Retail,M
+Oprah Winfrey,69,Media & Entertainment,F
+Wu Zhigang & family,88,Food & Beverage,M
+Xie Weitong,66,Metals & Mining,M
+Ye Guofu,45,Fashion & Retail,M
+Brian Acton,51,Technology,M
+Koos Bekker,70,Media & Entertainment,M
+Chen Tei-fu,74,Fashion & Retail,M
+Marcel Erni,58,Finance & Investments,M
+Doris Fisher,91,Fashion & Retail,F
+Gerald Ford,78,Finance & Investments,M
+Bernard Fraisse & family,66,Healthcare,M
+Alfred Gantner,55,Finance & Investments,M
+Paul Gauselmann & family,88,Gambling & Casinos,M
+Mitchell Goldhar,61,Real Estate,M
+Peter Hargreaves,76,Finance & Investments,M
+Xuande Hua & family,79,Healthcare,M
+Kalanithi Maran,57,Media & Entertainment,M
+Jed McCaleb,48,Finance & Investments,M
+Fatih Ozmen,65,Manufacturing,M
+Pan Laican,64,Food & Beverage,M
+Tor Peterson,58,Metals & Mining,M
+Jinxing Qi,61,Real Estate,M
+Qiu Jianping & family,61,Manufacturing,M
+Matthias Reinhart,63,Finance & Investments,M
+Arnout Schuijff,55,Technology,M
+Lucio Tan,88,Diversified,M
+Tsai Ming-kai,72,Technology,M
+David Walentas,84,Real Estate,M
+Urs Wietlisbach,61,Finance & Investments,M
+Jerry Yang,54,Technology,M
+Yang Jianliang & family,53,Manufacturing,M
+Yang Weidong & family,54,Manufacturing,M
+Mortimer Zuckerman,85,Real Estate,M
+John Armitage,63,Finance & Investments,M
+John Bicket,43,Technology,M
+Sanjit Biswas,41,Technology,M
+Timothy Boyle,73,Fashion & Retail,M
+Morris Chang,91,Technology,M
+Chao Teng-hsiung,78,Real Estate,M
+Samuel Chen,73,Finance & Investments,M
+Chu Lam Yiu,53,Manufacturing,F
+K. Dinesh,68,Technology,M
+James Duff,62,Diversified,M
+Thomas Duff,66,Diversified,M
+Daniel Ek,40,Technology,M
+Erman Ilicak,55,Construction & Engineering,M
+Long Jiang,49,Technology,M
+Bruce Karsh,67,Finance & Investments,M
+Bom Kim,44,Technology,M
+Jianping Lai,64,Food & Beverage,M
+Lam Kong,58,Healthcare,M
+Stephen Lansdown,70,Finance & Investments,M
+Li Haiyan,64,Food & Beverage,F
+Hua Li,45,Finance & Investments,M
+Clayton Mathile,82,Food & Beverage,M
+Mi Enhua,65,Fashion & Retail,M
+Vadim Moshkovich,55,Food & Beverage,M
+David Murdock,99,Food & Beverage,M
+David Nahmad,75,Fashion & Retail,M
+Lirio Parisotto,69,Finance & Investments,M
+Tang Yiu,89,Fashion & Retail,M
+Tian Ming,69,Technology,M
+Jayshree Ullal,62,Technology,F
+Lang Walker,77,Real Estate,M
+Xicheng Wang & family,74,Manufacturing,M
+Wang Zhenhua,61,Real Estate,M
+Paul-Heinz Wesjohann & family,79,Food & Beverage,M
+Xie Bingkun & family,56,Fashion & Retail,M
+Xu Shugen,57,Manufacturing,M
+Zhang Jingzhang & family,87,Manufacturing,M
+George Argyros & family,86,Real Estate,M
+Brian Armstrong,40,Finance & Investments,M
+Albert Avdolyan,52,Energy,M
+Sezai Bacaksiz,73,Diversified,M
+Aneel Bhusri,57,Technology,M
+Brett Blundy,63,Fashion & Retail,M
+Chen Xueli,71,Healthcare,M
+Dermot Desmond,72,Finance & Investments,M
+Dong Wei,52,Healthcare,M
+Tom Ford,61,Fashion & Retail,M
+Fu Guangming & family,69,Food & Beverage,M
+Noam Gottesman,61,Finance & Investments,M
+Jeffrey Gundlach,64,Finance & Investments,M
+Hao Hong,67,Healthcare,M
+Hans-Werner Hector,83,Technology,M
+Lutz Mario Helmig & family,76,Healthcare,M
+Chulong Huang,64,Real Estate,M
+James Jannard,73,Fashion & Retail,M
+Willis Johnson,75,Automotive,M
+Lai Shixian,48,Fashion & Retail,M
+Chris Larsen,62,Finance & Investments,M
+Solomon Lew,78,Fashion & Retail,M
+Liang Xinjun,54,Diversified,M
+Max Lytvyn,43,Technology,M
+Igor Makarov,60,Energy,M
+Howard Marks,76,Finance & Investments,M
+Charles Munger,99,Finance & Investments,M
+Adam Neumann,44,Real Estate,M
+Thi Phuong Thao Nguyen,52,Diversified,F
+Ni Yongpei & family,71,Food & Beverage,M
+Qi Xiangdong,52,Technology,M
+Phillip T. (Terry) Ragon,73,Technology,M
+Prathap Reddy,91,Healthcare,M
+Jerry Reinsdorf,87,Sports,M
+Chad Richison,52,Technology,M
+"Karl Scheufele, III. & family",84,Fashion & Retail,M
+Alice Schwartz,96,Healthcare,F
+Alex Shevchenko,43,Technology,M
+Kavitark Ram Shriram,66,Technology,M
+William Stone,67,Technology,M
+Henry Swieca,65,Finance & Investments,M
+Katsumi Tada,77,Real Estate,M
+Tang Jinkui & family,67,Manufacturing,M
+Tang Xiao'ou,55,Technology,M
+Wang Wenmo,66,Fashion & Retail,M
+Wang Zhenghua,78,Service,M
+Kai Wu,55,Energy,M
+Xu Yingzhuo,55,Food & Beverage,M
+Yeung Kin-man,59,Manufacturing,M
+Huijiao Yu,57,Logistics,M
+Oren Zeev,58,Finance & Investments,M
+Zhao Fenggang,57,Energy,M
+Alex Beard,55,Metals & Mining,M
+Travis Boersma,52,Food & Beverage,M
+William Boyd & family,91,Gambling & Casinos,M
+Cao Ji,71,Manufacturing,M
+Bruce Cheng,86,Technology,M
+Daniel Chiu,62,Energy,M
+Beda Diethelm,82,Healthcare,M
+Domenico Dolce,64,Fashion & Retail,M
+Ralph Dommermuth,59,Technology,M
+Georgi Domuschiev,50,Diversified,M
+Kiril Domuschiev,53,Diversified,M
+Bob Ell,78,Real Estate,M
+Paul Foster,65,Energy,M
+Stefano Gabbana,60,Fashion & Retail,M
+Xingjiang Gao,59,Manufacturing,M
+Kamal Ghaffarian,64,Energy,M
+Dennis Gillings,78,Healthcare,M
+Stein Erik Hagen,66,Fashion & Retail,M
+Huang Min,49,Manufacturing,M
+Jared Isaacman,40,Technology,M
+Eugene Kaspersky,57,Technology,M
+Artem Khachatryan,48,Fashion & Retail,M
+Andrei Krivenko,47,Food & Beverage,M
+Lam Wai-ying,64,Manufacturing,F
+Marc Lasry,62,Finance & Investments,M
+Christian Latouche & family,82,Finance & Investments,M
+Theodore Leonsis,67,Sports,M
+Liu Chengyu & family,60,Manufacturing,M
+Sergey Lomakin,49,Fashion & Retail,M
+Daniel Lubetzky,54,Food & Beverage,M
+Melissa Ma,64,Technology,F
+Kiran Mazumdar-Shaw,70,Healthcare,F
+Mu Rongjun,43,Technology,M
+Eugene Murtagh,80,Manufacturing,M
+Alexander Nesis,60,Finance & Investments,M
+Zugen Ni,66,Manufacturing,M
+Florentino Perez,76,Construction & Engineering,M
+Victor Pinchuk,62,Metals & Mining,M
+Leonid Radvinsky,40,Technology,M
+Raveendran Byju,41,Technology,M
+P.P. Reddy,65,Construction & Engineering,M
+Richard Saghian,41,Fashion & Retail,M
+Shi Yifeng,49,Healthcare,M
+Thaksin Shinawatra,73,Finance & Investments,M
+Shu Ping,53,Food & Beverage,F
+Timothy Springer,75,Healthcare,M
+Edward Stack,68,Fashion & Retail,M
+Sun Mengquan & family,73,Food & Beverage,M
+Alexander Svetakov,55,Finance & Investments,M
+Torsten Toeller,56,Fashion & Retail,M
+Hamdi Ulukaya,50,Food & Beverage,M
+Wang Linpeng,54,Construction & Engineering,M
+Wei Ing-Chou,69,Food & Beverage,M
+Wei Yin-Chun,66,Food & Beverage,M
+Wei Yin-Heng,64,Food & Beverage,M
+Wei Ying-Chiao,68,Food & Beverage,M
+Elaine Wynn,80,Gambling & Casinos,F
+Xu Xudong & family,53,Automotive,M
+Michael Ying,73,Fashion & Retail,M
+Yu Qibing & family,57,Manufacturing,M
+Yuan Fugen & family,72,Manufacturing,M
+Zhang Ning & family,49,Manufacturing,F
+Mohamed Al Fayed,94,Fashion & Retail,M
+Andrey Andreev,49,Technology,M
+Michael Ashcroft,77,Finance & Investments,M
+Pavel Baudis,62,Technology,M
+Wilhelm Beier & family,66,Healthcare,M
+Cao Jianwei,44,Manufacturing,M
+Huwen Chen,52,Manufacturing,M
+Dou Zhenggang,69,Diversified,M
+William Franke,85,Diversified,M
+Hu Yangzhong,58,Technology,M
+Huang Dawen,62,Manufacturing,M
+Huang Qiaoling,64,Media & Entertainment,M
+Rajiv Jain,55,Finance & Investments,M
+Michael Jordan,60,Sports,M
+Shlomo Kramer,57,Technology,M
+Heikki Kyostila,77,Healthcare,M
+Martin Lau,50,Technology,M
+Li Min,57,Technology,M
+Liang Rubo,40,Technology,M
+Lin Fanlian,61,Energy,M
+Bill Malhotra,73,Real Estate,M
+Alexander Mamut,63,Finance & Investments,M
+Cunhui Nan,59,Manufacturing,M
+Tengyun Nie & family,47,Service,M
+Clive Palmer,69,Metals & Mining,M
+Matthew Prince,48,Technology,M
+P.V. Krishna Reddy,53,Construction & Engineering,M
+T. Denny Sanford,87,Finance & Investments,M
+Bhadresh Shah,71,Manufacturing,M
+Zygmunt Solorz-Zak,66,Media & Entertainment,M
+Otto Toto Sugiri,69,Technology,M
+Larry Tanenbaum,77,Sports,M
+Wichai Thongtang,76,Finance & Investments,M
+Ion Tiriac,83,Finance & Investments,M
+William Young,82,Manufacturing,M
+Ales Zavoral,46,Fashion & Retail,M
+Zhang Fan,57,Technology,M
+Shilong Zhang & family,57,Technology,M
+Zhang Wanzhen,73,Manufacturing,M
+Hongfei Zhao,48,Technology,M
+Zhou Jian,46,Energy,M
+Zhu Yiwen & family,59,Healthcare,M
+Mika Anttonen,56,Energy,M
+David Blitzer,53,Sports,M
+Julio Bozano,87,Finance & Investments,M
+Nikolai Buinov,55,Energy,M
+Jianxing Che,56,Fashion & Retail,M
+Huxiong Chen,52,Manufacturing,M
+Chen Qiongxiang,64,Energy,F
+Chen Zhisong,57,Technology,M
+James Dinan,63,Finance & Investments,M
+Dong Fan,53,Healthcare,M
+Eduardo Eurnekian,90,Diversified,M
+Guo Zhenyu & family,59,Fashion & Retail,M
+Roberto Hernandez Ramirez,81,Finance & Investments,M
+Reid Hoffman,55,Technology,M
+Hu Rongda & family,64,Manufacturing,M
+Hui Wing Mau,72,Real Estate,M
+Scott Kapnick,64,Finance & Investments,M
+Richard Kayne,77,Finance & Investments,M
+Edward Lampert,60,Finance & Investments,M
+David Lichtenstein,61,Real Estate,M
+Lin Dingqiang & family,56,Real Estate,M
+Strive Masiyiwa,62,Telecom,M
+Robert Miller,89,Fashion & Retail,M
+Simon Nixon,55,Technology,M
+Kentaro Ogawa,74,Food & Beverage,M
+G. Rajendran,80,Fashion & Retail,M
+Ren Jianhua,66,Manufacturing,M
+Larry Robbins,53,Finance & Investments,M
+Dwight Schar,81,Construction & Engineering,M
+Shao Jianxiong,64,Energy,M
+Qinxiang Shao,68,Manufacturing,M
+Hua Shen,60,Technology,M
+Shi Wen-long,95,Manufacturing,M
+Peter Sondakh,73,Finance & Investments,M
+Masateru Uno & family,76,Fashion & Retail,M
+Vardis Vardinoyannis & family,90,Energy,M
+Wang Chaobin,67,Real Estate,M
+Wang Ren-sheng,91,Fashion & Retail,M
+Chuanhua Xu & family,88,Manufacturing,M
+Gavril Yushvaev & family,65,Finance & Investments,M
+Zhang Hongwei,68,Diversified,M
+Cameron Adams,43,Technology,M
+Faisal Bin Qassim Al Thani,75,Diversified,M
+Leslie Alexander,79,Sports,M
+Masaaki Arai,57,Real Estate,M
+Sanjeev Bikhchandani,59,Technology,M
+O. Francis Biondi,58,Finance & Investments,M
+R.G. Chandramogan,74,Food & Beverage,M
+Parker Conrad,42,Technology,M
+Tim Cook,62,Technology,M
+Mark Coombs,62,Finance & Investments,M
+John de Mol,68,Media & Entertainment,M
+Diao Zhizhong,59,Technology,M
+Robert Duggan,78,Healthcare,M
+Phillip Frost,86,Healthcare,M
+Brian Higgins,58,Finance & Investments,M
+Wei Huang,63,Real Estate,M
+Yintai Jiang & family,72,Automotive,M
+Lei Jin,57,Healthcare,M
+Jin Lei & family,68,Healthcare,M
+Valentin Kipyatkov,46,Technology,M
+George Kurtz,52,Technology,M
+Joe Lacob,67,Sports,M
+Joe Lau,33,Technology,M
+Luo Yangyong & family,47,Metals & Mining,M
+Gary Michelson,74,Healthcare,M
+Robert G. Miller,77,Technology,M
+David Mindus,51,Real Estate,M
+Adriaan Mol,39,Technology,M
+Mofatraj Munot,78,Real Estate,M
+Satyanarayan Nuwal,70,Manufacturing,M
+Nihat Ozdemir,72,Diversified,M
+Benjamin Zhengmin Pan & family,53,Technology,M
+Ronald Perelman,80,Finance & Investments,M
+Olivier Pomel,46,Technology,M
+Vinod Saraf,70,Manufacturing,M
+Anatoly Sedykh,58,Metals & Mining,M
+Genhuo Shao,57,Food & Beverage,M
+Shen Xiqiang & family,75,Energy,M
+S.D. Shibulal,68,Technology,M
+Bambang Sutantio,64,Food & Beverage,M
+Sze Man Bok,73,Manufacturing,M
+Jim Thompson,83,Logistics,M
+Tran Dinh Long,62,Manufacturing,M
+Alan Trefler,67,Technology,M
+Riaz Valani,46,Finance & Investments,M
+Pieter van der Does,53,Technology,M
+Nikil Viswanathan,35,Technology,M
+Todd Wagner,62,Media & Entertainment,M
+Evan Williams,51,Technology,M
+Wu Yingming,56,Energy,M
+Yan Zhi,50,Real Estate,M
+Yoshiaki Yoshida,82,Fashion & Retail,M
+Zhang Li,70,Real Estate,M
+Marc Andreessen,51,Finance & Investments,M
+Giovanni Arvedi,85,Metals & Mining,M
+Bang Si-hyuk,50,Media & Entertainment,M
+David Booth,77,Finance & Investments,M
+Jim Breyer,61,Technology,M
+Chen Kaichen,64,Manufacturing,M
+Carl DeSantis,83,Food & Beverage,M
+Marek Dospiva,53,Finance & Investments,M
+Keith Dunleavy & family,53,Healthcare,M
+Yasuhiro Fukushima,75,Media & Entertainment,M
+Mario Gabelli,81,Finance & Investments,M
+John Goff,67,Real Estate,M
+Alexandre Grendene Bartelle,73,Fashion & Retail,M
+Gerry Harvey,83,Fashion & Retail,M
+He Zhaoxi,49,Technology,M
+William Heinecke,73,Real Estate,M
+Jay Hennick,66,Finance & Investments,M
+Hal Jackman,90,Finance & Investments,M
+Keeree Kanjanapas,72,Real Estate,M
+Osman Kibar,52,Healthcare,M
+Kim Chang-soo,62,Fashion & Retail,M
+Mustafa Kucuk,59,Fashion & Retail,M
+Lai Jianfa,53,Logistics,M
+Alexis Lê-Quôc,48,Technology,M
+Lei Jufang,70,Healthcare,F
+James Leininger,78,Healthcare,M
+Xuhui Li,54,Food & Beverage,F
+Jimmy John Liautaud,59,Food & Beverage,M
+Lin Lairong & family,54,Metals & Mining,M
+Lu Di,64,Technology,M
+Palmer Luckey,30,Technology,M
+Duncan MacMillan,85,Finance & Investments,M
+Yusaku Maezawa,47,Technology,M
+Ilson Mateus & family,60,Fashion & Retail,M
+Meng Qingshan & family,74,Manufacturing,M
+Alberto Palatchi,73,Fashion & Retail,M
+Dragos Paval,56,Fashion & Retail,M
+Jorge Perez,73,Real Estate,M
+Dmitry Pumpyansky,59,Metals & Mining,M
+Jinsheng Ren & family,60,Healthcare,M
+Ruan Shuilong & family,87,Manufacturing,M
+Paul Saville,67,Real Estate,M
+Ivan Savvidis & family,64,Diversified,M
+Keiichi Shibahara,58,Healthcare,M
+Rajju Shroff,89,Manufacturing,M
+Sun Huaiqing & family,53,Fashion & Retail,M
+Alain Taravella,75,Real Estate,M
+Kenneth Tuchman,63,Service,M
+Wang Chou-hsiong,82,Manufacturing,M
+Wang Minwen,59,Technology,M
+Tom Werner,72,Sports,M
+Stephen Winn,76,Real Estate,M
+Wu Lanlan & family,49,Manufacturing,F
+Xu Bingzhong,49,Food & Beverage,M
+Yang Xuegang,58,Manufacturing,M
+Vladimir Yevtushenkov,74,Telecom,M
+David Zalik,49,Technology,M
+Zhang Xiaojuan,53,Logistics,F
+Zheng Xiaodong,59,Manufacturing,M
+Zhong Ruonong & family,60,Manufacturing,F
+Noubar Afeyan,60,Healthcare,M
+Syed Mokhtar AlBukhary,71,Construction & Engineering,M
+Vasily Anisimov,71,Metals & Mining,M
+Clifford Asness,56,Finance & Investments,M
+Louis Bacon,66,Finance & Investments,M
+Bai Baokun,53,Manufacturing,M
+Josef Boquoi & family,89,Food & Beverage,M
+Cai Huabo,47,Technology,M
+Chen Tianshi,38,Technology,M
+Chen Yung-tai,87,Real Estate,M
+Ivan Chrenko,55,Real Estate,M
+Robert Clark,64,Construction & Engineering,M
+Jack Cockwell,82,Finance & Investments,M
+Tench Coxe,65,Finance & Investments,M
+Jim Crane,69,Sports,M
+Norbert Dentressangle,68,Logistics,M
+Jamie Dimon,67,Finance & Investments,M
+Daniel Dines,51,Technology,M
+Gary Fegel,49,Metals & Mining,M
+"William Foley, II.",78,Finance & Investments,M
+Richard Fortin,74,Fashion & Retail,M
+Gao Yi & family,54,Healthcare,M
+Bill Gross,78,Finance & Investments,M
+Irving Grousbeck & family,88,Sports,M
+David Hoffmann,70,Diversified,M
+Hui Lin Chit,69,Manufacturing,M
+Tianjiang Jia & family,60,Metals & Mining,M
+Zhaobai Jiang,59,Real Estate,M
+Sergei Katsiev,65,Fashion & Retail,M
+Kim Jae-young,51,Media & Entertainment,M
+Randal J. Kirk,69,Healthcare,M
+Pyotr Kondrashev,73,Manufacturing,M
+Eiichi Kuriwada,76,Logistics,M
+Robert Langer,74,Healthcare,M
+Anthony Langley,68,Diversified,M
+Li Sze Lim,66,Real Estate,M
+Li Wa,57,Real Estate,M
+Li Weiwei,46,Technology,M
+Liang Qin & family,51,Technology,F
+Terence (Terry) Matthews,80,Telecom,M
+Jim McKelvey,57,Technology,M
+P.N.C. Menon,74,Real Estate,M
+Stefan Pierer,66,Automotive,M
+Michael Polsky,74,Energy,M
+Sathien Sathientham,68,Food & Beverage,M
+Shang Xiaobo & family,49,Manufacturing,M
+Yuri Shefler,55,Food & Beverage,M
+Evgeny (Eugene) Shvidler,59,Metals & Mining,M
+Ryan Smith,44,Technology,M
+Zakhar Smushkin,61,Diversified,M
+Michael Tojner,57,Manufacturing,M
+August Troendle,67,Healthcare,M
+Sekar Vembu,51,Technology,M
+Chris Wallin,70,Energy,M
+Wang Changtian,57,Media & Entertainment,M
+Ning Wang & family,36,Media & Entertainment,M
+Scott Watterson,67,Technology,M
+Dan Wilks,66,Energy,M
+Anthony Wood,57,Technology,M
+Wu Ying,58,Manufacturing,M
+Wu Yulan,53,Healthcare,F
+Zhongyi Wu,49,Technology,M
+Xiang Guangming & family,59,Manufacturing,M
+Xue Xiangdong & family,64,Technology,M
+George Yancopoulos,63,Healthcare,M
+Steven Meng Yang & family,40,Technology,M
+Ye Fan & family,52,Automotive,M
+Yi Dasheng,62,Diversified,M
+Yu Lili,55,Manufacturing,F
+Zeng Kaitian,48,Technology,M
+Zhang Xuexin & family,75,Metals & Mining,M
+Yubai Zhang,58,Food & Beverage,M
+Fredrik Österberg,52,Gambling & Casinos,M
+Hamdi Akin & family,68,Diversified,M
+Nerio Alessandri,61,Manufacturing,M
+Mori Arkin,70,Healthcare,M
+Zadik Bino & family,79,Diversified,M
+Ahmet Calik,65,Diversified,M
+Safra Catz,61,Technology,F
+Chu Jian,60,Manufacturing,M
+Sandor Csanyi,70,Diversified,M
+Bharat Desai,70,Technology,M
+Egon Durban,49,Finance & Investments,M
+Fu Mingkang & family,60,Manufacturing,M
+Alan Gerry,94,Media & Entertainment,M
+Philippe Ginestet & family,69,Fashion & Retail,M
+G. Gnanalingam,78,Logistics,M
+Wei Gu,58,Manufacturing,M
+Patrick Hanrahan,67,Technology,M
+Kenneth Hao,54,Finance & Investments,M
+Jaroslav Hascak & family,53,Finance & Investments,M
+He Zhenggang,69,Manufacturing,M
+Niranjan Hiranandani,73,Real Estate,M
+Ho Hung Anh,52,Finance & Investments,M
+Archie Hwang,70,Technology,M
+Peter Jackson,61,Media & Entertainment,M
+Stephen Jarislowsky,97,Finance & Investments,M
+Rajeev Juneja,57,Healthcare,M
+Ramesh Juneja,67,Healthcare,M
+Ke Xiping & family,62,Diversified,M
+Kim Jun-ki,78,Diversified,M
+Sidney Kimmel,95,Fashion & Retail,M
+Jim Koch,73,Food & Beverage,M
+Raj Kumar,68,Real Estate,M
+Li Jianli,50,Manufacturing,M
+Li Jiaquan,59,Manufacturing,M
+Li Rucheng,71,Fashion & Retail,M
+Li Shui-po,66,Manufacturing,M
+Scott Lin,90,Technology,M
+Liu Xiucai & family,66,Manufacturing,M
+Lu Zhongfang,80,Automotive,F
+Lu Zongjun,59,Logistics,M
+Youssef Mansour,77,Diversified,M
+Bruce Mathieson,79,Real Estate,M
+Romano Minozzi,88,Diversified,M
+Greg Mondre,48,Finance & Investments,M
+Mario Moretti Polegato & family,70,Fashion & Retail,M
+Jerry Moyes & family,79,Logistics,M
+John Ocampo,63,Technology,M
+Nelson Peltz,80,Finance & Investments,M
+Mike Repole,55,Food & Beverage,M
+Christopher Rokos,52,Finance & Investments,M
+John Ruiz,56,Service,M
+Sheryl Sandberg,53,Technology,F
+Amnon Shashua,62,Automotive,M
+Ben Silbermann,40,Media & Entertainment,M
+Ron Sim,64,Fashion & Retail,M
+Leonid Simanovsky,73,Finance & Investments,M
+Basudeo Singh,82,Healthcare,M
+Frank Slootman,64,Technology,M
+Terry Snow,79,Real Estate,M
+Axel Stawski,72,Real Estate,M
+Thomas Steyer,65,Finance & Investments,M
+Sergei Studennikov & family,56,Fashion & Retail,M
+Su Suyu & family,74,Real Estate,F
+Kevin Systrom,39,Technology,M
+Tan Lili,64,Food & Beverage,F
+Tang Binsen,40,Food & Beverage,M
+Tang Rui,64,Technology,M
+Prachak Tangkaravakoon,79,Manufacturing,M
+Jeff Tangney,50,Healthcare,M
+Yuequn Tao,63,Fashion & Retail,M
+David Teoh,67,Telecom,M
+Tran Ba Duong & family,63,Automotive,M
+Kenny Troutt,75,Telecom,M
+Jens von Bahr,52,Gambling & Casinos,M
+Wang Junmin,54,Healthcare,M
+Weng Xianding,61,Healthcare,M
+Farris Wilks,71,Energy,M
+Gordon Wu,87,Real Estate,M
+Xiong Wu,47,Technology,M
+Xu Zhenhua,64,Media & Entertainment,M
+Xu Zhihan,50,Technology,M
+Tingdong Yang,62,Food & Beverage,M
+Michael Minhong Yu,61,Service,M
+Justin Yuan,64,Media & Entertainment,M
+Zhang Bangxin,43,Service,M
+Zhang Hong,64,Energy,F
+Zhou Zongwen & family,66,Fashion & Retail,M
+Alberto Alcocer,80,Finance & Investments,M
+Nigel Austin,52,Fashion & Retail,M
+Binny Bansal,40,Technology,M
+Girdhari Lal Bawri,75,Healthcare,M
+John Bloor,79,Diversified,M
+Vladimir Bogdanov,71,Energy,M
+Cai Jianyong,52,Metals & Mining,M
+Steve Case,64,Technology,M
+Chen Wenyuan & family,55,Technology,M
+Chua Thian Poh,74,Real Estate,M
+Sasson Dayan & family,83,Finance & Investments,M
+Chris Ellison,65,Metals & Mining,M
+John Farber,97,Manufacturing,M
+J. Christopher Flowers,65,Finance & Investments,M
+Reinold Geiger,75,Fashion & Retail,M
+Ali Ghodsi,44,Technology,M
+Guan Yihong,53,Food & Beverage,M
+Rajinder Gupta,64,Manufacturing,M
+Torstein Hagen,80,Service,M
+Alfredo Harp Helu & family,79,Finance & Investments,M
+He Xiaopeng,45,Automotive,M
+Drew Houston,40,Technology,M
+Huang Jinxiang & family,58,Manufacturing,M
+Rameshchandra Jain,74,Manufacturing,M
+Ke Zunhong & family,68,Healthcare,M
+Kim Taek-jin,56,Media & Entertainment,M
+Koh Wee Meng,59,Real Estate,M
+Sergei Kolesnikov,51,Manufacturing,M
+Michael Lee-Chin,72,Finance & Investments,M
+Bernard Lewis & family,97,Fashion & Retail,M
+William Li,48,Automotive,M
+Liu Fangyi,53,Healthcare,M
+K.C. Liu,69,Technology,M
+Liu Ming Chung,60,Manufacturing,M
+Anatoly Lomakin,70,Metals & Mining,M
+Lucia Maggi & family,90,Diversified,F
+Mao Lixiang & family,82,Technology,M
+David McMurtry,82,Manufacturing,M
+Miao Shouliang,68,Real Estate,M
+Miao Yongjun,55,Healthcare,M
+Marius Nacht,57,Technology,M
+Vadim Novinsky,59,Metals & Mining,M
+Pan Longquan,58,Manufacturing,M
+Pan Shiyi,60,Real Estate,M
+David Paul,56,Healthcare,M
+Qian Jinghong,50,Automotive,F
+Qin Long,57,Manufacturing,M
+M.Satyanarayana Reddy,65,Healthcare,M
+Mochtar Riady & family,93,Diversified,M
+Rihanna,35,Fashion & Retail,F
+Boris Rotenberg,66,Construction & Engineering,M
+Subhash Runwal,79,Real Estate,M
+Igor Rybakov,50,Manufacturing,M
+Martin Selig,85,Real Estate,M
+Airat Shaimiev,61,Energy,M
+Radik Shaimiev,58,Energy,M
+Nobutoshi Shimamura,97,Fashion & Retail,M
+Jared Smith,48,Technology,M
+Jianyi Wang,60,Technology,M
+Wang Jilei,58,Logistics,M
+Shuifu Wang,68,Manufacturing,M
+Werner O. Weber,84,Manufacturing,M
+"Alfred West, Jr.",80,Finance & Investments,M
+Bo Wu,68,Manufacturing,M
+Wu Chaoqun,53,Manufacturing,M
+Swift Xie,43,Technology,M
+Xu Guozhong & family,59,Manufacturing,M
+Yao Kuizhang,58,Food & Beverage,M
+Yu Peidi,63,Real Estate,M
+Zhang Chuanwei & family,60,Manufacturing,M
+Zhang Keqiang,62,Real Estate,M
+Zhang Xin,57,Real Estate,F
+Xinghai Zhang & family,60,Manufacturing,M
+Zheng Jianjiang & family,62,Manufacturing,M
+Zhong Sheng Jian,65,Real Estate,M
+Zhou Chengjian,57,Fashion & Retail,M
+Boris Zingarevich,63,Diversified,M
+A. Jayson Adair,53,Automotive,M
+Soegiarto Adikoesoemo,85,Logistics,M
+Rajendra Agarwal,64,Healthcare,M
+Anant Asavabhokhin,72,Real Estate,M
+Roman Avdeev,55,Finance & Investments,M
+Ziv Aviram,64,Automotive,M
+Sachin Bansal,41,Fashion & Retail,M
+Kiki Barki,83,Energy,M
+Elena Baturina,60,Construction & Engineering,F
+Banwari Lal Bawri,70,Healthcare,M
+Stewart Butterfield,50,Technology,M
+Cai Mingtong,71,Technology,M
+Anthony Casalena,40,Technology,M
+Chang Jianming & family,58,Manufacturing,M
+Richard Chang,76,Real Estate,M
+Chen Xuehua,62,Metals & Mining,M
+Chen Yin,50,Manufacturing,M
+Chin Jong Hwa,64,Automotive,M
+R. Marcelo Claure,52,Telecom,M
+Alberto Cortina,77,Finance & Investments,M
+Eduardo Costantini,76,Real Estate,M
+Wenjun Dai,54,Food & Beverage,M
+Anand Deshpande,60,Technology,M
+Aydin Dogan,86,Media & Entertainment,M
+Weimin Du,59,Healthcare,M
+Timothy Dunn & family,67,Energy,M
+Keiko Erikawa,74,Media & Entertainment,F
+Yoichi Erikawa,72,Media & Entertainment,M
+Philip Fayer,45,Finance & Investments,M
+Marvy Finger,87,Real Estate,M
+Joel Greenberg,65,Finance & Investments,M
+He Zhiping,59,Finance & Investments,M
+Hoi Kin Hong,70,Real Estate,M
+Gregg Hymowitz,57,Finance & Investments,M
+Anurang Jain,61,Manufacturing,M
+Jiang Guiting & family,64,Manufacturing,M
+Jin Xin,56,Manufacturing,M
+Conni Jonsson,62,Finance & Investments,M
+George Joseph,101,Finance & Investments,M
+Laurent Junique,57,Technology,M
+Zbigniew Juroszek & family,60,Diversified,M
+Alexander Karp,55,Technology,M
+Joe Kiani,58,Healthcare,M
+Seth Klarman,65,Finance & Investments,M
+Kagemasa Kozuki,82,Technology,M
+Michael Krasny,69,Technology,M
+Eduard Kucera,70,Technology,M
+Kristo Käärmann,42,Finance & Investments,M
+Lee Hae-jin,55,Technology,M
+Art Levinson,73,Diversified,M
+Li Denghai,73,Food & Beverage,M
+Fengluan Li,61,Diversified,F
+Li Yongqing,58,Manufacturing,M
+Li Zhigang,46,Manufacturing,M
+Liu Gexin & family,71,Healthcare,M
+Lu Hongyan,45,Media & Entertainment,M
+Lv Jianming,58,Healthcare,M
+Yasseen Mansour,61,Diversified,M
+Charlwin Mao,64,Fashion & Retail,M
+George Marcus,81,Real Estate,M
+Yves-Loic Martin,57,Healthcare,M
+Carsten Maschmeyer,63,Finance & Investments,M
+Martin Moller Nielsen,58,Logistics,M
+Jahm Najafi,60,Finance & Investments,M
+Randal Nardone,67,Finance & Investments,M
+Nguyen Dang Quang,59,Food & Beverage,M
+Kazuo Okada,80,Gambling & Casinos,M
+John Oyler,55,Healthcare,M
+George Pedersen & family,87,Manufacturing,M
+Qu Miranda,38,Fashion & Retail,F
+Jupally Rameshwar Rao,67,Real Estate,M
+G. M. Rao,72,Logistics,M
+P.V. Ramprasad Reddy,65,Healthcare,M
+Igor Rotenberg,49,Diversified,M
+Seifeddin Rustamov,60,Manufacturing,M
+Hajime Satomi,81,Gambling & Casinos,M
+James Scapa,66,Technology,M
+Devi Shetty,70,Healthcare,M
+Albert Shigaboutdinov,70,Diversified,M
+Denis Shtengelov,50,Food & Beverage,M
+Fei Song,56,Manufacturing,M
+Konstantin Strukov & family,64,Metals & Mining,M
+Rustem Sulteev,69,Energy,M
+Clemens Toennies,66,Food & Beverage,M
+John Van Lieshout,77,Real Estate,M
+Pongsak Viddayakorn,89,Healthcare,M
+Wang Jianguo,63,Fashion & Retail,M
+Junjin Wang,54,Service,M
+Wang Mingwang,55,Manufacturing,M
+Wei Lidong & family,47,Technology,M
+Myron Wentz,83,Fashion & Retail,M
+Wu Xiaoge,50,Manufacturing,F
+Wu Xushun & family,74,Diversified,M
+Xiong Xiaochuan,57,Healthcare,M
+Xu Shaochun,60,Technology,M
+Yan Jane & family,53,Technology,F
+Zeng Chaoyi,54,Manufacturing,M
+Peng Zhao,52,Service,M
+Zhao Tongtong,56,Service,F
+Kostyantin Zhevago,49,Metals & Mining,M
+Zong Yanmin,64,Manufacturing,M
+Sanjay Agarwal,52,Finance & Investments,M
+Joao Alves de Queiroz Filho,70,Diversified,M
+Michael Arougheti,50,Finance & Investments,M
+Tope Awotona,41,Technology,M
+Mehmet Aydinlar,66,Healthcare,M
+Bai Houshan,59,Energy,M
+Thomas Bailey,86,Finance & Investments,M
+Jeffrey Cheah,78,Real Estate,M
+Chen Xianbao & family,63,Food & Beverage,M
+Cheng Xianfeng,54,Healthcare,M
+Darwin Deason,82,Service,M
+Ashwin Desai,71,Manufacturing,M
+Richard Desmond,71,Media & Entertainment,M
+Sefik Yilmaz Dizdar,85,Fashion & Retail,M
+Farhad Ebrahimi,84,Manufacturing,M
+Fang Hongbo,56,Manufacturing,M
+Zsolt Felcsuti,51,Manufacturing,M
+Ben Francis,30,Fashion & Retail,M
+Gary Friedman,65,Fashion & Retail,M
+Balkrishan Goenka,56,Manufacturing,M
+Lawrence Golub,63,Finance & Investments,M
+Saroj Rani Gupta,72,Manufacturing,F
+Anthony Hall,67,Technology,M
+Richard Hayne,75,Fashion & Retail,M
+Michael Heine,73,Finance & Investments,M
+Orion Hindawi,43,Technology,M
+Huang Guanlin,58,Fashion & Retail,M
+Sam Hupert,68,Technology,M
+Mohammed Ibrahim,76,Telecom,M
+David Kaplan,55,Finance & Investments,M
+Kim Kardashian,42,Fashion & Retail,F
+Ke Guihua,57,Manufacturing,M
+Ke Yunfeng & family,56,Healthcare,M
+Alexander Klyachin,55,Real Estate,M
+Guy Laliberté,63,Media & Entertainment,M
+Lee Su-jin,45,Technology,M
+Li Guoqing,53,Manufacturing,M
+Li Li,59,Healthcare,M
+Li Ruiqiang,43,Healthcare,M
+Zhen Li & family,59,Manufacturing,M
+Guangwei Liang,59,Manufacturing,M
+Liu Ming Hui,60,Energy,M
+Frederic Luddy,68,Technology,M
+Mao Zhongwu,60,Manufacturing,M
+Lorinc Meszaros,57,Diversified,M
+Jeffrey Michael & family,66,Technology,M
+Alan Miller & family,85,Healthcare,M
+Ulrich Mommert & family,82,Automotive,M
+Scott Nuttall,50,Finance & Investments,M
+Jonathan Oringer,48,Technology,M
+Vitaly Orlov,58,Food & Beverage,M
+Jose Isaac Peres & family,82,Real Estate,M
+Markus Persson,43,Media & Entertainment,M
+Mark Pincus,57,Technology,M
+Forrest Preston,90,Healthcare,M
+Qian Ying,57,Food & Beverage,F
+Jimmy Rane,76,Manufacturing,M
+Andrei Rappoport,59,Finance & Investments,M
+Bennett Rosenthal,59,Finance & Investments,M
+Thomas Sandell,62,Finance & Investments,M
+Gerald Schwartz,81,Finance & Investments,M
+Antonio Luiz Seabra,80,Fashion & Retail,M
+Eric Ya Shen,52,Technology,M
+Sytse 'Sid' Sijbrandij,43,Technology,M
+Abhay Soi,49,Healthcare,M
+Mike Speiser,52,Technology,M
+Michael Steinhardt,82,Finance & Investments,M
+Ion Stoica,58,Technology,M
+Eddy Sugianto,77,Metals & Mining,M
+Luc Tack,61,Manufacturing,M
+Tony Tan Caktiong,70,Food & Beverage,M
+Xiuguo Tang,59,Manufacturing,M
+Sam Tarascio,78,Real Estate,M
+Ching Bor Tung,60,Manufacturing,M
+Joop van den Ende,81,Media & Entertainment,M
+Ruben Vardanyan & family,54,Finance & Investments,M
+Sandro Veronesi & family,63,Fashion & Retail,M
+Thongma Vijitpongpun,65,Real Estate,M
+Thomas von Koch,57,Finance & Investments,M
+Wang Fuji,64,Healthcare,M
+Wang Shih-Chung,61,Manufacturing,M
+Wang Xiaoshen,54,Manufacturing,M
+J. Wayne Weaver,87,Diversified,M
+Cameron Winklevoss,41,Finance & Investments,M
+Tyler Winklevoss,41,Finance & Investments,M
+Wu Yonghua,52,Fashion & Retail,M
+Xia Xinde,58,Manufacturing,M
+Wenbo Xiang,60,Manufacturing,M
+Xu Jin,58,Food & Beverage,M
+Xu Shijun & family,60,Manufacturing,M
+Wanmao Xu,78,Service,M
+Xu Yuejuan,61,Manufacturing,F
+Vadim Yakunin,60,Healthcare,M
+Yang Yunyun,46,Fashion & Retail,F
+Matei Zaharia,37,Technology,M
+Zan Shengda,60,Diversified,M
+Zhang Xuezheng,47,Technology,M
+Zhang Yin,66,Manufacturing,F
+Ning Zhao,56,Healthcare,F
+Zhou Wen & family,58,Manufacturing,M
+Zhu Xingliang,63,Construction & Engineering,M
+Hari Krishan Agarwal,66,Fashion & Retail,M
+Farkhad Akhmedov,67,Energy,M
+Joseph Bae,51,Finance & Investments,M
+Sara Blakely,52,Fashion & Retail,F
+Lloyd Blankfein,68,Finance & Investments,M
+Henadiy Boholyubov,61,Diversified,M
+Stephane Bonvin,56,Real Estate,M
+Oleg Boyko,58,Diversified,M
+Ryan Breslow,28,Technology,M
+Marina Budiman,61,Technology,F
+Cai Hongbin,64,Healthcare,M
+Cao Kejian,60,Manufacturing,M
+Chang Jing,40,Technology,M
+Chen Baohua,61,Healthcare,M
+Gang Chen,55,Energy,M
+Liying Chen,47,Logistics,F
+Tony Chen,73,Technology,M
+Chen Xueling,55,Manufacturing,F
+Cheng Lili,58,Food & Beverage,M
+Cho Jyh-jer,64,Technology,M
+Weili Dai,61,Technology,F
+Deng Yingzhong,72,Manufacturing,M
+Shlomo Eliahu,87,Finance & Investments,M
+Henry Engelhardt,65,Finance & Investments,M
+Gabriel Escarrer,88,Service,M
+Gleb Fetisov,56,Telecom,M
+Paul Fireman,79,Fashion & Retail,M
+Bernd Freier,66,Fashion & Retail,M
+Donald Friese,82,Manufacturing,M
+Gan Zhongru,74,Healthcare,M
+David Golub,60,Finance & Investments,M
+Pavel Golubkov,47,Real Estate,M
+Cristina Green,74,Fashion & Retail,F
+Philip Green,65,Fashion & Retail,M
+He Zuxun,57,Food & Beverage,M
+David Hindawi,78,Technology,M
+Huang Shan,52,Technology,M
+Huang Xiaofen & family,61,Technology,F
+Chatchai Kaewbootta,71,Finance & Investments,M
+Nikhil Kamath,36,Finance & Investments,M
+Fumio Kaneko,66,Service,M
+Ali Metin Kazanci,88,Energy,M
+Kangbao Ke & family,60,Healthcare,M
+Carsten Koerl,58,Sports,M
+Andrei Kosogov,62,Energy,M
+Yogesh Kothari,74,Manufacturing,M
+Manuel Lao Hernández,78,Gambling & Casinos,M
+Lee Joong-keun,82,Construction & Engineering,M
+Lin Zhijun,47,Healthcare,M
+Lin Zhixiong & family,49,Healthcare,M
+Lu Rongfu,52,Telecom,M
+Lyu Yixiong,60,Fashion & Retail,M
+Soichiro Minami,46,Technology,M
+Dmitry Nikolaev,56,Energy,M
+Adrian Paval,54,Fashion & Retail,M
+Antonio Percassi,69,Diversified,M
+Kevin Plank,50,Fashion & Retail,M
+Pu Zhongjie & family,60,Healthcare,M
+Rao Wei & family,58,Healthcare,M
+Matthew Roszak,50,Finance & Investments,M
+Paul Sciarra,42,Technology,M
+Dean Solon,58,Energy,M
+Michael Spencer,67,Finance & Investments,M
+Joseph Steinberg,79,Finance & Investments,M
+Manny Stul,73,Manufacturing,M
+Sun Hongjun,49,Technology,M
+Sun Weijie,59,Manufacturing,M
+Sehat Sutardja,61,Technology,M
+Min-Liang Tan,45,Media & Entertainment,M
+Tan Yu Yeh,52,Fashion & Retail,M
+Tang Aoqi & family,77,Automotive,M
+Tsao Ter-fung,76,Food & Beverage,M
+Tung Ching Sai,58,Manufacturing,M
+Arkady Volozh,59,Technology,M
+Wan Long,82,Food & Beverage,M
+Lars Wingefors,46,Media & Entertainment,M
+Allan Wong,73,Manufacturing,M
+Tiger Woods,47,Sports,M
+Horst Wortmann,81,Fashion & Retail,M
+Wu Kaiting,53,Telecom,M
+Wu Li-gann,82,Manufacturing,M
+Wu Xiangdong,54,Food & Beverage,M
+Xiu Laigui,68,Healthcare,M
+Xu Jiangnan,61,Healthcare,M
+Xue Jiping,72,Telecom,M
+Yao Hsiao Tung,83,Manufacturing,M
+Ye Qiongjiu,68,Technology,F
+Yanqiao Ye,53,Food & Beverage,M
+Yeh Kuo-I,81,Manufacturing,M
+Yu Faxiang,51,Media & Entertainment,M
+Kapeng Zhang,58,Construction & Engineering,M
+Zhang Xuansong,51,Fashion & Retail,M
+Zhang Xuewu,48,Food & Beverage,M
+Zhu Yiming,50,Technology,M
+Zhu Zhaojiang,49,Manufacturing,M
+Christian Angermayer,44,Finance & Investments,M
+Ryuji Arai,76,Fashion & Retail,M
+Jimmy Buffett,76,Media & Entertainment,M
+Edouard Carmignac,75,Finance & Investments,M
+Chen Jiancheng,64,Manufacturing,M
+Rui Chen,45,Media & Entertainment,M
+Chen Shiliang,59,Manufacturing,M
+Tianqiao Chen,49,Technology,M
+Yuantai Chen,55,Energy,M
+Cheng Antares,65,Food & Beverage,M
+Kochouseph Chittilappilly,72,Manufacturing,M
+John Christodoulou,57,Real Estate,M
+Pollyanna Chu,64,Finance & Investments,F
+Turgay Ciner,67,Diversified,M
+Benoit Dageville,56,Technology,M
+Mark Dixon,63,Real Estate,M
+Du Yulin & family,50,Technology,M
+Feng Yuxia,58,Healthcare,F
+Gao Yunfeng,56,Manufacturing,M
+Jianming Geng,60,Real Estate,M
+Sven Hagströmer,79,Finance & Investments,M
+Hang Hong,55,Manufacturing,F
+He Yamin & family,66,Manufacturing,M
+Hong Feng,46,Technology,M
+Hu Gengxi & family,59,Healthcare,M
+Danilo Iervolino,45,Technology,M
+Hedda im Brahm-Droege,68,Finance & Investments,F
+Inder Jaisinghani,70,Manufacturing,M
+LeBron James,38,Sports,M
+Morris Kahn,93,Technology,M
+Ashok Kajaria,75,Manufacturing,M
+Marcelo Kalim,53,Finance & Investments,M
+Ken Kendrick,79,Sports,M
+Brad Keywell,53,Technology,M
+Muhammed Aziz Khan,68,Energy,M
+Kim Jung-woong,48,Fashion & Retail,M
+Ihor Kolomoyskyy,60,Diversified,M
+Kong Jian Min,55,Real Estate,M
+Michael Kum,78,Real Estate,M
+Richard Kurtz,82,Real Estate,M
+Lev Kvetnoi,57,Finance & Investments,M
+Michiel Le Roux,73,Finance & Investments,M
+Li Wanqiang,45,Technology,M
+Liu Baolin,69,Fashion & Retail,M
+Loo Choon Yong,74,Healthcare,M
+Lu Yonghua & family,59,Technology,M
+Ma Xiuhui,52,Manufacturing,F
+Apoorva Mehta,36,Technology,M
+Andrei Molchanov,51,Construction & Engineering,M
+Fulvio Montipò & family,78,Manufacturing,M
+Tyler Perry,53,Media & Entertainment,M
+Réal Plourde,64,Fashion & Retail,M
+George Sakellaris,76,Energy,M
+Eddy Kusnadi Sariaatmadja,69,Media & Entertainment,M
+Neerja Sethi,68,Technology,F
+Scott Smith,73,Technology,M
+Petter Stordalen & family,60,Service,M
+Ivan Streshinsky,53,Diversified,M
+Sergei Sudarikov,51,Finance & Investments,M
+David Tran & family,77,Food & Beverage,M
+Kenzo Tsujimoto,82,Media & Entertainment,M
+Murat Vargi,75,Telecom,M
+Shigefumi Wada,70,Technology,M
+Wan Feng & family,54,Healthcare,M
+Wang Jianfeng & family,53,Automotive,M
+Masaru Wasami,77,Logistics,M
+V. Prem Watsa,72,Finance & Investments,M
+Wen Pengcheng & family,60,Food & Beverage,M
+Toto Wolff,51,Sports,M
+Xie Bingzheng & family,54,Fashion & Retail,M
+Xu Gang,59,Manufacturing,M
+Yan Junxu,53,Manufacturing,M
+Yi Xianzhong & family,63,Healthcare,M
+Yu Rong,51,Healthcare,M
+Zhang Gongyun,60,Manufacturing,M
+Zhang Guiping & family,71,Real Estate,M
