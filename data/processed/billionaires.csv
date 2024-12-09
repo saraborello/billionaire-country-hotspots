@@ -358,7 +358,7 @@ Ugur Sahin,57.0,Healthcare,M
 Chip Wilson,66.0,Fashion & Retail,M
 Jim Davis & family,79.0,Manufacturing,M
 Murali Divi & family,72.0,Healthcare,M
-Marcos Galperin,,Technology,M
+Marcos Galperin,52.0,Technology,M
 Tom Golisano,81.0,Service,M
 Jonathan Gray,53.0,Finance & Investments,M
 Bidzina Ivanishvili,67.0,Finance & Investments,M
@@ -841,7 +841,18 @@ Xuande Hua & family,79.0,Healthcare,M
 Kalanithi Maran,57.0,Media & Entertainment,M
 Jed McCaleb,48.0,Finance & Investments,M
 Fatih Ozmen,65.0,Manufacturing,M
-Pan Laican,,Food & Beverage,M
+Pan Laican,"<bound method Series.mean of 0       51.0
+1       59.0
+2       78.0
+3       92.0
+4       67.0
+        ... 
+1807    53.0
+1808    63.0
+1809    51.0
+1810    60.0
+1811    71.0
+Name: age, Length: 1812, dtype: float64>",Food & Beverage,M
 Tor Peterson,58.0,Metals & Mining,M
 Jinxing Qi,61.0,Real Estate,M
 Qiu Jianping & family,61.0,Manufacturing,M
@@ -871,10 +882,32 @@ Erman Ilicak,55.0,Construction & Engineering,M
 Long Jiang,49.0,Technology,M
 Bruce Karsh,67.0,Finance & Investments,M
 Bom Kim,44.0,Technology,M
-Jianping Lai,,Food & Beverage,M
+Jianping Lai,"<bound method Series.mean of 0       51.0
+1       59.0
+2       78.0
+3       92.0
+4       67.0
+        ... 
+1807    53.0
+1808    63.0
+1809    51.0
+1810    60.0
+1811    71.0
+Name: age, Length: 1812, dtype: float64>",Food & Beverage,M
 Lam Kong,58.0,Healthcare,M
 Stephen Lansdown,70.0,Finance & Investments,M
-Li Haiyan,,Food & Beverage,F
+Li Haiyan,"<bound method Series.mean of 0       51.0
+1       59.0
+2       78.0
+3       92.0
+4       67.0
+        ... 
+1807    53.0
+1808    63.0
+1809    51.0
+1810    60.0
+1811    71.0
+Name: age, Length: 1812, dtype: float64>",Food & Beverage,F
 Hua Li,45.0,Finance & Investments,M
 Clayton Mathile,82.0,Food & Beverage,M
 Mi Enhua,65.0,Fashion & Retail,M
@@ -967,14 +1000,36 @@ Jared Isaacman,40.0,Technology,M
 Eugene Kaspersky,57.0,Technology,M
 Artem Khachatryan,48.0,Fashion & Retail,M
 Andrei Krivenko,47.0,Food & Beverage,M
-Lam Wai-ying,,Manufacturing,F
+Lam Wai-ying,"<bound method Series.mean of 0       51.0
+1       59.0
+2       78.0
+3       92.0
+4       67.0
+        ... 
+1807    53.0
+1808    63.0
+1809    51.0
+1810    60.0
+1811    71.0
+Name: age, Length: 1812, dtype: float64>",Manufacturing,F
 Marc Lasry,62.0,Finance & Investments,M
 Christian Latouche & family,82.0,Finance & Investments,M
 Theodore Leonsis,67.0,Sports,M
 Liu Chengyu & family,60.0,Manufacturing,M
 Sergey Lomakin,49.0,Fashion & Retail,M
 Daniel Lubetzky,54.0,Food & Beverage,M
-Melissa Ma,,Technology,F
+Melissa Ma,"<bound method Series.mean of 0       51.0
+1       59.0
+2       78.0
+3       92.0
+4       67.0
+        ... 
+1807    53.0
+1808    63.0
+1809    51.0
+1810    60.0
+1811    71.0
+Name: age, Length: 1812, dtype: float64>",Technology,F
 Kiran Mazumdar-Shaw,70.0,Healthcare,F
 Mu Rongjun,43.0,Technology,M
 Eugene Murtagh,80.0,Manufacturing,M
@@ -1054,7 +1109,18 @@ Julio Bozano,87.0,Finance & Investments,M
 Nikolai Buinov,55.0,Energy,M
 Jianxing Che,56.0,Fashion & Retail,M
 Huxiong Chen,52.0,Manufacturing,M
-Chen Qiongxiang,,Energy,F
+Chen Qiongxiang,"<bound method Series.mean of 0       51.0
+1       59.0
+2       78.0
+3       92.0
+4       67.0
+        ... 
+1807    53.0
+1808    63.0
+1809    51.0
+1810    60.0
+1811    71.0
+Name: age, Length: 1812, dtype: float64>",Energy,F
 Chen Zhisong,57.0,Technology,M
 James Dinan,63.0,Finance & Investments,M
 Dong Fan,53.0,Healthcare,M
@@ -1077,7 +1143,18 @@ G. Rajendran,80.0,Fashion & Retail,M
 Ren Jianhua,66.0,Manufacturing,M
 Larry Robbins,53.0,Finance & Investments,M
 Dwight Schar,81.0,Construction & Engineering,M
-Shao Jianxiong,,Energy,M
+Shao Jianxiong,"<bound method Series.mean of 0       51.0
+1       59.0
+2       78.0
+3       92.0
+4       67.0
+        ... 
+1807    53.0
+1808    63.0
+1809    51.0
+1810    60.0
+1811    71.0
+Name: age, Length: 1812, dtype: float64>",Energy,M
 Qinxiang Shao,68.0,Manufacturing,M
 Hua Shen,60.0,Technology,M
 Shi Wen-long,95.0,Manufacturing,M
@@ -1147,7 +1224,18 @@ Giovanni Arvedi,85.0,Metals & Mining,M
 Bang Si-hyuk,50.0,Media & Entertainment,M
 David Booth,77.0,Finance & Investments,M
 Jim Breyer,61.0,Technology,M
-Chen Kaichen,,Manufacturing,M
+Chen Kaichen,"<bound method Series.mean of 0       51.0
+1       59.0
+2       78.0
+3       92.0
+4       67.0
+        ... 
+1807    53.0
+1808    63.0
+1809    51.0
+1810    60.0
+1811    71.0
+Name: age, Length: 1812, dtype: float64>",Manufacturing,M
 Carl DeSantis,83.0,Food & Beverage,M
 Marek Dospiva,53.0,Finance & Investments,M
 Keith Dunleavy & family,53.0,Healthcare,M
@@ -1171,7 +1259,18 @@ James Leininger,78.0,Healthcare,M
 Xuhui Li,54.0,Food & Beverage,F
 Jimmy John Liautaud,59.0,Food & Beverage,M
 Lin Lairong & family,54.0,Metals & Mining,M
-Lu Di,,Technology,M
+Lu Di,"<bound method Series.mean of 0       51.0
+1       59.0
+2       78.0
+3       92.0
+4       67.0
+        ... 
+1807    53.0
+1808    63.0
+1809    51.0
+1810    60.0
+1811    71.0
+Name: age, Length: 1812, dtype: float64>",Technology,M
 Palmer Luckey,30.0,Technology,M
 Duncan MacMillan,85.0,Finance & Investments,M
 Yusaku Maezawa,47.0,Technology,M
@@ -1231,7 +1330,7 @@ Hui Lin Chit,69.0,Manufacturing,M
 Tianjiang Jia & family,60.0,Metals & Mining,M
 Zhaobai Jiang,59.0,Real Estate,M
 Sergei Katsiev,65.0,Fashion & Retail,M
-Kim Jae-young,,Media & Entertainment,M
+Kim Jae-young,51.0,Media & Entertainment,M
 Randal J. Kirk,69.0,Healthcare,M
 Pyotr Kondrashev,73.0,Manufacturing,M
 Eiichi Kuriwada,76.0,Logistics,M
@@ -1338,9 +1437,31 @@ Thomas Steyer,65.0,Finance & Investments,M
 Sergei Studennikov & family,56.0,Fashion & Retail,M
 Su Suyu & family,74.0,Real Estate,F
 Kevin Systrom,39.0,Technology,M
-Tan Lili,,Food & Beverage,F
+Tan Lili,"<bound method Series.mean of 0       51.0
+1       59.0
+2       78.0
+3       92.0
+4       67.0
+        ... 
+1807    53.0
+1808    63.0
+1809    51.0
+1810    60.0
+1811    71.0
+Name: age, Length: 1812, dtype: float64>",Food & Beverage,F
 Tang Binsen,40.0,Food & Beverage,M
-Tang Rui,,Technology,M
+Tang Rui,"<bound method Series.mean of 0       51.0
+1       59.0
+2       78.0
+3       92.0
+4       67.0
+        ... 
+1807    53.0
+1808    63.0
+1809    51.0
+1810    60.0
+1811    71.0
+Name: age, Length: 1812, dtype: float64>",Technology,M
 Prachak Tangkaravakoon,79.0,Manufacturing,M
 Jeff Tangney,50.0,Healthcare,M
 Yuequn Tao,63.0,Fashion & Retail,M
@@ -1353,13 +1474,46 @@ Weng Xianding,61.0,Healthcare,M
 Farris Wilks,71.0,Energy,M
 Gordon Wu,87.0,Real Estate,M
 Xiong Wu,47.0,Technology,M
-Xu Zhenhua,,Media & Entertainment,M
+Xu Zhenhua,"<bound method Series.mean of 0       51.0
+1       59.0
+2       78.0
+3       92.0
+4       67.0
+        ... 
+1807    53.0
+1808    63.0
+1809    51.0
+1810    60.0
+1811    71.0
+Name: age, Length: 1812, dtype: float64>",Media & Entertainment,M
 Xu Zhihan,50.0,Technology,M
 Tingdong Yang,62.0,Food & Beverage,M
 Michael Minhong Yu,61.0,Service,M
-Justin Yuan,,Media & Entertainment,M
+Justin Yuan,"<bound method Series.mean of 0       51.0
+1       59.0
+2       78.0
+3       92.0
+4       67.0
+        ... 
+1807    53.0
+1808    63.0
+1809    51.0
+1810    60.0
+1811    71.0
+Name: age, Length: 1812, dtype: float64>",Media & Entertainment,M
 Zhang Bangxin,43.0,Service,M
-Zhang Hong,,Energy,F
+Zhang Hong,"<bound method Series.mean of 0       51.0
+1       59.0
+2       78.0
+3       92.0
+4       67.0
+        ... 
+1807    53.0
+1808    63.0
+1809    51.0
+1810    60.0
+1811    71.0
+Name: age, Length: 1812, dtype: float64>",Energy,F
 Zhou Zongwen & family,66.0,Fashion & Retail,M
 Alberto Alcocer,80.0,Finance & Investments,M
 Nigel Austin,52.0,Fashion & Retail,M
@@ -1496,7 +1650,18 @@ Liu Gexin & family,71.0,Healthcare,M
 Lu Hongyan,45.0,Media & Entertainment,M
 Lv Jianming,58.0,Healthcare,M
 Yasseen Mansour,61.0,Diversified,M
-Charlwin Mao,,Fashion & Retail,M
+Charlwin Mao,"<bound method Series.mean of 0       51.0
+1       59.0
+2       78.0
+3       92.0
+4       67.0
+        ... 
+1807    53.0
+1808    63.0
+1809    51.0
+1810    60.0
+1811    71.0
+Name: age, Length: 1812, dtype: float64>",Fashion & Retail,M
 George Marcus,81.0,Real Estate,M
 Yves-Loic Martin,57.0,Healthcare,M
 Carsten Maschmeyer,63.0,Finance & Investments,M
@@ -1538,7 +1703,18 @@ Zeng Chaoyi,54.0,Manufacturing,M
 Peng Zhao,52.0,Service,M
 Zhao Tongtong,56.0,Service,F
 Kostyantin Zhevago,49.0,Metals & Mining,M
-Zong Yanmin,,Manufacturing,M
+Zong Yanmin,"<bound method Series.mean of 0       51.0
+1       59.0
+2       78.0
+3       92.0
+4       67.0
+        ... 
+1807    53.0
+1808    63.0
+1809    51.0
+1810    60.0
+1811    71.0
+Name: age, Length: 1812, dtype: float64>",Manufacturing,M
 Sanjay Agarwal,52.0,Finance & Investments,M
 Joao Alves de Queiroz Filho,70.0,Diversified,M
 Michael Arougheti,50.0,Finance & Investments,M
@@ -1618,7 +1794,18 @@ Ruben Vardanyan & family,54.0,Finance & Investments,M
 Sandro Veronesi & family,63.0,Fashion & Retail,M
 Thongma Vijitpongpun,65.0,Real Estate,M
 Thomas von Koch,57.0,Finance & Investments,M
-Wang Fuji,,Healthcare,M
+Wang Fuji,"<bound method Series.mean of 0       51.0
+1       59.0
+2       78.0
+3       92.0
+4       67.0
+        ... 
+1807    53.0
+1808    63.0
+1809    51.0
+1810    60.0
+1811    71.0
+Name: age, Length: 1812, dtype: float64>",Healthcare,M
 Wang Shih-Chung,61.0,Manufacturing,M
 Wang Xiaoshen,54.0,Manufacturing,M
 J. Wayne Weaver,87.0,Diversified,M
@@ -1650,7 +1837,18 @@ Stephane Bonvin,56.0,Real Estate,M
 Oleg Boyko,58.0,Diversified,M
 Ryan Breslow,28.0,Technology,M
 Marina Budiman,61.0,Technology,F
-Cai Hongbin,,Healthcare,M
+Cai Hongbin,"<bound method Series.mean of 0       51.0
+1       59.0
+2       78.0
+3       92.0
+4       67.0
+        ... 
+1807    53.0
+1808    63.0
+1809    51.0
+1810    60.0
+1811    71.0
+Name: age, Length: 1812, dtype: float64>",Healthcare,M
 Cao Kejian,60.0,Manufacturing,M
 Chang Jing,40.0,Technology,M
 Chen Baohua,61.0,Healthcare,M
@@ -1659,7 +1857,18 @@ Liying Chen,47.0,Logistics,F
 Tony Chen,73.0,Technology,M
 Chen Xueling,55.0,Manufacturing,F
 Cheng Lili,58.0,Food & Beverage,M
-Cho Jyh-jer,,Technology,M
+Cho Jyh-jer,"<bound method Series.mean of 0       51.0
+1       59.0
+2       78.0
+3       92.0
+4       67.0
+        ... 
+1807    53.0
+1808    63.0
+1809    51.0
+1810    60.0
+1811    71.0
+Name: age, Length: 1812, dtype: float64>",Technology,M
 Weili Dai,61.0,Technology,F
 Deng Yingzhong,72.0,Manufacturing,M
 Shlomo Eliahu,87.0,Finance & Investments,M
@@ -1672,8 +1881,8 @@ Donald Friese,82.0,Manufacturing,M
 Gan Zhongru,74.0,Healthcare,M
 David Golub,60.0,Finance & Investments,M
 Pavel Golubkov,47.0,Real Estate,M
-Cristina Green,,Fashion & Retail,F
-Philip Green,,Fashion & Retail,M
+Cristina Green,74.0,Fashion & Retail,F
+Philip Green,65.0,Fashion & Retail,M
 He Zuxun,57.0,Food & Beverage,M
 David Hindawi,78.0,Technology,M
 Huang Shan,52.0,Technology,M
@@ -1786,7 +1995,18 @@ Apoorva Mehta,36.0,Technology,M
 Andrei Molchanov,51.0,Construction & Engineering,M
 Fulvio Montipò & family,78.0,Manufacturing,M
 Tyler Perry,53.0,Media & Entertainment,M
-Réal Plourde,,Fashion & Retail,M
+Réal Plourde,"<bound method Series.mean of 0       51.0
+1       59.0
+2       78.0
+3       92.0
+4       67.0
+        ... 
+1807    53.0
+1808    63.0
+1809    51.0
+1810    60.0
+1811    71.0
+Name: age, Length: 1812, dtype: float64>",Fashion & Retail,M
 George Sakellaris,76.0,Energy,M
 Eddy Kusnadi Sariaatmadja,69.0,Media & Entertainment,M
 Neerja Sethi,68.0,Technology,F
