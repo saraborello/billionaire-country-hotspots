@@ -1,6 +1,6 @@
 # What Drives Billionaire Booms in Certain Nations?
 
-Link to the dashboard: https://public.tableau.com/app/profile/keita.jacopo.vigan./viz/BillionairesHotspot/Dashboard1
+Link to the dashboard: https://public.tableau.com/app/profile/keita.jacopo.vigan./viz/BillionairesCountryHotspots/Dashboard1
 
 ### Indices for Datasets
 
